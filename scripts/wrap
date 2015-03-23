@@ -1,0 +1,91 @@
+#! /usr/bin/python
+
+import os, sys, re
+
+wrap_len = 78
+form_feed_char = chr(12)
+
+def ends_a_sentence(line):
+    c = line[-1]
+    if c == '.' or c == '?' or c == '!':
+        return True
+    if c == '"':
+        c = line[-2]
+        if c == '.' or c == '?' or c == '!':
+            return True
+    return False
+
+def make_paragraphs(lines):
+    lines = [x.strip() for x in lines]
+    paragraphs = []
+    ender = False
+    lines_end = len(lines)
+    current = ''
+    i = 0
+    while i < lines_end:
+        line = lines[i]
+        if not line:
+            ender = True
+        elif len(line) < 60 and ends_a_sentence(line):
+            ender = True
+        elif i + 1 < lines_end and not lines[i + 1]:
+            ender = True
+        if line:
+            if current:
+                current += ' '
+            current += line
+        if ender:
+            if current:
+                paragraphs.append(current)
+                current = ''
+        i += 1
+    if current:
+        paragraphs.append(current)
+    return paragraphs
+
+def find_wrap_point(line):
+    i = wrap_len
+    while True:
+        if line[i] == ' ':
+            return i
+        i -= 1
+
+def wrap(fname, new_fname):
+    with open(fname, 'r') as f:
+        lines = f.read()
+        
+    # Some of our original docs have form feed chars instead of line breaks.
+    # Not sure why...
+    lines = lines.replace(form_feed_char, '\n')
+    # If there are any docs with CRLF, convert to just LF
+    lines = lines.replace('\r\n', '\n')
+    # If there are any docs with just CR, convert to just LF
+    lines = lines.replace('\r', '\n')
+    lines = lines.replace('\t', ' ')
+    # Replace utf8 nbsp with space
+    lines = lines.replace('\xc2\xa0', ' ')
+    # Replace utf8 line sep with space
+    lines = lines.replace('\xe2\x80\xa8', ' ')
+    # Collapse long runs of whitespace to a single char.
+    while lines.find('  ') > -1:
+        lines = lines.replace('  ', ' ')
+    lines = lines.split('\n')
+    
+    paragraphs = make_paragraphs(lines)
+    with open(new_fname, 'w') as f:
+        for p in paragraphs:
+            while len(p) > wrap_len:
+                idx = find_wrap_point(p)
+                f.write(p[:idx])
+                f.write('\n')
+                p = p[idx + 1:]
+            if p:
+                f.write(p)
+            f.write('\n\n')
+        f.close()
+
+if __name__ == '__main__':
+    new_fname = sys.argv[1]
+    if len(sys.argv) > 2:
+        new_fname = sys.argv[2]
+    wrap(sys.argv[1], new_fname)
