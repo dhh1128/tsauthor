@@ -1,0 +1,12 @@
+#! /usr/bin/python
+
+import os, sys, re
+
+def unraw(fname):
+    if 'raw' in fname:
+        new_fname = fname.replace('raw', '').replace('--', '-').replace('-.', '.')
+        os.rename(fname, new_fname)
+
+if __name__ == '__main__':
+    for fname in sys.argv[1:]:
+        unraw(fname)
