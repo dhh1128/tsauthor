@@ -1,0 +1,102 @@
+#! /usr/bin/python
+
+import os, sys, re
+
+em_dash = '\xe2\x80\x94'
+en_dash = '\xe2\x80\x93'
+bom_pat = re.compile(r'books?\s+of\s+mormon', re.IGNORECASE)
+church_pat = re.compile(r'(the\s+)?church\s+of\s+jesus\s+christ\s+of\s+latter(\s+|-)day\s+saints', re.IGNORECASE)
+lds_pat = re.compile(r'latter(\s+|-)day\s+saints', re.IGNORECASE)
+roman_number = r'[cCxXvViIlL]+'
+decimal_number = r'\d{1,3}'
+verses = r'%s((,\s+|\s?-\s*)%s)*' % (decimal_number, decimal_number)
+chapter = r'(%s|%s)' % (roman_number, decimal_number)
+verse_indicator = r'(\s?[.,]\s+|:|\s+[vV](erse)?s?\.?\s?)'
+optional_verses = r'(%s%s)?' % (verse_indicator, verses)
+chapter_and_verses = r'[.,]?\s+([Cc]h(ap(ter)?)?\.?\s+)?' + chapter + optional_verses + '(?=\W)'
+
+def make_scripture_pat(prefix, books, require_more_than_book=False):
+    if require_more_than_book:
+        pat = r'%s[a-z]*%s' % (books, chapter_and_verses)
+    else:
+        pat = r'%s[a-z]*(%s)?' % (books, chapter_and_verses)
+    pat = prefix + '([Bb]ook\s+of\s+)?' + pat
+    #print(pat)
+    return pat
+
+proper_name = r'[A-Z][a-z]+'
+initial = r'[A-Z]\.?'
+name_after_title = r'((%s\s+)?%s|%s)' % (initial, proper_name, initial)
+
+replace_pats = {
+    r'(?<=[a-z])-\s*\[\d+\]\s*(?=[a-z])': '', #hyphenated words across page boundaries
+    r'\[\d+\]': '', #page numbers
+    r'\&c': 'etc',
+    r'Doctor': 'Dr.',
+    r'Mister': 'Mr.',
+    r'Mr\.?\s+%s' % name_after_title: 'XXTITLEANDNAME',
+    r'Mrs\.?\s+%s' % name_after_title: 'XXTITLEANDNAME',
+    r'Dr\.?\s+%s' % name_after_title: 'XXTITLEANDNAME',
+    r'Rev(\.?|erend)\s+%s' % name_after_title: 'XXTITLEANDNAME',
+}
+
+ordinal_prefixes = [
+    r'1(st)?|[Ff]irst',
+    r'2(nd)?|[Ss]econd',
+    r'3(rd)?|[Tt]ird',
+    r'4(th)?|[Ff]ourth',
+]
+
+def make_ordinal_prefix(first, last):
+    prefix = ''
+    for i in xrange(first - 1, last):
+        if prefix:
+            prefix += '|'
+        prefix += '(%s)' % ordinal_prefixes[i]
+    return '(%s)\s?' % prefix
+
+replace_pats[make_scripture_pat(
+        make_ordinal_prefix(1, 4), 'Nep')] = 'XXSCRIP'
+replace_pats[make_scripture_pat(
+        make_ordinal_prefix(1, 3), 'J(oh)?n')] = 'XXSCRIP'
+replace_pats[make_scripture_pat(
+        make_ordinal_prefix(1, 2), '(Cor|Tim|Thes|Sam|Chr|Kg|Kin|Pet)')] = 'XXSCRIP'
+replace_pats[make_scripture_pat('',
+        '(Gen|Ex|Lev|Num|Josh|Ruth|Ezra|Neh|Prov|Isa|Jer|Eze|Daniel|Hosea|Joel|Amos|Mat|Mark|Luke|John|Romans|Gal|Eph|Phil|Col|Titus|Heb|Jam|Jude|Revelation|Jacob|Enos|Jarom|Omni|Moro|Mosiah|Alma|Hel|Ether|Abr|Moses)',
+        require_more_than_book=True)] = 'XXSCRIP'
+replace_pats[make_scripture_pat('',
+        '(Genes|Exo|Numb|Deut|Judge|Esth|Job|Ps|Proverbs|Ecc|Lament|Hosea|Obad|Jonah|Micah|Nahum|Habak|Zeph|Hagg|Zech|Malachi|Acts|Galat)')] = 'XXSCRIP'
+
+x = {}
+for key in replace_pats:
+    value = replace_pats[key]
+    x[re.compile(key, re.MULTILINE)] = value
+replace_pats = x
+del x
+
+def cleanup(fname):
+    with open(fname, 'r') as f:
+        txt = f.read()
+        
+    new_txt = txt.replace(em_dash, '--').replace(en_dash, '-')
+    new_txt = bom_pat.sub('XXBOOKOFMORMON', new_txt)
+    new_txt = church_pat.sub('XXCHURCHFULL', new_txt)
+    new_txt = lds_pat.sub('XXLDS', new_txt)
+    changed = txt != new_txt
+    for pat in replace_pats:
+        repl = replace_pats[pat]
+        while True:
+            match = pat.search(new_txt)
+            if match:
+                changed = True
+                new_txt = new_txt[:match.start()] + repl + new_txt[match.end():]
+            else:
+                break
+    if changed:
+        with open(fname, 'w') as f:
+            f.write(new_txt)
+        print('Updated %s.' % fname)
+
+if __name__ == '__main__':
+    for fname in sys.argv[1:]:
+        cleanup(fname)
