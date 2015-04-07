@@ -26,10 +26,14 @@ def make_paragraphs(lines):
         line = lines[i]
         if not line:
             ender = True
+        elif 'html>' in line and 'body>' in line:
+            ender = True
         elif len(line) < 60 and ends_a_sentence(line):
             ender = True
         elif i + 1 < lines_end and not lines[i + 1]:
             ender = True
+        else:
+            ender = False
         if line:
             if current:
                 current += ' '
@@ -50,9 +54,11 @@ def find_wrap_point(line):
             return i
         i -= 1
 
-def wrap(fname, new_fname):
+def wrap(fname):
     with open(fname, 'r') as f:
         lines = f.read()
+    lines = lines.replace("<html>", "").replace("<body>", "").replace("</html>", "").replace("</body>", "")
+    lines = lines.replace("<p>", "\n\n").replace("</p>", "\n\n").strip()
         
     # Some of our original docs have form feed chars instead of line breaks.
     # Not sure why...
@@ -72,8 +78,10 @@ def wrap(fname, new_fname):
     lines = lines.split('\n')
     
     paragraphs = make_paragraphs(lines)
-    with open(new_fname, 'w') as f:
+    with open(fname, 'w') as f:
+        f.write('<html><body>\n')
         for p in paragraphs:
+            f.write('\n<p>\n')
             while len(p) > wrap_len:
                 idx = find_wrap_point(p)
                 f.write(p[:idx])
@@ -81,11 +89,10 @@ def wrap(fname, new_fname):
                 p = p[idx + 1:]
             if p:
                 f.write(p)
-            f.write('\n\n')
+            f.write('\n</p>\n')
+        f.write('\n</body></html>')
         f.close()
 
 if __name__ == '__main__':
-    new_fname = sys.argv[1]
-    if len(sys.argv) > 2:
-        new_fname = sys.argv[2]
-    wrap(sys.argv[1], new_fname)
+    for item in sys.argv[1:]:
+        wrap(item)
