@@ -3,8 +3,8 @@
 import os, sys, re
 
 prophets = '(Nephi|Lehi|Alma|Helaman|Malachi|Jeremiah|Isaiah|Noah|Abraham|Ezekiel|Hosea|Joel|Amos|Obadiah|Micah|Nahum|Habakkuk|Zephaniah|Haggai|Zechariah|Moroni|Ether|Enoch|Moses)(?=\W)'
-first_names = '(Frederick|Oliver|Sidney|William|Wm\.?|Parley|Heber|Hyrum|Emma|Sarah|Wilford|Benjamin|Martin|Vienna|David|Thomas|Henry|Harriet)(?=\W)'
-last_names = '(Williams|Tippets|Smith|Rigdon|Spaulding|Winchester|Young|Coltrin|Partridge|Pratt|Thayer|Whitney|Woodruff|Kimball|Whitmer|Cowdery|Hulb[eu]rt|Clayton|Sunderland|Brown|Jac?ques|Kingery|Houghs|Dillions|White|Singers|McMahhan)'
+first_names = '(Charles|Frederick|Elizabeth|Josiah|Oliver|Orson|Sidney|William|Wm\.?|Parley|Heber|Hyrum|Emma|Sarah|Wilford|Mary|Lucy|Benjamin|Martin|Vienna|David|Thomas|Henry|Harriet)(?=\W)'
+last_names = '(Babbitt|Fulmer|Haywood|Williams|Brennan|Richards|Hyde|Holmes|Hardy|Robinson|Boggs|Chase|Littlefield|Miles|Jones|Moyle|Ward|Banks|Lucas|Benton|Burtis|Hornor|Asson|Thompson|Tippets|Adams|Hodge|Turley|Taylor|Smith|Rigdon|Spaulding|Clark|Mitchell|Atchison|Bedford|Frankland|Harris|Heys|Livesey|Winchester|Young|Coltrin|Partridge|Pratt|Thayer|Whitney|Woodruff|Kimball|Whitmer|Cowdery|Hulb[eu]rt|Clayton|Sunderland|Brown|Jac?ques|Pendleton|Kingery|Houghs|Dillions|White|Singers|McMahhan)'
 js_jr_pat = re.compile(r'Smith,?\s+[jJ](un(ior|\.)|(\.?\s*[rR](\.|(?=\W))))', re.MULTILINE)
 full_name_pat = re.compile(r'[A-Z][a-z]+(?<!(....The|Brother|.Sister))(?=\s+XXLASTNAME)', re.MULTILINE)
 initial_last_name_pat = re.compile(r'(?<=\W)[A-Z][.]?(\s*[A-Z][.]?)?(?=\s+XXLASTNAME)', re.MULTILINE)
@@ -28,7 +28,7 @@ replace_pats = {
     first_names: 'XXFIRSTNAME',
     r'(?<=\W)N[JY](?=\W)': 'XXSTATE',
     r'(?<=\W)N\.\s?[JY]\.': 'XXSTATE',
-    r'(Ohio|Missouri|Kentucky|Vermont|Pennsylvania|Connecticut|Massachusetts|New\s+(York|Jersey))': 'XXSTATE',
+    r'(Ohio|Missouri|Kentucky|Illinois|Vermont|Pennsylvania|Connecticut|Massachusetts|New\s+(York|Jersey))': 'XXSTATE',
     r'(?<=\W)(Mass|Penn)\.?(?=\W)': 'XXSTATE',
     r'(?<=\W)Pa\.(?=\W)': 'XXSTATE',
     r'[A-Z][a-z]+\s+[Cc]o(\.|unty)': 'XXCOUNTY',
@@ -43,7 +43,7 @@ replace_pats = {
     make_month_pat('Oct', 'ober'): 'XXMONTH',
     make_month_pat('Nov', 'ember'): 'XXMONTH',
     make_month_pat('Dec', 'ember'): 'XXMONTH',
-    r'(Pittsburgh|Philadelphia|New\s+Salem|Kirtland|[iI]ndependence|Far\s+West|Sharon|Amity|Boston|Nauvoo|St\.?\s+Louis|Palmyra|Springfield)': 'XXCITY',
+    r'(Pittsburgh|Philadelphia|New\s+Salem|DeWitt|Montrose|Carthage|Nashway|Irvin|Preston|Liverpool|Manchester|Kirtland|[iI]ndependence|Far\s+West|Sharon|Amity|Boston|Nauvoo|St\.?\s+Louis|Palmyra|Springfield)(?=\W)': 'XXCITY',
     r'(?<=\W)18\d\d(?=\W)': 'XXYEAR'
 }
 
