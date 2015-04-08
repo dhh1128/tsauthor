@@ -1,0 +1,80 @@
+#! /usr/bin/python
+
+import os, sys, re
+
+prophets = '(Nephi|Lehi|Alma|Helaman|Malachi|Jeremiah|Isaiah|Noah|Abraham|Ezekiel|Hosea|Joel|Amos|Obadiah|Micah|Nahum|Habakkuk|Zephaniah|Haggai|Zechariah|Moroni|Ether|Enoch|Moses)(?=\W)'
+first_names = '(Frederick|Oliver|Sidney|William|Wm\.?|Parley|Heber|Hyrum|Emma|Sarah|Wilford|Benjamin|Martin|Vienna|David|Thomas|Henry|Harriet)(?=\W)'
+last_names = '(Williams|Tippets|Smith|Rigdon|Spaulding|Winchester|Young|Coltrin|Partridge|Pratt|Thayer|Whitney|Woodruff|Kimball|Whitmer|Cowdery|Hulb[eu]rt|Clayton|Sunderland|Brown|Jac?ques|Kingery|Houghs|Dillions|White|Singers|McMahhan)'
+js_jr_pat = re.compile(r'Smith,?\s+[jJ](un(ior|\.)|(\.?\s*[rR](\.|(?=\W))))', re.MULTILINE)
+full_name_pat = re.compile(r'[A-Z][a-z]+(?<!(....The|Brother|.Sister))(?=\s+XXLASTNAME)', re.MULTILINE)
+initial_last_name_pat = re.compile(r'(?<=\W)[A-Z][.]?(\s*[A-Z][.]?)?(?=\s+XXLASTNAME)', re.MULTILINE)
+city_pat = re.compile(r'(?<=\W)[A-Z][a-z]+(\s+[A-Z][a-z]+)?,?(?=\s+XX(STATE|COUNTY))', re.MULTILINE)
+year_pat = re.compile(r'(?<=\W)1[87]\d\d(?=\W)', re.MULTILINE)
+
+def make_month_pat(abbrev, rest):
+    return r'(%s(\.?(?=\W)|%s))' % (abbrev, rest)
+
+replace_pats = {
+    r'(?i)aviour': 'avior', # Saviour, behaviour
+    r'avour': 'avor', #favour, endeavour
+    r'bour': 'bor', #neighbour, labour
+    r'Melchi[sz]edeck?': 'Melchizedek',
+    r'(?i)latter(-|\s+)day(-|\s+)saints': 'XXLDS',
+    r'(?i)defence': 'defense',
+    r'centre': 'center',
+    r'Jesus\s+Christ': 'XXJESUSCHRIST',
+    prophets: 'XXPROPHET',
+    last_names: 'XXLASTNAME',
+    first_names: 'XXFIRSTNAME',
+    r'(?<=\W)N[JY](?=\W)': 'XXSTATE',
+    r'(?<=\W)N\.\s?[JY]\.': 'XXSTATE',
+    r'(Ohio|Missouri|Kentucky|Vermont|Pennsylvania|Connecticut|Massachusetts|New\s+(York|Jersey))': 'XXSTATE',
+    r'(?<=\W)(Mass|Penn)\.?(?=\W)': 'XXSTATE',
+    r'(?<=\W)Pa\.(?=\W)': 'XXSTATE',
+    r'[A-Z][a-z]+\s+[Cc]o(\.|unty)': 'XXCOUNTY',
+    make_month_pat('Jan', 'uary'): 'XXMONTH',
+    make_month_pat('Feb', 'ruary'): 'XXMONTH',
+    make_month_pat('Mar', 'ch'): 'XXMONTH',
+    make_month_pat('Apr', 'il'): 'XXMONTH',
+    make_month_pat('Jun', 'e'): 'XXMONTH',
+    make_month_pat('Jul', 'y'): 'XXMONTH',
+    make_month_pat('Aug', 'ust'): 'XXMONTH',
+    make_month_pat('Sep', 'tember'): 'XXMONTH',
+    make_month_pat('Oct', 'ober'): 'XXMONTH',
+    make_month_pat('Nov', 'ember'): 'XXMONTH',
+    make_month_pat('Dec', 'ember'): 'XXMONTH',
+    r'(Pittsburgh|Philadelphia|New\s+Salem|Kirtland|[iI]ndependence|Far\s+West|Sharon|Amity|Boston|Nauvoo|St\.?\s+Louis|Palmyra|Springfield)': 'XXCITY',
+    r'(?<=\W)18\d\d(?=\W)': 'XXYEAR'
+}
+
+x = {}
+for key in replace_pats:
+    value = replace_pats[key]
+    x[re.compile(key, re.MULTILINE)] = value
+replace_pats = x
+del x
+
+def cleanup(fname):
+    with open(fname, 'r') as f:
+        txt = f.read()
+        
+    new_txt = js_jr_pat.sub('XXLASTNAME', txt)
+    for pat in replace_pats:
+        repl = replace_pats[pat]
+        while True:
+            match = pat.search(new_txt)
+            if match:
+                new_txt = new_txt[:match.start()] + repl + new_txt[match.end():]
+            else:
+                break
+    new_txt = initial_last_name_pat.sub('XXINITIAL', new_txt)
+    new_txt = full_name_pat.sub('XXFIRSTNAME', new_txt)
+    new_txt = city_pat.sub('XXCITY ', new_txt)
+    if new_txt != txt:
+        with open(fname, 'w') as f:
+            f.write(new_txt)
+        print('Updated %s.' % fname)
+
+if __name__ == '__main__':
+    for fname in sys.argv[1:]:
+        cleanup(fname)
