@@ -1,0 +1,75 @@
+#! /usr/bin/python
+
+import os, sys, re
+
+para_pat = re.compile('<p>.*?</p>', re.DOTALL)
+ngram_size = 4
+
+def get_words(para):
+    para = re.sub('[^a-zA-Z0-9]', ' ', para)
+    para = re.sub(' {2,}', ' ', para)
+    return para.split(' ')
+
+def paragraphs(txt):
+    i = 0
+    while True:
+        i = txt.find('<p', i)
+        if i > -1:
+            i = txt.find('>', i + 2)
+            if i > -1:
+                i += 1
+                j = txt.find('</p>', i)
+                if j > -1:
+                    yield txt[i:j].strip()
+                    i = j + 4
+                    continue
+        break
+
+def ngrams(words, n):
+    for i in xrange(len(words) - n):
+        ngram = ''
+        for j in xrange(n):
+            if j > 0:
+                ngram += 'XX'
+            this_word = words[i + j].lower()
+            ngram += this_word
+        yield ngram
+            
+def write_ngrams(f, words):
+    size = ngram_size
+    while size > 1:
+        f.write('\n<p class="%d-gram">\n' % size)
+        width = 0
+        for ng in ngrams(words, size):
+            width += len(ng) + 1
+            if width >= 79:
+                f.write('\n')
+                width = 0
+            f.write(ng)
+            f.write(' ')
+        f.write('\n</p>\n')
+        size -= 1
+
+def prep(txt):
+    txt = re.sub(r'</?[a-z]{4}>', '', txt)
+    txt = re.sub(r'(?<=\W)[0-9]+(?=\W)', 'XXNUMBER', txt)
+    txt = txt.strip()
+    return txt
+    
+def ngram(fname):
+    with open(fname, 'r') as f:
+        txt = prep(f.read())
+    
+    with open(fname, 'w') as f:
+        f.write('<html><body>\n')
+        
+        for para in paragraphs(txt):
+            f.write('\n<p>\n' + para + '\n</p>\n')
+            words = get_words(para)
+            write_ngrams(f, words)        
+            
+        f.write('\n</body></html>')
+
+if __name__ == '__main__':
+    for fname in sys.argv[1:]:
+        ngram(fname)
