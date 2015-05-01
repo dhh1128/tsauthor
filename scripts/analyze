@@ -1,0 +1,173 @@
+#! /usr/bin/python
+
+import os, sys, re
+
+my_folder = os.path.dirname(os.path.abspath(__file__))
+root = os.path.abspath(os.path.join(my_folder, '..'))
+
+def render_token(token):
+    if ' in ' in token:
+        return token
+    token = token.replace('xxxx', 'xxXX')
+    prefix = token.startswith('xx') and token[3] != 'x'
+    if prefix:
+        token = token[2:]
+    token = token.replace('xx', ' ').replace('XX', 'xx').replace('  ', ' ').strip()
+    if prefix:
+        token = 'xx' + token
+    return token
+
+def get_tokens(para):
+    para = re.sub('[^a-zA-Z0-9]', ' ', para)
+    para = re.sub(' {2,}', ' ', para)
+    return para.split(' ')
+
+def paragraphs(txt):
+    i = 0
+    while True:
+        i = txt.find('<p', i)
+        if i > -1:
+            i = txt.find('>', i + 2)
+            if i > -1:
+                i += 1
+                j = txt.find('</p>', i)
+                if j > -1:
+                    yield txt[i:j].strip()
+                    i = j + 4
+                    continue
+        break
+
+def add_token(author_info, token, fname):
+    # Increment count for this token
+    if token not in author_info:
+        author_info[token] = 0
+    author_info[token] += 1
+    # Also, record the fact that this token appeared in this doc
+    in_files_list = '%s in docs' % token
+    if in_files_list not in author_info:
+        author_info[in_files_list] = []
+    x = author_info[in_files_list]
+    if fname not in x:
+        x.append(fname)    
+
+def grab_file(author_info, fpath):
+    #print('grabbing %s' % fpath)
+    fname = os.path.split(fpath)[1]
+    with open(fpath, 'r') as f:
+        txt = f.read()
+    for para in paragraphs(txt):
+        tokens = get_tokens(para)
+        for token in tokens:
+            # Ignore little "noise" words
+            if len(token) < 4:
+                continue
+            token = token.lower()
+            add_token(author_info, token, fname)
+    
+def grab(subdir):
+    author_info = {}
+    #print('grabbing %s' % subdir)
+    items = os.listdir(subdir + '/3/')
+    for item in items:
+        if item.endswith('.html'):
+            grab_file(author_info, os.path.join(subdir, '3', item))
+    return author_info
+
+def get_author_subdirs():
+    items = []
+    for subdir in os.listdir(root):
+        if os.path.isdir(os.path.join(root, subdir, '3')):
+            items.append(subdir)
+    return items
+
+def prune1(authors):
+    for author in authors:
+        with open(os.path.join(root, 'prune-1-%s.txt' % author), 'w') as f:
+            to_prune = []
+            author_info = authors[author]
+            for key, value in author_info.iteritems():
+                if ' in ' in key:
+                    if len(value) == 1:
+                        to_prune.append((key[:key.find(' in ')], 'only in one doc'))
+                elif value < 2:
+                    to_prune.append((key, 'only appears one time'))
+            last_pruned = None
+            to_prune.sort()
+            for pair in to_prune:
+                key = pair[0]
+                reason = pair[1]
+                if key != last_pruned:
+                    last_pruned = key
+                    del author_info[key]
+                    if reason:
+                        f.write('%s: %s\n' % pair)
+
+def prune2(authors):
+    to_prune = {}
+    for author in authors:
+        other_authors = [x for x in authors if x != author]
+        my_to_prune = []
+        author_info = authors[author]
+        for key in author_info:
+            if ' in ' in key:
+                continue
+            in_others = []
+            for other in other_authors:
+                if key in authors[other]:
+                    in_others.append(key)
+            if in_others:
+                my_to_prune.append((key, 'used by %d authors' % len(in_others)))
+        last_pruned = None
+        my_to_prune.sort()
+        to_prune[author] = my_to_prune
+    for author in authors:
+        with open(os.path.join(root, 'prune-2-%s.txt' % author), 'w') as f:
+            my_to_prune = to_prune[author]
+            author_info = authors[author]
+            for pair in my_to_prune:
+                key = pair[0]
+                if key != last_pruned:
+                    last_pruned = key
+                    del author_info[key]                
+                    f.write('%s: %s\n' % pair)
+                    
+class compare_by_distinctiveness:
+    def __init__(self, authors, author):
+        self.authors = authors
+        self.author = author
+    def __call__(self, key1, key2):
+        if ' in ' in key1:
+            if ' in ' in key2:
+                return cmp(key1, key2)
+            else:
+                return 1
+        elif ' in ' in key2:
+            return -1
+        author_info = self.authors[self.author]
+        in_docs1 = len(author_info['%s in docs' % key1])
+        score1 = in_docs1 * author_info[key1]
+        in_docs2 = len(author_info['%s in docs' % key2])
+        score2 = in_docs2 * author_info[key2]
+        n = score2 - score1
+        if not n:
+            n = in_docs2 - in_docs1
+            if not n:
+                n = cmp(key1, key2)
+        return n
+
+def analyze(authors):
+    prune1(info)
+    prune2(info)
+    for author in authors:
+        author_info = authors[author]
+        comparer = compare_by_distinctiveness(authors, author)
+        keys_by_distinctiveness = sorted(author_info.keys(), cmp=comparer)
+        with open(os.path.join(root, 'tokens-%s.txt' % author), 'w') as f:
+            for key in keys_by_distinctiveness:
+                f.write('%s: %s\n' % (render_token(key), author_info[key]))
+
+if __name__ == '__main__':
+    info = {}
+    for subdir in get_author_subdirs():
+        info[subdir] = grab(os.path.join(root, subdir))
+    analyze(info)
