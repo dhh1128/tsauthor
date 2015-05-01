@@ -6,7 +6,9 @@ my soul: 5
 sins and: 5
 you all: 5
 child: 4
+his hand: 4
 see you: 4
+they shall: 5
 as you: 3
 but the lord: 3
 clothed: 3
@@ -17,6 +19,7 @@ he shall: 3
 my heart is: 3
 our hearts: 3
 our hearts and: 3
+paper: 3
 the will of the: 3
 to see you: 3
 will of the: 3
@@ -38,6 +41,7 @@ i could: 3
 maketh: 3
 me and i: 3
 me in the: 3
+of mankind: 3
 oh lord: 3
 sake: 3
 until i: 3
@@ -87,7 +91,9 @@ do the will: 2
 do the will of: 2
 earth for: 2
 eternity to: 2
+face of: 2
 find none: 2
+forth the: 2
 for every: 2
 for there was: 2
 for those: 2
@@ -134,6 +140,7 @@ my name: 2
 my sins: 2
 my sins and: 2
 my soul to: 2
+not come: 2
 of brother: 2
 of brother xxfirstname: 2
 of death: 2
@@ -163,9 +170,11 @@ sister xxlastname: 2
 soon as possible: 2
 soul to: 2
 spirit of god and: 2
+tears: 2
 their children: 2
 therefore we: 2
 these things i: 2
+the face of: 2
 the god of xxprophet: 2
 the goodness: 2
 the goodness of: 2
@@ -185,6 +194,7 @@ want to see: 2
 want to see you: 2
 want you: 2
 waters and: 2
+wickedness and: 2
 will come: 2
 world but: 2
 would inform: 2

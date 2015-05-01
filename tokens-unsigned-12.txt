@@ -1,0 +1,3266 @@
+committee: 6
+the committee: 6
+if we wish: 5
+we wish: 5
+if we wish to: 4
+of the committee: 4
+we wish to: 4
+but we shall: 3
+but we shall not: 3
+cutters: 3
+in the accomplishment: 3
+in the accomplishment of: 3
+labor and: 3
+of the brethren: 3
+ourselves: 3
+stone cutters: 3
+supply: 3
+tenth: 3
+the brethren in: 3
+the stone cutters: 3
+we shall not: 3
+and they lay: 2
+and they lay as: 2
+a word: 2
+brethren to: 2
+bring in: 2
+cattle: 2
+cattle which: 2
+damp: 2
+desirable: 2
+feel the: 2
+feel the importance: 2
+feel the importance of: 2
+greatly: 2
+hands of the committee: 2
+have had: 2
+have to stop: 2
+imperative: 2
+imperative upon: 2
+inconvenience: 2
+inconvenience of: 2
+inconvenience of worshipping: 2
+inhabitants of this: 2
+lay as: 2
+many of the brethren: 2
+not saleable: 2
+of labor: 2
+of worshipping: 2
+our energies: 2
+our energies in: 2
+perform their: 2
+purchase: 2
+quarried: 2
+saleable: 2
+secure: 2
+so desirable: 2
+stone quarried: 2
+supply the: 2
+tendency: 2
+tendency to: 2
+that house: 2
+that unless: 2
+their duty: 2
+their tenth: 2
+them we may: 2
+the importance: 2
+the importance of: 2
+the inconvenience: 2
+the inconvenience of: 2
+the inconvenience of worshipping: 2
+the inhabitants of this: 2
+the winter: 2
+they lay: 2
+they lay as: 2
+to perform their: 2
+to secure: 2
+to the inconvenience: 2
+to the inconvenience of: 2
+unpleasant: 2
+upon us to: 2
+us as: 2
+we feel: 2
+we feel the: 2
+we feel the importance: 2
+we wish to receive: 2
+winter: 2
+wish to receive: 2
+work that: 2
+work we: 2
+worshipping: 2
+about which: 1
+about which all: 1
+about which all the: 1
+absolutely: 1
+absolutely necessary: 1
+absolutely necessary for: 1
+absolutely necessary for the: 1
+acceptable: 1
+accomplishment of an: 1
+accomplishment of an object: 1
+accomplishment of so: 1
+accomplishment of so desirable: 1
+accomplishment of this: 1
+accomplishment of this great: 1
+actively: 1
+actively engaged: 1
+actively engaged and: 1
+actively engaged and who: 1
+advantage: 1
+advantage another: 1
+advantage another word: 1
+advantage another word on: 1
+advise the: 1
+advise the brethren: 1
+advise the brethren to: 1
+affair and: 1
+affair and has: 1
+affair and has said: 1
+after and: 1
+after and many: 1
+after and many unpleasant: 1
+aggrandize: 1
+aggrandize or: 1
+aggrandize or enrich: 1
+aggrandize or enrich ourselves: 1
+all events: 1
+all events the: 1
+all events the stone: 1
+all god: 1
+all god s: 1
+all god s people: 1
+all our efforts: 1
+all our efforts to: 1
+all our energies: 1
+all our energies in: 1
+all the inspired: 1
+all the inspired poets: 1
+all the prophets: 1
+all the prophets from: 1
+all the winter: 1
+all the winter and: 1
+all yea: 1
+all yea more: 1
+all yea more than: 1
+also say: 1
+also say a: 1
+also say a word: 1
+alternately: 1
+alternately prey: 1
+alternately prey upon: 1
+alternately prey upon the: 1
+ancient servants: 1
+ancient servants of: 1
+ancient servants of god: 1
+and absolutely: 1
+and absolutely necessary: 1
+and absolutely necessary for: 1
+and all the prophets: 1
+and as the: 1
+and as the building: 1
+and a variety: 1
+and a variety of: 1
+and been lost: 1
+and been lost we: 1
+and cheerfulness: 1
+and cheerfulness and: 1
+and cheerfulness and have: 1
+and consecrated: 1
+and consecrated all: 1
+and consecrated all yea: 1
+and continue: 1
+and continue our: 1
+and continue our labors: 1
+and damp: 1
+and damp alternately: 1
+and damp alternately prey: 1
+and delicate: 1
+and delicate and: 1
+and delicate and subject: 1
+and designs: 1
+and designs of: 1
+and designs of the: 1
+and eternal: 1
+and eternal salvation: 1
+and eternal salvation we: 1
+and futile: 1
+and futile we: 1
+and futile we may: 1
+and has said: 1
+and has said this: 1
+and have been: 1
+and have been slow: 1
+and have tithed: 1
+and have tithed and: 1
+and if not: 1
+and if not done: 1
+and if we: 1
+and if we consider: 1
+and intelligence of: 1
+and intelligence of heaven: 1
+and interest: 1
+and interest out: 1
+and interest out of: 1
+and many unpleasant: 1
+and many unpleasant circumstances: 1
+and not in: 1
+and not in property: 1
+and no matter: 1
+and no matter how: 1
+and other kinds: 1
+and other kinds of: 1
+and other vegetables: 1
+and other vegetables if: 1
+and our atmosphere: 1
+and our atmosphere has: 1
+and our expectations: 1
+and our expectations have: 1
+and perhaps have: 1
+and perhaps have to: 1
+and privileges: 1
+and privileges that: 1
+and slacken: 1
+and slacken the: 1
+and slacken the exertions: 1
+and so many: 1
+and so many thousands: 1
+and so pregnant: 1
+and so pregnant with: 1
+and subject: 1
+and subject them: 1
+and subject them to: 1
+and that some: 1
+and that some of: 1
+and that unless: 1
+and that unless strenuous: 1
+and therefore: 1
+and therefore speak: 1
+and therefore speak plainly: 1
+and the brethren: 1
+and the brethren come: 1
+and thus have: 1
+and thus have a: 1
+and toil: 1
+and toil and: 1
+and toil and our: 1
+and to derange: 1
+and to derange very: 1
+and to exert: 1
+and to exert all: 1
+and to secure: 1
+and to secure the: 1
+and unmerited: 1
+and unmerited persecution: 1
+and unmerited persecution the: 1
+and until: 1
+and until that: 1
+and until that command: 1
+and watches: 1
+and watches and: 1
+and watches and other: 1
+and we have: 1
+and we have done: 1
+and who feel: 1
+and who feel zealous: 1
+and with direct: 1
+and with direct revelation: 1
+anointing: 1
+anointing if: 1
+anointing if we: 1
+anointing if we wish: 1
+another it: 1
+another it is: 1
+another it is in: 1
+another word: 1
+another word on: 1
+another word on this: 1
+an immediate: 1
+an immediate supply: 1
+an immediate supply of: 1
+an object: 1
+an object so: 1
+an object so desirable: 1
+an unpleasant: 1
+an unpleasant work: 1
+an unpleasant work we: 1
+any religious: 1
+any religious community: 1
+any religious community to: 1
+any subject: 1
+any subject in: 1
+any subject in which: 1
+are actively: 1
+are actively engaged: 1
+are actively engaged and: 1
+are engaged: 1
+are engaged a: 1
+are engaged a work: 1
+are frequently: 1
+are frequently brought: 1
+are frequently brought in: 1
+are immediately: 1
+are immediately made: 1
+are immediately made and: 1
+are interested: 1
+are interested more: 1
+are interested more than: 1
+are neither: 1
+are neither fit: 1
+are neither fit for: 1
+are not saleable: 1
+are not saleable they: 1
+are put: 1
+are put into: 1
+are put into the: 1
+are slack: 1
+are slack as: 1
+are slack as has: 1
+are some few: 1
+are some few things: 1
+are subjected: 1
+are subjected to: 1
+are subjected to the: 1
+around: 1
+around our: 1
+around our horizon: 1
+around our horizon and: 1
+articles: 1
+articles of: 1
+articles of that: 1
+articles of that kind: 1
+as dead: 1
+as dead property: 1
+as dead property on: 1
+as has been the: 1
+as his: 1
+as his people: 1
+as his people to: 1
+as natural: 1
+as natural reasons: 1
+as natural reasons might: 1
+as there is: 1
+as there is no: 1
+as the building: 1
+as the building of: 1
+as the honored: 1
+as the honored instruments: 1
+as the spring: 1
+as the spring opens: 1
+as they have: 1
+as they have no: 1
+as useless: 1
+as useless lumber: 1
+as useless lumber the: 1
+as usual: 1
+as usual from: 1
+as usual from their: 1
+atmosphere has: 1
+atmosphere has been: 1
+atmosphere has been impregnated: 1
+attend: 1
+attend to: 1
+attend to and: 1
+attend to and so: 1
+at all events: 1
+at all events the: 1
+at our: 1
+at our hands: 1
+at the temple: 1
+at the temple and: 1
+at what: 1
+at what is: 1
+at what is considered: 1
+a commandment which: 1
+a commandment which is: 1
+a commodious: 1
+a commodious building: 1
+a commodious building to: 1
+a fair: 1
+a fair valuation: 1
+a fair valuation yet: 1
+a good work: 1
+a good work we: 1
+a great deal: 1
+a great deal of: 1
+a great quantity: 1
+a great quantity of: 1
+a great tendency: 1
+a great tendency to: 1
+a little corn: 1
+a little corn meal: 1
+a place of worship: 1
+a subject: 1
+a subject has: 1
+a subject has to: 1
+a sufficiency: 1
+a sufficiency of: 1
+a sufficiency of stone: 1
+a tendency: 1
+a tendency to: 1
+a tendency to damp: 1
+a theme: 1
+a theme about: 1
+a theme about which: 1
+a variety: 1
+a variety of: 1
+a variety of diseases: 1
+a word cattle: 1
+a word cattle which: 1
+a word or: 1
+a word or two: 1
+a work that: 1
+a work that has: 1
+beef: 1
+beef or: 1
+beef or otherwise: 1
+beef or otherwise milch: 1
+been gathering: 1
+been gathering around: 1
+been gathering around our: 1
+been great: 1
+been great when: 1
+been great when we: 1
+been impregnated: 1
+been impregnated with: 1
+been impregnated with the: 1
+been looked: 1
+been looked forward: 1
+been looked forward to: 1
+been lost: 1
+been lost we: 1
+been lost we would: 1
+been obliged: 1
+been obliged to: 1
+been obliged to quit: 1
+been required: 1
+been required of: 1
+been required of them: 1
+been slow: 1
+been slow to: 1
+been slow to perform: 1
+been sought: 1
+been sought after: 1
+been sought after and: 1
+been the ease: 1
+been the ease of: 1
+been zealously: 1
+been zealously engaged: 1
+been zealously engaged in: 1
+before the saints: 1
+before the saints it: 1
+begin: 1
+begin this: 1
+begin this next: 1
+begin this next week: 1
+behooves: 1
+behooves us: 1
+behooves us as: 1
+behooves us as his: 1
+best manner: 1
+best manner that: 1
+best manner that we: 1
+best of: 1
+best of motives: 1
+best of motives bring: 1
+be considered: 1
+be considered sufficient: 1
+be considered sufficient to: 1
+be disposed: 1
+be disposed of: 1
+be disposed of to: 1
+be employed: 1
+be employed all: 1
+be employed all the: 1
+be greatly: 1
+be greatly retarded: 1
+be greatly retarded and: 1
+be laid: 1
+be laid before: 1
+be laid before the: 1
+be more fully: 1
+be more fully developed: 1
+be necessary: 1
+be necessary to: 1
+be necessary to give: 1
+be progressing: 1
+be progressing with: 1
+be progressing with the: 1
+be vain: 1
+be vain and: 1
+be vain and futile: 1
+be very: 1
+be very acceptable: 1
+be we: 1
+be we have: 1
+be we have commenced: 1
+binding: 1
+binding which: 1
+binding which is: 1
+binding which is imperative: 1
+blessed with: 1
+blessed with the: 1
+blessed with the light: 1
+blessings from: 1
+blessings from the: 1
+blessings from the hands: 1
+blessings glories: 1
+blessings glories and: 1
+blessings glories and privileges: 1
+blessings of: 1
+blessings of the: 1
+blessings of the most: 1
+blessings that: 1
+blessings that would: 1
+blessings that would flow: 1
+bound under: 1
+bound under the: 1
+bound under the strongest: 1
+brethren come: 1
+brethren come up: 1
+brethren come up promptly: 1
+brethren in the: 1
+brethren in their: 1
+brethren in their liberality: 1
+brethren in the country: 1
+brethren in town: 1
+brethren in town pay: 1
+brethren no: 1
+brethren not coming: 1
+brethren not coming forward: 1
+brethren no doubt: 1
+brethren no doubt out: 1
+brethren such: 1
+brethren such things: 1
+brethren such things ought: 1
+brethren to bring: 1
+brethren to bring in: 1
+brethren to say: 1
+brethren to say whether: 1
+bring a little: 1
+bring a little corn: 1
+bring guns: 1
+bring guns and: 1
+bring guns and watches: 1
+bring in fat: 1
+bring in fat cattle: 1
+bring in pumpkins: 1
+bring in pumpkins squashes: 1
+brought in: 1
+brought in for: 1
+brought in for tithing: 1
+building of: 1
+building of the: 1
+building of the temple: 1
+building that: 1
+building that house: 1
+building that house this: 1
+building to: 1
+building to worship: 1
+building to worship in: 1
+build my: 1
+build my house: 1
+build my house and: 1
+build splendid: 1
+build splendid houses: 1
+build splendid houses but: 1
+build that: 1
+build that house: 1
+butter: 1
+butter pork: 1
+butter pork or: 1
+butter pork or other: 1
+but leaving: 1
+but leaving duty: 1
+but leaving duty and: 1
+but the stone: 1
+but the stone cutters: 1
+but we feel: 1
+but we feel the: 1
+but when we: 1
+but when we consider: 1
+by the ancient servants: 1
+cannot get: 1
+cannot get sufficient: 1
+cannot get sufficient stone: 1
+can and: 1
+can and no: 1
+can and no matter: 1
+can be employed: 1
+can be employed all: 1
+can not: 1
+can not only: 1
+can not only be: 1
+cattle which are: 1
+cattle which are neither: 1
+cattle which would: 1
+cattle which would immediately: 1
+cause requires: 1
+cause requires at: 1
+cause requires at our: 1
+certain that: 1
+certain that unless: 1
+certain that unless that: 1
+cheerfulness: 1
+cheerfulness and: 1
+cheerfulness and have: 1
+cheerfulness and have tithed: 1
+circumstances blessed: 1
+circumstances blessed with: 1
+circumstances blessed with the: 1
+circumstances have: 1
+circumstances have transpired: 1
+circumstances have transpired which: 1
+city the: 1
+city the lord: 1
+city the lord has: 1
+clothing: 1
+clothing for: 1
+clothing for those: 1
+clothing for those that: 1
+clouds: 1
+clouds have: 1
+clouds have been: 1
+clouds have been gathering: 1
+colds: 1
+colds fevers: 1
+colds fevers and: 1
+colds fevers and a: 1
+cold heat: 1
+cold heat and: 1
+cold heat and damp: 1
+come forward: 1
+come forward with: 1
+come forward with willingness: 1
+come up: 1
+come up promptly: 1
+come up promptly to: 1
+coming forward: 1
+coming forward as: 1
+coming forward as usual: 1
+commandment which: 1
+commandment which is: 1
+commandment which is binding: 1
+command is: 1
+command is fulfilled: 1
+command is fulfilled we: 1
+commenced a: 1
+commenced a good: 1
+commenced a good work: 1
+commence with: 1
+commence with as: 1
+commence with as soon: 1
+committee and: 1
+committee and absolutely: 1
+committee and absolutely necessary: 1
+committee as: 1
+committee as they: 1
+committee as they have: 1
+committee find: 1
+committee find themselves: 1
+committee find themselves very: 1
+committee it: 1
+committee it is: 1
+committee it is the: 1
+committee state: 1
+committee state that: 1
+committee state that if: 1
+committee there: 1
+committee there are: 1
+committee there are some: 1
+commodious: 1
+commodious building: 1
+commodious building to: 1
+commodious building to worship: 1
+community to: 1
+community to use: 1
+community to use their: 1
+completion: 1
+completion of: 1
+completion of the: 1
+completion of the edifice: 1
+congregate: 1
+congregate in: 1
+consecrated all: 1
+consecrated all yea: 1
+consecrated all yea more: 1
+consequence and: 1
+consequence and that: 1
+consequence and that unless: 1
+consequence of the brethren: 1
+considered a: 1
+considered a fair: 1
+considered a fair valuation: 1
+considered sufficient: 1
+considered sufficient to: 1
+considered sufficient to induce: 1
+consider ourselves: 1
+consider ourselves his: 1
+consider ourselves his people: 1
+consider the great: 1
+consider the great work: 1
+consider the inconveniences: 1
+consider the inconveniences that: 1
+continue our: 1
+continue our labors: 1
+continue our labors the: 1
+corn meal: 1
+corn meal flour: 1
+corn meal flour butter: 1
+could bring: 1
+could bring a: 1
+could bring a little: 1
+could have: 1
+could have been: 1
+could have been required: 1
+country we: 1
+country we would: 1
+country we would also: 1
+covenants we: 1
+covenants we know: 1
+covenants we know that: 1
+cows: 1
+cows that: 1
+cows that might: 1
+cows that might be: 1
+cultivate: 1
+cultivate farms: 1
+cultivate farms but: 1
+cultivate farms but we: 1
+cutters at: 1
+cutters at the: 1
+cutters at the temple: 1
+cutters can: 1
+cutters can be: 1
+cutters can be employed: 1
+cutters will: 1
+cutters will have: 1
+cutters will have to: 1
+damp alternately: 1
+damp alternately prey: 1
+damp alternately prey upon: 1
+damp the: 1
+damp the energies: 1
+damp the energies and: 1
+day s: 1
+day s labor: 1
+day s labor of: 1
+dead property: 1
+dead property on: 1
+dead property on the: 1
+deal: 1
+deal of: 1
+deal of labor: 1
+deal of labor and: 1
+delicate: 1
+delicate and: 1
+delicate and subject: 1
+delicate and subject them: 1
+delight: 1
+delight by: 1
+delight by the: 1
+delight by the ancient: 1
+depending: 1
+depending upon: 1
+depending upon the: 1
+depending upon the tenth: 1
+derange: 1
+derange very: 1
+derange very materially: 1
+derange very materially the: 1
+designs of: 1
+designs of the: 1
+designs of the committee: 1
+desirable for: 1
+desirable for us: 1
+desirable for us to: 1
+desirable object: 1
+desirable object but: 1
+desirable object but when: 1
+desire of: 1
+desire of the: 1
+desire of the committee: 1
+destitute of: 1
+destitute of a: 1
+destitute of a place: 1
+developed if: 1
+developed if we: 1
+developed if we wish: 1
+devolve: 1
+devolve upon: 1
+devolve upon us: 1
+devolve upon us to: 1
+different wards: 1
+different wards to: 1
+different wards to perform: 1
+diligence: 1
+diligence and: 1
+diligence and to: 1
+diligence and to exert: 1
+directions: 1
+directions in: 1
+directions in regard: 1
+directions in regard to: 1
+direct revelation: 1
+direct revelation from: 1
+direct revelation from the: 1
+diseases: 1
+diseases renders: 1
+diseases renders it: 1
+diseases renders it imperative: 1
+dispirit: 1
+dispirit those: 1
+dispirit those who: 1
+dispirit those who are: 1
+dispose: 1
+disposed of: 1
+disposed of to: 1
+disposed of to advantage: 1
+dispose of: 1
+dispose of they: 1
+dispose of they give: 1
+doing this they: 1
+doing this they could: 1
+done all: 1
+done all our: 1
+done all our efforts: 1
+done in due: 1
+done in due time: 1
+done in xxstate: 1
+done many: 1
+done many of: 1
+done many of the: 1
+doors: 1
+doors where: 1
+doors where the: 1
+doors where the cold: 1
+doubt out: 1
+doubt out of: 1
+doubt out of the: 1
+drove: 1
+drove from: 1
+drove from which: 1
+drove from which several: 1
+due time we: 1
+due time we may: 1
+duty and have: 1
+duty and have been: 1
+duty and interest: 1
+duty and interest out: 1
+duty the: 1
+duty the work: 1
+duty the work will: 1
+duty to: 1
+duty to our: 1
+duty to our god: 1
+ease: 1
+ease of: 1
+ease of late: 1
+ease of late it: 1
+easy: 1
+easy to: 1
+easy to dispose: 1
+easy to dispose of: 1
+eat the: 1
+eat the fruit: 1
+eat the fruit of: 1
+edifice: 1
+edifice destitute: 1
+edifice destitute of: 1
+edifice destitute of a: 1
+effluvia: 1
+effluvia of: 1
+effluvia of wanton: 1
+effluvia of wanton and: 1
+efforts to: 1
+efforts to aggrandize: 1
+efforts to aggrandize or: 1
+either provisions: 1
+either provisions or: 1
+either provisions or clothing: 1
+employed all: 1
+employed all the: 1
+employed all the winter: 1
+energies and: 1
+energies and slacken: 1
+energies and slacken the: 1
+energies in building: 1
+energies in building that: 1
+energies in the: 1
+energies in the accomplishment: 1
+engaged a: 1
+engaged and: 1
+engaged and who: 1
+engaged and who feel: 1
+engaged a work: 1
+engaged a work that: 1
+engaged in it: 1
+engaged in it we: 1
+enjoy them: 1
+enjoy them we: 1
+enjoy them we may: 1
+enough on: 1
+enough on this: 1
+enough on this subject: 1
+enrich: 1
+enrich ourselves: 1
+enrich ourselves will: 1
+enrich ourselves will be: 1
+especial: 1
+especial desire: 1
+especial desire of: 1
+especial desire of the: 1
+eternal salvation: 1
+eternal salvation we: 1
+eternal salvation we shall: 1
+events the: 1
+events the stone: 1
+events the stone cutters: 1
+even that: 1
+even that of: 1
+even that of duty: 1
+even the: 1
+even the god: 1
+even the god has: 1
+exert: 1
+exertions are: 1
+exertions are immediately: 1
+exertions are immediately made: 1
+exertions in: 1
+exertions in the: 1
+exertions in the accomplishment: 1
+exertions of: 1
+exertions of the: 1
+exertions of the saints: 1
+exert all: 1
+exert all our: 1
+exert all our energies: 1
+expectations: 1
+expectations have: 1
+expectations have been: 1
+expectations have been great: 1
+facilitate: 1
+facilitate the: 1
+facilitate the progress: 1
+facilitate the progress of: 1
+fact if: 1
+fact if we: 1
+fact if we wish: 1
+fair: 1
+fair valuation: 1
+fair valuation yet: 1
+fair valuation yet they: 1
+fall but: 1
+fall but the: 1
+fall but the stone: 1
+farms: 1
+farms but: 1
+farms but we: 1
+farms but we shall: 1
+fate that: 1
+fate that we: 1
+fate that we have: 1
+fat cattle: 1
+fat cattle which: 1
+fat cattle which would: 1
+feeding: 1
+feeding them: 1
+feeding them they: 1
+feeding them they are: 1
+feel ourselves: 1
+feel ourselves bound: 1
+feel ourselves bound under: 1
+feel zealous: 1
+feel zealous in: 1
+feel zealous in the: 1
+fevers: 1
+fevers and: 1
+fevers and a: 1
+fevers and a variety: 1
+few things: 1
+few things that: 1
+few things that devolve: 1
+find themselves: 1
+find themselves very: 1
+find themselves very much: 1
+fit for: 1
+fit for milking: 1
+fit for milking or: 1
+flour: 1
+flour butter: 1
+flour butter pork: 1
+flour butter pork or: 1
+flow to: 1
+flow to us: 1
+flow to us through: 1
+forward as: 1
+forward as usual: 1
+forward as usual from: 1
+forward to: 1
+forward to with: 1
+forward to with delight: 1
+forward with: 1
+forward with willingness: 1
+forward with willingness and: 1
+for milking: 1
+for milking or: 1
+for milking or killing: 1
+for them to congregate: 1
+for them to hear: 1
+for the fulfillment: 1
+for the fulfillment of: 1
+for the prosperity: 1
+for the prosperity of: 1
+for those that: 1
+for those that need: 1
+for tithing: 1
+for tithing and: 1
+for tithing and they: 1
+for us to attend: 1
+for you brethren: 1
+for you brethren to: 1
+foul effluvia: 1
+foul effluvia of: 1
+foul effluvia of wanton: 1
+foundation of the world: 1
+frequently brought: 1
+frequently brought in: 1
+frequently brought in for: 1
+from their different: 1
+from their different wards: 1
+from the foundation: 1
+from the foundation of: 1
+from the most: 1
+from the most high: 1
+from which several: 1
+from which several have: 1
+fruit of: 1
+fruit of them: 1
+fruit of them the: 1
+fulfill: 1
+fulfilled we: 1
+fulfilled we stand: 1
+fulfilled we stand responsible: 1
+fulfillment: 1
+fulfillment of: 1
+fulfillment of it: 1
+fulfillment of it and: 1
+fulfill this: 1
+fulfill this requisition: 1
+fulfill this requisition we: 1
+fully developed: 1
+fully developed if: 1
+fully developed if we: 1
+futile: 1
+futile we: 1
+futile we may: 1
+futile we may build: 1
+gathering around: 1
+gathering around our: 1
+gathering around our horizon: 1
+get an: 1
+get an immediate: 1
+get an immediate supply: 1
+get sufficient: 1
+get sufficient stone: 1
+get sufficient stone quarried: 1
+given us directions: 1
+given us directions in: 1
+give a word: 1
+give a word or: 1
+give them in: 1
+give them in at: 1
+gloomy times: 1
+gloomy times clouds: 1
+gloomy times clouds have: 1
+glories: 1
+glories and: 1
+glories and privileges: 1
+glories and privileges that: 1
+glory of: 1
+glory of the: 1
+glory of the priesthood: 1
+god a: 1
+god and to: 1
+god and to secure: 1
+god a theme: 1
+god a theme about: 1
+god has reserved: 1
+god has reserved us: 1
+god in fact: 1
+god in fact if: 1
+god s people: 1
+god s people and: 1
+god to fulfill: 1
+god to fulfill this: 1
+good work: 1
+good work we: 1
+good work we have: 1
+greatly facilitate: 1
+greatly facilitate the: 1
+greatly facilitate the progress: 1
+greatly retarded: 1
+greatly retarded and: 1
+greatly retarded and perhaps: 1
+great blessings: 1
+great blessings from: 1
+great blessings from the: 1
+great deal: 1
+great deal of: 1
+great deal of labor: 1
+great jehovah: 1
+great jehovah for: 1
+great jehovah for the: 1
+great quantity: 1
+great quantity of: 1
+great quantity of hewn: 1
+great tendency: 1
+great tendency to: 1
+great tendency to retard: 1
+great when: 1
+great when we: 1
+great when we have: 1
+great work and: 1
+great work and as: 1
+great work in: 1
+great work in which: 1
+guns: 1
+guns and: 1
+guns and watches: 1
+guns and watches and: 1
+had a tendency: 1
+had a tendency to: 1
+had gloomy: 1
+had gloomy times: 1
+had gloomy times clouds: 1
+hands of jehovah: 1
+hands of jehovah if: 1
+hands with: 1
+hands with beef: 1
+hands with beef or: 1
+has a great: 1
+has a great tendency: 1
+has been impregnated: 1
+has been impregnated with: 1
+has been looked: 1
+has been looked forward: 1
+has been sought: 1
+has been sought after: 1
+has been the: 1
+has been the ease: 1
+has given us: 1
+has given us directions: 1
+has reserved: 1
+has reserved us: 1
+has reserved us as: 1
+has said this: 1
+has said this is: 1
+has to be laid: 1
+have a great: 1
+have a great quantity: 1
+have a sufficiency: 1
+have a sufficiency of: 1
+have been gathering: 1
+have been gathering around: 1
+have been great: 1
+have been great when: 1
+have been obliged: 1
+have been obliged to: 1
+have been required: 1
+have been required of: 1
+have been slow: 1
+have been slow to: 1
+have been zealously: 1
+have been zealously engaged: 1
+have come: 1
+have come forward: 1
+have come forward with: 1
+have commenced: 1
+have commenced a: 1
+have commenced a good: 1
+have done many: 1
+have done many of: 1
+have had a: 1
+have had a tendency: 1
+have had gloomy: 1
+have had gloomy times: 1
+have heretofore: 1
+have heretofore done: 1
+have heretofore done in: 1
+have no way: 1
+have no way of: 1
+have reflected: 1
+have reflected upon: 1
+have reflected upon the: 1
+have relaxed: 1
+have relaxed in: 1
+have relaxed in their: 1
+have said enough: 1
+have said enough on: 1
+have spent: 1
+have spent a: 1
+have spent a great: 1
+have sung: 1
+have sung and: 1
+have sung and all: 1
+have tithed: 1
+have tithed and: 1
+have tithed and consecrated: 1
+have to labor: 1
+have to labor under: 1
+have to share: 1
+have to share the: 1
+have to stop at: 1
+have to stop unless: 1
+have transpired: 1
+have transpired which: 1
+have transpired which in: 1
+have wandered: 1
+have wandered off: 1
+have wandered off and: 1
+have wrote: 1
+have wrote even: 1
+have wrote even the: 1
+having a commodious: 1
+having a commodious building: 1
+hear it: 1
+hear it as: 1
+hear it as there: 1
+heat: 1
+heat and: 1
+heat and damp: 1
+heat and damp alternately: 1
+heaven and with: 1
+heaven and with direct: 1
+heretofore: 1
+heretofore done: 1
+heretofore done in: 1
+heretofore done in xxstate: 1
+here be: 1
+here be necessary: 1
+here be necessary to: 1
+hewn: 1
+hewn stone: 1
+hewn stone ready: 1
+hewn stone ready to: 1
+high are: 1
+high are interested: 1
+high are interested more: 1
+high god in: 1
+high god in fact: 1
+high it: 1
+high it behooves: 1
+high it behooves us: 1
+his people to: 1
+his people to use: 1
+his people we: 1
+his people we shall: 1
+honored: 1
+honored instruments: 1
+honored instruments to: 1
+honored instruments to participate: 1
+horizon: 1
+horizon and: 1
+horizon and our: 1
+horizon and our atmosphere: 1
+houses but: 1
+houses but we: 1
+houses but we shall: 1
+houses or: 1
+houses or in: 1
+houses or in the: 1
+house and until: 1
+house and until that: 1
+house this: 1
+house this however: 1
+house this however is: 1
+however is: 1
+however is tolerable: 1
+however is tolerable when: 1
+how important: 1
+how important a: 1
+how important a subject: 1
+if not: 1
+if not done: 1
+if not done in: 1
+if there is: 1
+if there is any: 1
+if they have: 1
+if they have a: 1
+if we consider: 1
+if we consider ourselves: 1
+if we wish the: 1
+if when: 1
+if when they: 1
+if when they were: 1
+immediately made: 1
+immediately made and: 1
+immediately made and the: 1
+immediately supply: 1
+immediately supply the: 1
+immediately supply the hands: 1
+immediate supply: 1
+immediate supply of: 1
+immediate supply of stone: 1
+imperative upon all: 1
+imperative upon all god: 1
+imperative upon us: 1
+imperative upon us to: 1
+importance of it: 1
+importance of it and: 1
+importance of the: 1
+importance of the cause: 1
+importance to: 1
+importance to the: 1
+importance to the inhabitants: 1
+important a: 1
+important a subject: 1
+important a subject has: 1
+impossible: 1
+impossible for: 1
+impossible for them: 1
+impossible for them to: 1
+impregnated: 1
+impregnated with: 1
+impregnated with the: 1
+impregnated with the foul: 1
+inconveniences: 1
+inconveniences that: 1
+inconveniences that we: 1
+inconveniences that we have: 1
+inconvenience of worshipping in: 1
+inconvenience of worshipping out: 1
+induce: 1
+induce any: 1
+induce any religious: 1
+induce any religious community: 1
+inhabit: 1
+inhabitants of this city: 1
+inhabitants of this place: 1
+inhabit them: 1
+inhabit them we: 1
+inhabit them we may: 1
+inspired poets: 1
+inspired poets have: 1
+inspired poets have sung: 1
+instead of having: 1
+instead of having a: 1
+instruction many: 1
+instruction many of: 1
+instruction many of the: 1
+instruments to participate: 1
+instruments to participate in: 1
+intelligence of: 1
+intelligence of heaven: 1
+intelligence of heaven and: 1
+interested more: 1
+interested more than: 1
+interested more than another: 1
+interest out: 1
+interest out of: 1
+interest out of the: 1
+into the drove: 1
+into the drove from: 1
+in at: 1
+in at what: 1
+in at what is: 1
+in building: 1
+in building that: 1
+in building that house: 1
+in consequence and: 1
+in consequence and that: 1
+in due time we: 1
+in fact if: 1
+in fact if we: 1
+in fat: 1
+in fat cattle: 1
+in fat cattle which: 1
+in for: 1
+in for tithing: 1
+in for tithing and: 1
+in it we: 1
+in it we have: 1
+in labor: 1
+in labor and: 1
+in labor and not: 1
+in private: 1
+in private houses: 1
+in private houses or: 1
+in property: 1
+in pumpkins: 1
+in pumpkins squashes: 1
+in pumpkins squashes potatoes: 1
+in regard to the: 1
+in regard to this: 1
+in stating: 1
+in stating that: 1
+in stating that many: 1
+in their duty: 1
+in their duty and: 1
+in their liberality: 1
+in their liberality bring: 1
+in their nature: 1
+in their nature have: 1
+in the best: 1
+in the best manner: 1
+in the blessings: 1
+in the blessings glories: 1
+in the completion: 1
+in the completion of: 1
+in the country: 1
+in the country we: 1
+in the winter: 1
+in the winter season: 1
+in the work: 1
+in the work and: 1
+in town: 1
+in town pay: 1
+in town pay their: 1
+in we: 1
+in we are: 1
+in we are subjected: 1
+in which the saints: 1
+in which we: 1
+in which we are: 1
+is any: 1
+is any subject: 1
+is any subject in: 1
+is a commandment: 1
+is a commandment which: 1
+is binding: 1
+is binding which: 1
+is binding which is: 1
+is build: 1
+is build my: 1
+is build my house: 1
+is certain that: 1
+is certain that unless: 1
+is considered a: 1
+is considered a fair: 1
+is done: 1
+is done all: 1
+is done all our: 1
+is for: 1
+is for you: 1
+is for you brethren: 1
+is fulfilled: 1
+is fulfilled we: 1
+is fulfilled we stand: 1
+is imperative: 1
+is imperative upon: 1
+is imperative upon all: 1
+is impossible: 1
+is impossible for: 1
+is impossible for them: 1
+is in the: 1
+is in the completion: 1
+is not saleable: 1
+is not saleable or: 1
+is no place: 1
+is no place for: 1
+is principally: 1
+is principally depending: 1
+is principally depending upon: 1
+is the especial: 1
+is the especial desire: 1
+is tolerable: 1
+is tolerable when: 1
+is tolerable when we: 1
+it and if: 1
+it and if not: 1
+it and therefore: 1
+it and therefore speak: 1
+it as there: 1
+it as there is: 1
+it behooves: 1
+it behooves us: 1
+it behooves us as: 1
+it has a: 1
+it has a great: 1
+it imperative: 1
+it imperative upon: 1
+it imperative upon us: 1
+it is for: 1
+it is for you: 1
+it is impossible: 1
+it is impossible for: 1
+it is in: 1
+it is in the: 1
+it is the especial: 1
+it may here: 1
+it may here be: 1
+it we: 1
+it we have: 1
+it we have spent: 1
+jehovah for: 1
+jehovah for the: 1
+jehovah for the fulfillment: 1
+jehovah if: 1
+jehovah if we: 1
+jehovah if we wish: 1
+killing: 1
+killing are: 1
+killing are frequently: 1
+killing are frequently brought: 1
+kinds of property: 1
+kinds of property that: 1
+kind they: 1
+kind they would: 1
+kind they would be: 1
+know that of: 1
+know that of late: 1
+labors: 1
+labors the: 1
+labors the committee: 1
+labors the committee state: 1
+labor and not: 1
+labor and not in: 1
+labor and they: 1
+labor and they lay: 1
+labor and toil: 1
+labor and toil and: 1
+labor of: 1
+labor of the: 1
+labor of the inhabitants: 1
+labor they: 1
+labor they state: 1
+labor they state that: 1
+labor under: 1
+labor under in: 1
+labor under in the: 1
+laid before: 1
+laid before the: 1
+laid before the saints: 1
+late it: 1
+late it has: 1
+late it has a: 1
+late we: 1
+late we have: 1
+late we have had: 1
+lay as dead: 1
+lay as dead property: 1
+lay as useless: 1
+lay as useless lumber: 1
+leaving duty: 1
+leaving duty and: 1
+leaving duty and interest: 1
+let us begin: 1
+let us begin this: 1
+liberality: 1
+liberality bring: 1
+liberality bring in: 1
+liberality bring in pumpkins: 1
+life of our: 1
+life of our prophet: 1
+light and intelligence: 1
+light and intelligence of: 1
+little corn: 1
+little corn meal: 1
+little corn meal flour: 1
+looked forward: 1
+looked forward to: 1
+looked forward to with: 1
+lord has given: 1
+lord has given us: 1
+lord is build: 1
+lord is build my: 1
+lost we: 1
+lost we would: 1
+lost we would therefore: 1
+lumber: 1
+lumber the: 1
+lumber the hands: 1
+lumber the hands of: 1
+made and the: 1
+made and the brethren: 1
+manner that: 1
+manner that we: 1
+manner that we can: 1
+many are: 1
+many are slack: 1
+many are slack as: 1
+many of the saints: 1
+many thousands: 1
+many thousands subject: 1
+many thousands subject to: 1
+many unpleasant: 1
+many unpleasant circumstances: 1
+many unpleasant circumstances have: 1
+materially: 1
+materially the: 1
+materially the plans: 1
+materially the plans and: 1
+matter how important: 1
+matter how important a: 1
+may build: 1
+may build splendid: 1
+may build splendid houses: 1
+may cultivate: 1
+may cultivate farms: 1
+may cultivate farms but: 1
+may have: 1
+may have to: 1
+may have to share: 1
+may here: 1
+may here be: 1
+may here be necessary: 1
+may plant: 1
+may plant orchards: 1
+may plant orchards or: 1
+meal: 1
+meal flour: 1
+meal flour butter: 1
+meal flour butter pork: 1
+medium let: 1
+medium let us: 1
+medium let us begin: 1
+mention which: 1
+mention which though: 1
+mention which though an: 1
+might be considered: 1
+might be considered sufficient: 1
+might be disposed: 1
+might be disposed of: 1
+milch: 1
+milch cows: 1
+milch cows that: 1
+milch cows that might: 1
+milking: 1
+milking or: 1
+milking or killing: 1
+milking or killing are: 1
+more fully: 1
+more fully developed: 1
+more fully developed if: 1
+more than another: 1
+more than another it: 1
+more than could: 1
+more than could have: 1
+most high are: 1
+most high are interested: 1
+most high god in: 1
+most high it: 1
+most high it behooves: 1
+most untiring: 1
+most untiring diligence: 1
+most untiring diligence and: 1
+motives bring: 1
+motives bring guns: 1
+motives bring guns and: 1
+much perplexed: 1
+much perplexed in: 1
+much perplexed in consequence: 1
+my house: 1
+my house and: 1
+my house and until: 1
+natural reasons: 1
+natural reasons might: 1
+natural reasons might be: 1
+nature have: 1
+nature have had: 1
+nature have had a: 1
+necessary for the: 1
+necessary for the prosperity: 1
+necessary to give: 1
+necessary to give a: 1
+need neither: 1
+need neither will: 1
+need neither will they: 1
+neither fit: 1
+neither fit for: 1
+neither fit for milking: 1
+neither will: 1
+neither will they: 1
+neither will they purchase: 1
+next week: 1
+next week and: 1
+next week and continue: 1
+not coming: 1
+not coming forward: 1
+not coming forward as: 1
+not done: 1
+not done in: 1
+not done in due: 1
+not eat: 1
+not eat the: 1
+not eat the fruit: 1
+not enjoy: 1
+not enjoy them: 1
+not enjoy them we: 1
+not inhabit: 1
+not inhabit them: 1
+not inhabit them we: 1
+not in property: 1
+not only be: 1
+not only be progressing: 1
+not purchase: 1
+not purchase either: 1
+not purchase either provisions: 1
+not saleable or: 1
+not saleable or easy: 1
+not saleable they: 1
+not saleable they will: 1
+not to be we: 1
+no doubt out: 1
+no doubt out of: 1
+no matter how important: 1
+no place: 1
+no place for: 1
+no place for them: 1
+no way: 1
+no way of: 1
+no way of feeding: 1
+object but: 1
+object but when: 1
+object but when we: 1
+object so: 1
+object so desirable: 1
+object so desirable for: 1
+obligations: 1
+obligations even: 1
+obligations even that: 1
+obligations even that of: 1
+obliged: 1
+obliged to: 1
+obliged to quit: 1
+obliged to quit work: 1
+off and been: 1
+off and been lost: 1
+of an object: 1
+of an object so: 1
+of a place: 1
+of a place of: 1
+of diseases: 1
+of diseases renders: 1
+of diseases renders it: 1
+of doors: 1
+of doors where: 1
+of doors where the: 1
+of duty to: 1
+of duty to our: 1
+of feeding: 1
+of feeding them: 1
+of feeding them they: 1
+of god a: 1
+of god and to: 1
+of god a theme: 1
+of having a: 1
+of having a commodious: 1
+of heaven and with: 1
+of hewn: 1
+of hewn stone: 1
+of hewn stone ready: 1
+of instruction: 1
+of instruction many: 1
+of instruction many of: 1
+of it and if: 1
+of it and therefore: 1
+of jehovah: 1
+of jehovah if: 1
+of jehovah if we: 1
+of labor and: 1
+of labor and toil: 1
+of labor they: 1
+of labor they state: 1
+of late it: 1
+of late it has: 1
+of late we: 1
+of late we have: 1
+of motives: 1
+of motives bring: 1
+of motives bring guns: 1
+of our prophet: 1
+of our prophet has: 1
+of property: 1
+of property that: 1
+of property that is: 1
+of so: 1
+of so desirable: 1
+of so desirable object: 1
+of stone brethren: 1
+of stone brethren such: 1
+of stone quarried: 1
+of stone quarried they: 1
+of that kind: 1
+of that kind they: 1
+of them have: 1
+of them have been: 1
+of them the: 1
+of them the word: 1
+of them whilst: 1
+of them whilst others: 1
+of the best: 1
+of the best of: 1
+of the brethren in: 1
+of the brethren no: 1
+of the brethren not: 1
+of the cause requires: 1
+of the committee and: 1
+of the committee as: 1
+of the committee it: 1
+of the committee there: 1
+of the edifice: 1
+of the edifice destitute: 1
+of the inhabitants: 1
+of the inhabitants of: 1
+of the lord is: 1
+of the priesthood to: 1
+of the question if: 1
+of the saints have: 1
+of the saints in: 1
+of the temple is: 1
+of the weak: 1
+of the weak and: 1
+of the work that: 1
+of the world have: 1
+of they: 1
+of they give: 1
+of they give them: 1
+of this city: 1
+of this city the: 1
+of this great: 1
+of this great work: 1
+of this place: 1
+of this place when: 1
+of to advantage: 1
+of to advantage another: 1
+of wanton: 1
+of wanton and: 1
+of wanton and unmerited: 1
+of worshipping in: 1
+of worshipping in private: 1
+of worshipping out: 1
+of worshipping out of: 1
+of worship and: 1
+of worship and so: 1
+only be: 1
+only be progressing: 1
+only be progressing with: 1
+on the hands: 1
+on the hands of: 1
+on this subject and: 1
+on this subject but: 1
+opens: 1
+opens which: 1
+opens which will: 1
+opens which will greatly: 1
+orchards: 1
+orchards or: 1
+orchards or vineyards: 1
+orchards or vineyards but: 1
+or clothing: 1
+or clothing for: 1
+or clothing for those: 1
+or easy: 1
+or easy to: 1
+or easy to dispose: 1
+or enrich: 1
+or enrich ourselves: 1
+or enrich ourselves will: 1
+or in the: 1
+or in the best: 1
+or killing: 1
+or killing are: 1
+or killing are frequently: 1
+or other: 1
+or otherwise: 1
+or otherwise milch: 1
+or otherwise milch cows: 1
+or other articles: 1
+or other articles of: 1
+or progress: 1
+or progress one: 1
+or progress one thing: 1
+or two of: 1
+or two of instruction: 1
+or vineyards: 1
+or vineyards but: 1
+or vineyards but we: 1
+others have: 1
+others have relaxed: 1
+others have relaxed in: 1
+otherwise milch: 1
+otherwise milch cows: 1
+otherwise milch cows that: 1
+other articles: 1
+other articles of: 1
+other articles of that: 1
+other kinds: 1
+other kinds of: 1
+other kinds of property: 1
+other vegetables: 1
+other vegetables if: 1
+other vegetables if when: 1
+ought not: 1
+ought not to: 1
+ought not to be: 1
+ourselves bound: 1
+ourselves bound under: 1
+ourselves bound under the: 1
+ourselves his: 1
+ourselves his people: 1
+ourselves his people we: 1
+ourselves will: 1
+ourselves will be: 1
+ourselves will be vain: 1
+our anointing: 1
+our anointing if: 1
+our anointing if we: 1
+our atmosphere: 1
+our atmosphere has: 1
+our atmosphere has been: 1
+our efforts: 1
+our efforts to: 1
+our efforts to aggrandize: 1
+our energies in building: 1
+our energies in the: 1
+our expectations: 1
+our expectations have: 1
+our expectations have been: 1
+our god: 1
+our god to: 1
+our god to fulfill: 1
+our hands: 1
+our horizon: 1
+our horizon and: 1
+our horizon and our: 1
+our labors: 1
+our labors the: 1
+our labors the committee: 1
+our present: 1
+our present our: 1
+our present our temporal: 1
+our prophet: 1
+our prophet has: 1
+our prophet has been: 1
+our temporal: 1
+our temporal and: 1
+our temporal and eternal: 1
+out of doors: 1
+out of doors where: 1
+out of the best: 1
+out of the question: 1
+participate: 1
+participate in: 1
+participate in the: 1
+participate in the blessings: 1
+pay their: 1
+pay their tenth: 1
+pay their tenth in: 1
+people and if: 1
+people and if we: 1
+people to use: 1
+people to use the: 1
+people we: 1
+people we shall: 1
+people we shall feel: 1
+perform their covenants: 1
+perform their covenants we: 1
+perform their tenth: 1
+perform their tenth of: 1
+perhaps have: 1
+perhaps have to: 1
+perhaps have to stop: 1
+perhaps we: 1
+perhaps we have: 1
+perhaps we have said: 1
+perplexed: 1
+perplexed in: 1
+perplexed in consequence: 1
+perplexed in consequence of: 1
+persecution the: 1
+persecution the life: 1
+persecution the life of: 1
+place for: 1
+place for them: 1
+place for them to: 1
+place of worship: 1
+place of worship and: 1
+place when: 1
+place when many: 1
+place when many are: 1
+plainly it: 1
+plainly it is: 1
+plainly it is for: 1
+plans and designs: 1
+plans and designs of: 1
+plant: 1
+plant orchards: 1
+plant orchards or: 1
+plant orchards or vineyards: 1
+pleasure: 1
+pleasure in: 1
+pleasure in stating: 1
+pleasure in stating that: 1
+poets: 1
+poets have: 1
+poets have sung: 1
+poets have sung and: 1
+pork: 1
+pork or: 1
+pork or other: 1
+pork or other articles: 1
+potatoes: 1
+potatoes and: 1
+potatoes and other: 1
+potatoes and other vegetables: 1
+pregnant: 1
+pregnant with: 1
+pregnant with importance: 1
+pregnant with importance to: 1
+present our: 1
+present our temporal: 1
+present our temporal and: 1
+prey upon: 1
+prey upon the: 1
+prey upon the systems: 1
+priesthood to: 1
+priesthood to be: 1
+priesthood to be more: 1
+principally depending: 1
+principally depending upon: 1
+principally depending upon the: 1
+private houses: 1
+private houses or: 1
+private houses or in: 1
+privileges that: 1
+progressing with: 1
+progressing with the: 1
+progressing with the work: 1
+progress of the: 1
+progress of the work: 1
+progress one: 1
+progress one thing: 1
+progress one thing is: 1
+promptly: 1
+promptly to: 1
+promptly to their: 1
+promptly to their duty: 1
+property on: 1
+property on the: 1
+property on the hands: 1
+property that: 1
+property that is: 1
+property that is not: 1
+prophets from: 1
+prophets from the: 1
+prophets from the foundation: 1
+prophet has: 1
+prophet has been: 1
+prophet has been sought: 1
+prosperity of: 1
+prosperity of the: 1
+prosperity of the work: 1
+provisions: 1
+provisions or: 1
+provisions or clothing: 1
+provisions or clothing for: 1
+pumpkins: 1
+pumpkins squashes: 1
+pumpkins squashes potatoes: 1
+pumpkins squashes potatoes and: 1
+purchase either: 1
+purchase either provisions: 1
+purchase either provisions or: 1
+purchase labor: 1
+purchase labor and: 1
+purchase labor and they: 1
+put into the: 1
+put into the drove: 1
+quantity: 1
+quantity of: 1
+quantity of hewn: 1
+quantity of hewn stone: 1
+quarried they: 1
+quarried they can: 1
+quarried they can not: 1
+quarried to: 1
+quarried to supply: 1
+quarried to supply the: 1
+question if: 1
+question if we: 1
+question if we wish: 1
+quit: 1
+quit work: 1
+quit work in: 1
+quit work in consequence: 1
+ready to commence: 1
+ready to commence with: 1
+reasons might: 1
+reasons might be: 1
+reasons might be considered: 1
+receive great: 1
+receive great blessings: 1
+receive great blessings from: 1
+receive our: 1
+receive our anointing: 1
+receive our anointing if: 1
+reflected: 1
+reflected upon: 1
+reflected upon the: 1
+reflected upon the blessings: 1
+regard to the brethren: 1
+regard to this: 1
+regard to this affair: 1
+relaxed: 1
+relaxed in: 1
+relaxed in their: 1
+relaxed in their duty: 1
+religious community: 1
+religious community to: 1
+religious community to use: 1
+renders: 1
+renders it: 1
+renders it imperative: 1
+renders it imperative upon: 1
+required of: 1
+required of them: 1
+required of them whilst: 1
+requires at: 1
+requires at our: 1
+requires at our hands: 1
+requisition: 1
+requisition we: 1
+requisition we take: 1
+requisition we take pleasure: 1
+reserved: 1
+reserved us: 1
+reserved us as: 1
+reserved us as the: 1
+responsible: 1
+responsible to: 1
+responsible to the: 1
+responsible to the great: 1
+retard: 1
+retarded: 1
+retarded and: 1
+retarded and perhaps: 1
+retarded and perhaps have: 1
+retard the: 1
+retard the work: 1
+retard the work to: 1
+revelation from the: 1
+revelation from the most: 1
+said enough: 1
+said enough on: 1
+said enough on this: 1
+said this: 1
+said this is: 1
+said this is a: 1
+saints have: 1
+saints have come: 1
+saints have come forward: 1
+saints in the: 1
+saints in the accomplishment: 1
+saints it: 1
+saints it is: 1
+saints it is impossible: 1
+saints of the most: 1
+saleable or: 1
+saleable or easy: 1
+saleable or easy to: 1
+saleable they: 1
+saleable they will: 1
+saleable they will not: 1
+salvation we: 1
+salvation we shall: 1
+salvation we shall build: 1
+same fate: 1
+same fate that: 1
+same fate that we: 1
+say a word: 1
+say a word cattle: 1
+say whether the: 1
+say whether the work: 1
+season when: 1
+season when instead: 1
+season when instead of: 1
+secure our: 1
+secure our present: 1
+secure our present our: 1
+secure the: 1
+secure the blessings: 1
+secure the blessings of: 1
+servants of god a: 1
+several have: 1
+several have wandered: 1
+several have wandered off: 1
+shall build: 1
+shall build that: 1
+shall build that house: 1
+shall feel: 1
+shall feel ourselves: 1
+shall feel ourselves bound: 1
+shall not eat: 1
+shall not eat the: 1
+shall not enjoy: 1
+shall not enjoy them: 1
+shall not inhabit: 1
+shall not inhabit them: 1
+shall stand: 1
+shall stand or: 1
+shall stand or progress: 1
+share the same: 1
+share the same fate: 1
+slack: 1
+slacken: 1
+slacken the: 1
+slacken the exertions: 1
+slacken the exertions of: 1
+slack as: 1
+slack as has: 1
+slack as has been: 1
+slow: 1
+slow to: 1
+slow to perform: 1
+slow to perform their: 1
+some few things: 1
+some few things that: 1
+some of them: 1
+some of them have: 1
+soon as the spring: 1
+sought after: 1
+sought after and: 1
+sought after and many: 1
+so desirable for: 1
+so desirable for us: 1
+so desirable object: 1
+so desirable object but: 1
+so many thousands: 1
+so many thousands subject: 1
+so pregnant: 1
+so pregnant with: 1
+so pregnant with importance: 1
+speak plainly: 1
+speak plainly it: 1
+speak plainly it is: 1
+spent a: 1
+spent a great: 1
+spent a great deal: 1
+splendid houses: 1
+splendid houses but: 1
+splendid houses but we: 1
+spring opens: 1
+spring opens which: 1
+spring opens which will: 1
+squashes: 1
+squashes potatoes: 1
+squashes potatoes and: 1
+squashes potatoes and other: 1
+stand or: 1
+stand or progress: 1
+stand or progress one: 1
+stand responsible: 1
+stand responsible to: 1
+stand responsible to the: 1
+state that if: 1
+state that if they: 1
+state that they: 1
+state that they cannot: 1
+stating that: 1
+stating that many: 1
+stating that many of: 1
+stone brethren: 1
+stone brethren such: 1
+stone brethren such things: 1
+stone cutters at: 1
+stone cutters at the: 1
+stone cutters can: 1
+stone cutters can be: 1
+stone cutters will: 1
+stone cutters will have: 1
+stone quarried they: 1
+stone quarried they can: 1
+stone quarried to: 1
+stone quarried to supply: 1
+stone ready: 1
+stone ready to: 1
+stone ready to commence: 1
+stop at: 1
+stop at all: 1
+stop at all events: 1
+stop unless: 1
+stop unless they: 1
+stop unless they get: 1
+strenuous: 1
+strenuous exertions: 1
+strenuous exertions are: 1
+strenuous exertions are immediately: 1
+strongest: 1
+strongest obligations: 1
+strongest obligations even: 1
+strongest obligations even that: 1
+subjected to: 1
+subjected to the: 1
+subjected to the inconvenience: 1
+subject and we: 1
+subject and we have: 1
+subject but we: 1
+subject but we feel: 1
+subject has: 1
+subject has to: 1
+subject has to be: 1
+subject in which: 1
+subject in which the: 1
+subject them: 1
+subject them to: 1
+subject them to colds: 1
+subject to the inconvenience: 1
+such things ought: 1
+such things ought not: 1
+sufficiency: 1
+sufficiency of: 1
+sufficiency of stone: 1
+sufficiency of stone quarried: 1
+sufficient stone: 1
+sufficient stone quarried: 1
+sufficient stone quarried to: 1
+sufficient to induce: 1
+sufficient to induce any: 1
+sung: 1
+sung and: 1
+sung and all: 1
+sung and all the: 1
+supply of: 1
+supply of stone: 1
+supply of stone brethren: 1
+supply the hands: 1
+supply the hands with: 1
+supply the stone: 1
+supply the stone cutters: 1
+s labor: 1
+s labor of: 1
+s labor of the: 1
+s people: 1
+s people and: 1
+s people and if: 1
+systems of: 1
+systems of the: 1
+systems of the weak: 1
+take pleasure: 1
+take pleasure in: 1
+take pleasure in stating: 1
+temple and that: 1
+temple and that some: 1
+temple is: 1
+temple is principally: 1
+temple is principally depending: 1
+temporal and: 1
+temporal and eternal: 1
+temporal and eternal salvation: 1
+tendency to damp: 1
+tendency to damp the: 1
+tendency to retard: 1
+tendency to retard the: 1
+tenth day: 1
+tenth day s: 1
+tenth day s labor: 1
+tenth in: 1
+tenth in labor: 1
+tenth in labor and: 1
+tenth of: 1
+tenth of labor: 1
+tenth of labor they: 1
+than another: 1
+than another it: 1
+than another it is: 1
+than could: 1
+than could have: 1
+than could have been: 1
+that command: 1
+that command is: 1
+that command is fulfilled: 1
+that devolve: 1
+that devolve upon: 1
+that devolve upon us: 1
+that has been looked: 1
+that house this: 1
+that house this however: 1
+that if they: 1
+that if they have: 1
+that is done: 1
+that is done all: 1
+that is not: 1
+that is not saleable: 1
+that kind: 1
+that kind they: 1
+that kind they would: 1
+that many: 1
+that many of: 1
+that many of the: 1
+that medium: 1
+that medium let: 1
+that medium let us: 1
+that might: 1
+that might be: 1
+that might be disposed: 1
+that need: 1
+that need neither: 1
+that need neither will: 1
+that of duty: 1
+that of duty to: 1
+that of late: 1
+that of late we: 1
+that some of: 1
+that some of them: 1
+that the brethren: 1
+that the brethren in: 1
+that they cannot get: 1
+that unless strenuous: 1
+that unless strenuous exertions: 1
+that unless that: 1
+that unless that is: 1
+that we can and: 1
+that we have heretofore: 1
+that we have to: 1
+that would flow: 1
+that would flow to: 1
+their covenants: 1
+their covenants we: 1
+their covenants we know: 1
+their different: 1
+their different wards: 1
+their different wards to: 1
+their duty and: 1
+their duty and have: 1
+their duty the: 1
+their duty the work: 1
+their liberality: 1
+their liberality bring: 1
+their liberality bring in: 1
+their nature: 1
+their nature have: 1
+their nature have had: 1
+their tenth in: 1
+their tenth in labor: 1
+their tenth of: 1
+their tenth of labor: 1
+their utmost: 1
+their utmost exertions: 1
+their utmost exertions in: 1
+theme: 1
+theme about: 1
+theme about which: 1
+theme about which all: 1
+themselves very: 1
+themselves very much: 1
+themselves very much perplexed: 1
+them have: 1
+them have been: 1
+them have been obliged: 1
+them in at: 1
+them in at what: 1
+them the word: 1
+them the word of: 1
+them they: 1
+them they are: 1
+them they are put: 1
+them to colds: 1
+them to colds fevers: 1
+them to congregate: 1
+them to congregate in: 1
+them to hear: 1
+them to hear it: 1
+them we may cultivate: 1
+them we may plant: 1
+them whilst: 1
+them whilst others: 1
+them whilst others have: 1
+therefore advise: 1
+therefore advise the: 1
+therefore advise the brethren: 1
+therefore speak: 1
+therefore speak plainly: 1
+therefore speak plainly it: 1
+there are some few: 1
+there is any: 1
+there is any subject: 1
+there is no place: 1
+these as: 1
+these as natural: 1
+these as natural reasons: 1
+these circumstances: 1
+these circumstances blessed: 1
+these circumstances blessed with: 1
+the accomplishment of an: 1
+the accomplishment of so: 1
+the accomplishment of this: 1
+the ancient servants: 1
+the ancient servants of: 1
+the best manner: 1
+the best manner that: 1
+the best of: 1
+the best of motives: 1
+the blessings glories: 1
+the blessings glories and: 1
+the blessings of: 1
+the blessings of the: 1
+the blessings that: 1
+the blessings that would: 1
+the brethren come: 1
+the brethren come up: 1
+the brethren in the: 1
+the brethren in their: 1
+the brethren in town: 1
+the brethren no: 1
+the brethren not: 1
+the brethren not coming: 1
+the brethren no doubt: 1
+the brethren to: 1
+the brethren to bring: 1
+the building: 1
+the building of: 1
+the building of the: 1
+the cause requires: 1
+the cause requires at: 1
+the cold: 1
+the cold heat: 1
+the cold heat and: 1
+the committee and: 1
+the committee and absolutely: 1
+the committee as: 1
+the committee as they: 1
+the committee find: 1
+the committee find themselves: 1
+the committee it: 1
+the committee it is: 1
+the committee state: 1
+the committee state that: 1
+the committee there: 1
+the committee there are: 1
+the completion: 1
+the completion of: 1
+the completion of the: 1
+the country we: 1
+the country we would: 1
+the drove: 1
+the drove from: 1
+the drove from which: 1
+the ease: 1
+the ease of: 1
+the ease of late: 1
+the edifice: 1
+the edifice destitute: 1
+the edifice destitute of: 1
+the energies: 1
+the energies and: 1
+the energies and slacken: 1
+the especial: 1
+the especial desire: 1
+the especial desire of: 1
+the exertions: 1
+the exertions of: 1
+the exertions of the: 1
+the foul: 1
+the foul effluvia: 1
+the foul effluvia of: 1
+the fruit: 1
+the fruit of: 1
+the fruit of them: 1
+the fulfillment: 1
+the fulfillment of: 1
+the fulfillment of it: 1
+the glory: 1
+the glory of: 1
+the glory of the: 1
+the god has: 1
+the god has reserved: 1
+the great jehovah: 1
+the great jehovah for: 1
+the great work in: 1
+the hands of jehovah: 1
+the hands with: 1
+the hands with beef: 1
+the honored: 1
+the honored instruments: 1
+the honored instruments to: 1
+the importance of it: 1
+the importance of the: 1
+the inconveniences: 1
+the inconveniences that: 1
+the inconveniences that we: 1
+the inspired poets: 1
+the inspired poets have: 1
+the life: 1
+the life of: 1
+the life of our: 1
+the light and: 1
+the light and intelligence: 1
+the lord has given: 1
+the lord is build: 1
+the most high are: 1
+the most high it: 1
+the most untiring: 1
+the most untiring diligence: 1
+the plans and: 1
+the plans and designs: 1
+the priesthood to: 1
+the priesthood to be: 1
+the progress of the: 1
+the prophets from: 1
+the prophets from the: 1
+the prosperity: 1
+the prosperity of: 1
+the prosperity of the: 1
+the question if: 1
+the question if we: 1
+the saints have: 1
+the saints have come: 1
+the saints in the: 1
+the saints it: 1
+the saints it is: 1
+the same fate: 1
+the same fate that: 1
+the spring opens: 1
+the spring opens which: 1
+the stone cutters at: 1
+the stone cutters can: 1
+the stone cutters will: 1
+the strongest: 1
+the strongest obligations: 1
+the strongest obligations even: 1
+the systems: 1
+the systems of: 1
+the systems of the: 1
+the temple and that: 1
+the temple is: 1
+the temple is principally: 1
+the tenth: 1
+the tenth day: 1
+the tenth day s: 1
+the weak and: 1
+the weak and delicate: 1
+the will of god: 1
+the winter and: 1
+the winter and thus: 1
+the winter season: 1
+the winter season when: 1
+the work and: 1
+the work and to: 1
+the work shall: 1
+the work shall stand: 1
+the work that: 1
+the work that the: 1
+the work this: 1
+the work this fall: 1
+the work to: 1
+the work to dispirit: 1
+the work will: 1
+the work will be: 1
+the world have: 1
+the world have wrote: 1
+they are not saleable: 1
+they are put: 1
+they are put into: 1
+they cannot get: 1
+they cannot get sufficient: 1
+they can not: 1
+they can not only: 1
+they could bring: 1
+they could bring a: 1
+they get: 1
+they get an: 1
+they get an immediate: 1
+they give: 1
+they give them: 1
+they give them in: 1
+they have a: 1
+they have a sufficiency: 1
+they have no: 1
+they have no way: 1
+they lay as dead: 1
+they lay as useless: 1
+they purchase: 1
+they purchase labor: 1
+they purchase labor and: 1
+they state: 1
+they state that: 1
+they state that they: 1
+they were doing: 1
+they were doing this: 1
+they will not: 1
+they will not purchase: 1
+they would be very: 1
+things ought: 1
+things ought not: 1
+things ought not to: 1
+things that devolve: 1
+things that devolve upon: 1
+thing is certain that: 1
+this affair: 1
+this affair and: 1
+this affair and has: 1
+this city the: 1
+this city the lord: 1
+this fall: 1
+this fall but: 1
+this fall but the: 1
+this great: 1
+this great work: 1
+this great work and: 1
+this however: 1
+this however is: 1
+this however is tolerable: 1
+this is a commandment: 1
+this next: 1
+this next week: 1
+this next week and: 1
+this place: 1
+this place when: 1
+this place when many: 1
+this requisition: 1
+this requisition we: 1
+this requisition we take: 1
+this subject and we: 1
+this subject but: 1
+this subject but we: 1
+this they: 1
+this they could: 1
+this they could bring: 1
+those that need: 1
+those that need neither: 1
+those who are actively: 1
+though an: 1
+though an unpleasant: 1
+though an unpleasant work: 1
+thousands subject: 1
+thousands subject to: 1
+thousands subject to the: 1
+through that: 1
+through that medium: 1
+through that medium let: 1
+thus have: 1
+thus have a: 1
+thus have a great: 1
+times clouds: 1
+times clouds have: 1
+times clouds have been: 1
+time we: 1
+time we may: 1
+time we may have: 1
+tithed: 1
+tithed and: 1
+tithed and consecrated: 1
+tithed and consecrated all: 1
+tithing: 1
+tithing and: 1
+tithing and they: 1
+tithing and they lay: 1
+toil: 1
+toil and: 1
+toil and our: 1
+toil and our expectations: 1
+tolerable: 1
+tolerable when: 1
+tolerable when we: 1
+tolerable when we consider: 1
+town pay: 1
+town pay their: 1
+town pay their tenth: 1
+to advantage: 1
+to advantage another: 1
+to advantage another word: 1
+to aggrandize: 1
+to aggrandize or: 1
+to aggrandize or enrich: 1
+to and so: 1
+to and so pregnant: 1
+to attend: 1
+to attend to: 1
+to attend to and: 1
+to be laid: 1
+to be laid before: 1
+to be more: 1
+to be more fully: 1
+to be we: 1
+to be we have: 1
+to bring in: 1
+to bring in fat: 1
+to colds: 1
+to colds fevers: 1
+to colds fevers and: 1
+to commence: 1
+to commence with: 1
+to commence with as: 1
+to congregate: 1
+to congregate in: 1
+to damp: 1
+to damp the: 1
+to damp the energies: 1
+to derange: 1
+to derange very: 1
+to derange very materially: 1
+to dispirit: 1
+to dispirit those: 1
+to dispirit those who: 1
+to dispose: 1
+to dispose of: 1
+to dispose of they: 1
+to do the: 1
+to do the will: 1
+to exert: 1
+to exert all: 1
+to exert all our: 1
+to fulfill: 1
+to fulfill this: 1
+to fulfill this requisition: 1
+to give a: 1
+to give a word: 1
+to hear: 1
+to hear it: 1
+to hear it as: 1
+to induce: 1
+to induce any: 1
+to induce any religious: 1
+to labor under: 1
+to labor under in: 1
+to mention which: 1
+to mention which though: 1
+to our god: 1
+to our god to: 1
+to participate: 1
+to participate in: 1
+to participate in the: 1
+to perform their covenants: 1
+to perform their tenth: 1
+to quit: 1
+to quit work: 1
+to quit work in: 1
+to receive great: 1
+to receive great blessings: 1
+to receive our: 1
+to receive our anointing: 1
+to retard: 1
+to retard the: 1
+to retard the work: 1
+to say whether the: 1
+to secure our: 1
+to secure our present: 1
+to secure the: 1
+to secure the blessings: 1
+to share: 1
+to share the: 1
+to share the same: 1
+to stop at: 1
+to stop at all: 1
+to stop unless: 1
+to stop unless they: 1
+to supply: 1
+to supply the: 1
+to supply the stone: 1
+to their duty: 1
+to their duty the: 1
+to the brethren: 1
+to the brethren in: 1
+to the great: 1
+to the great jehovah: 1
+to the inhabitants: 1
+to the inhabitants of: 1
+to this affair: 1
+to this affair and: 1
+to use our: 1
+to use our energies: 1
+to use the: 1
+to use their: 1
+to use their utmost: 1
+to use the most: 1
+to us through: 1
+to us through that: 1
+to with: 1
+to with delight: 1
+to with delight by: 1
+to worship: 1
+to worship in: 1
+to worship in we: 1
+transpired which: 1
+transpired which in: 1
+transpired which in their: 1
+two of instruction: 1
+two of instruction many: 1
+under in: 1
+under in the: 1
+under in the winter: 1
+under these circumstances: 1
+under these circumstances blessed: 1
+under the strongest: 1
+under the strongest obligations: 1
+unless strenuous: 1
+unless strenuous exertions: 1
+unless strenuous exertions are: 1
+unless that: 1
+unless that is: 1
+unless that is done: 1
+unless they: 1
+unless they get: 1
+unless they get an: 1
+unmerited: 1
+unmerited persecution: 1
+unmerited persecution the: 1
+unmerited persecution the life: 1
+unpleasant circumstances: 1
+unpleasant circumstances have: 1
+unpleasant circumstances have transpired: 1
+unpleasant work: 1
+unpleasant work we: 1
+unpleasant work we feel: 1
+until that: 1
+until that command: 1
+until that command is: 1
+untiring: 1
+untiring diligence: 1
+untiring diligence and: 1
+untiring diligence and to: 1
+upon all: 1
+upon all god: 1
+upon all god s: 1
+upon the blessings: 1
+upon the blessings that: 1
+upon the systems: 1
+upon the systems of: 1
+upon the tenth: 1
+upon the tenth day: 1
+upon us to mention: 1
+upon us to use: 1
+up promptly: 1
+up promptly to: 1
+up promptly to their: 1
+useless lumber: 1
+useless lumber the: 1
+useless lumber the hands: 1
+use our: 1
+use our energies: 1
+use our energies in: 1
+use the: 1
+use their: 1
+use their utmost: 1
+use their utmost exertions: 1
+use the most: 1
+use the most untiring: 1
+usual: 1
+usual from: 1
+usual from their: 1
+usual from their different: 1
+us as his: 1
+us as his people: 1
+us as the: 1
+us as the honored: 1
+us begin: 1
+us begin this: 1
+us begin this next: 1
+us directions: 1
+us directions in: 1
+us directions in regard: 1
+us through: 1
+us through that: 1
+us through that medium: 1
+us to attend: 1
+us to attend to: 1
+us to mention: 1
+us to mention which: 1
+us to use: 1
+us to use our: 1
+utmost: 1
+utmost exertions: 1
+utmost exertions in: 1
+utmost exertions in the: 1
+vain: 1
+vain and: 1
+vain and futile: 1
+vain and futile we: 1
+valuation: 1
+valuation yet: 1
+valuation yet they: 1
+valuation yet they are: 1
+variety: 1
+variety of: 1
+variety of diseases: 1
+variety of diseases renders: 1
+vegetables: 1
+vegetables if: 1
+vegetables if when: 1
+vegetables if when they: 1
+very acceptable: 1
+very materially: 1
+very materially the: 1
+very materially the plans: 1
+very much perplexed: 1
+very much perplexed in: 1
+vineyards: 1
+vineyards but: 1
+vineyards but we: 1
+vineyards but we shall: 1
+wandered: 1
+wandered off: 1
+wandered off and: 1
+wandered off and been: 1
+wanton: 1
+wanton and: 1
+wanton and unmerited: 1
+wanton and unmerited persecution: 1
+wards: 1
+wards to: 1
+wards to perform: 1
+wards to perform their: 1
+watches: 1
+watches and: 1
+watches and other: 1
+watches and other kinds: 1
+way of: 1
+way of feeding: 1
+way of feeding them: 1
+weak and: 1
+weak and delicate: 1
+weak and delicate and: 1
+week and continue: 1
+week and continue our: 1
+were doing: 1
+were doing this: 1
+were doing this they: 1
+we are engaged: 1
+we are engaged a: 1
+we are subjected: 1
+we are subjected to: 1
+we can and: 1
+we can and no: 1
+we consider ourselves: 1
+we consider ourselves his: 1
+we consider the great: 1
+we consider the inconveniences: 1
+we have been: 1
+we have been zealously: 1
+we have commenced: 1
+we have commenced a: 1
+we have done: 1
+we have done many: 1
+we have had: 1
+we have had gloomy: 1
+we have heretofore: 1
+we have heretofore done: 1
+we have reflected: 1
+we have reflected upon: 1
+we have said enough: 1
+we have spent: 1
+we have spent a: 1
+we have to: 1
+we have to labor: 1
+we know that: 1
+we know that of: 1
+we may build: 1
+we may build splendid: 1
+we may cultivate: 1
+we may cultivate farms: 1
+we may have: 1
+we may have to: 1
+we may plant: 1
+we may plant orchards: 1
+we shall build: 1
+we shall build that: 1
+we shall feel: 1
+we shall feel ourselves: 1
+we shall not eat: 1
+we shall not enjoy: 1
+we shall not inhabit: 1
+we stand: 1
+we stand responsible: 1
+we stand responsible to: 1
+we take: 1
+we take pleasure: 1
+we take pleasure in: 1
+we wish the: 1
+we wish the glory: 1
+we wish to do: 1
+we wish to secure: 1
+we would also: 1
+we would also say: 1
+we would therefore: 1
+we would therefore advise: 1
+what is considered: 1
+what is considered a: 1
+when instead: 1
+when instead of: 1
+when instead of having: 1
+when many: 1
+when many are: 1
+when many are slack: 1
+when they were: 1
+when they were doing: 1
+when we have: 1
+when we have reflected: 1
+where the cold: 1
+where the cold heat: 1
+whether the: 1
+whether the work: 1
+whether the work shall: 1
+which all the inspired: 1
+which are neither: 1
+which are neither fit: 1
+which in: 1
+which in their: 1
+which in their nature: 1
+which is binding: 1
+which is binding which: 1
+which is imperative: 1
+which is imperative upon: 1
+which several: 1
+which several have: 1
+which several have wandered: 1
+which the saints: 1
+which the saints of: 1
+which though: 1
+which though an: 1
+which though an unpleasant: 1
+which we are: 1
+which we are engaged: 1
+which will greatly: 1
+which will greatly facilitate: 1
+which would: 1
+which would immediately: 1
+which would immediately supply: 1
+whilst others: 1
+whilst others have: 1
+whilst others have relaxed: 1
+who are actively: 1
+who are actively engaged: 1
+who feel: 1
+who feel zealous: 1
+who feel zealous in: 1
+willingness: 1
+willingness and: 1
+willingness and cheerfulness: 1
+willingness and cheerfulness and: 1
+will be greatly: 1
+will be greatly retarded: 1
+will be vain: 1
+will be vain and: 1
+will greatly: 1
+will greatly facilitate: 1
+will greatly facilitate the: 1
+will have to stop: 1
+will not purchase: 1
+will not purchase either: 1
+will of god: 1
+will of god and: 1
+will they: 1
+will they purchase: 1
+will they purchase labor: 1
+winter and: 1
+winter and thus: 1
+winter and thus have: 1
+winter season: 1
+winter season when: 1
+winter season when instead: 1
+wish the: 1
+wish the glory: 1
+wish the glory of: 1
+wish to do: 1
+wish to do the: 1
+wish to receive great: 1
+wish to receive our: 1
+wish to secure: 1
+wish to secure our: 1
+with as soon: 1
+with as soon as: 1
+with beef: 1
+with beef or: 1
+with beef or otherwise: 1
+with delight: 1
+with delight by: 1
+with delight by the: 1
+with direct: 1
+with direct revelation: 1
+with direct revelation from: 1
+with importance: 1
+with importance to: 1
+with importance to the: 1
+with the foul: 1
+with the foul effluvia: 1
+with the light: 1
+with the light and: 1
+with the work: 1
+with the work this: 1
+with willingness: 1
+with willingness and: 1
+with willingness and cheerfulness: 1
+word cattle: 1
+word cattle which: 1
+word cattle which are: 1
+word on: 1
+word on this: 1
+word on this subject: 1
+word or: 1
+word or two: 1
+word or two of: 1
+work and as: 1
+work and as the: 1
+work and to: 1
+work and to derange: 1
+work in consequence: 1
+work in consequence and: 1
+work in which: 1
+work in which we: 1
+work shall: 1
+work shall stand: 1
+work shall stand or: 1
+work that has: 1
+work that has been: 1
+work that the: 1
+work that the brethren: 1
+work this: 1
+work this fall: 1
+work this fall but: 1
+work to dispirit: 1
+work to dispirit those: 1
+work we feel: 1
+work we feel the: 1
+work we have: 1
+work we have been: 1
+work will: 1
+work will be: 1
+work will be greatly: 1
+world have: 1
+world have wrote: 1
+world have wrote even: 1
+worshipping in: 1
+worshipping in private: 1
+worshipping in private houses: 1
+worshipping out: 1
+worshipping out of: 1
+worshipping out of doors: 1
+worship and: 1
+worship and so: 1
+worship and so many: 1
+worship in: 1
+worship in we: 1
+worship in we are: 1
+would also: 1
+would also say: 1
+would also say a: 1
+would be very: 1
+would be very acceptable: 1
+would flow: 1
+would flow to: 1
+would flow to us: 1
+would immediately: 1
+would immediately supply: 1
+would immediately supply the: 1
+would therefore: 1
+would therefore advise: 1
+would therefore advise the: 1
+wrote even: 1
+wrote even the: 1
+wrote even the god: 1
+yea more: 1
+yea more than: 1
+yea more than could: 1
+yet they are: 1
+yet they are not: 1
+you brethren: 1
+you brethren to: 1
+you brethren to say: 1
+zealous: 1
+zealously: 1
+zealously engaged: 1
+zealously engaged in: 1
+zealously engaged in it: 1
+zealous in: 1
+zealous in the: 1
+zealous in the work: 1

@@ -1,38 +1,54 @@
 misery: 17
 perfect: 13
+beauty: 15
+governed: 11
 manifested: 11
 at the present: 10
+our savior: 8
 we see: 12
+on the earth: 16
 governed by: 9
+numbers: 7
 ministers: 10
 methodist: 13
 man is: 9
 nature: 9
 the government: 9
 wherein: 7
+god s: 11
 misery and: 11
 exist in: 8
 government of: 10
+week: 10
 a number: 7
 a number of: 7
 harmony: 7
+introduced: 7
 son of god: 7
 system: 7
+corruption: 9
 douglas: 9
+nations of: 9
+by xxtitleandname: 6
+magnificence: 6
 that exist: 6
 that exist in: 6
 under his: 6
 associated with: 8
 briefly: 8
+systems: 8
 the government of: 8
 desires: 7
+in the world: 7
 nothing but: 7
 of god is: 7
 present time: 7
 reign of: 7
+resources: 7
 the present time: 7
 and death: 5
 a time: 5
+gathered: 5
 ignorant: 5
 it would seem: 5
 man we: 5
@@ -41,6 +57,7 @@ principles that: 5
 would seem: 5
 unhappy: 10
 at the present time: 6
+destiny: 6
 document: 6
 fish: 6
 forced: 6
@@ -55,14 +72,17 @@ turn our attention: 6
 virtuous: 6
 his laws: 9
 and glory: 4
+events: 4
 for the purpose: 4
 for the purpose of: 4
+god and the: 4
 guidance: 4
 honourable: 4
 it out: 4
 i might: 4
 jealousy: 4
 now turn: 4
+of god and the: 4
 of man and: 4
 out a: 4
 out of their: 4
@@ -71,10 +91,12 @@ prevails: 4
 purpose of: 4
 remark that: 4
 supported: 4
+terms: 4
 there has: 4
 the purpose: 4
 the purpose of: 4
 unnecessary: 4
+xxtitleandname has: 4
 the body: 8
 agency: 5
 birds: 5
@@ -86,12 +108,14 @@ is our: 5
 is perfect: 5
 is there: 5
 jesus said: 5
+nations and: 5
 of by: 5
 rich: 5
 smaller: 5
 stranger: 5
 the government of god: 5
 the happiness: 5
+the nations of: 5
 the son of god: 5
 the world in: 5
 they could not: 5
@@ -112,6 +136,8 @@ at present: 4
 a moral: 4
 a perfect: 4
 be gathered: 4
+confusion and: 4
+discussion: 4
 disorder: 4
 fear of god: 4
 for ages: 4
@@ -148,7 +174,9 @@ recourse to: 4
 satan has: 4
 shew: 4
 should have: 4
+stated that: 4
 their bodies: 4
+their eyes: 4
 there is a: 4
 the birds: 4
 the fear: 4
@@ -166,6 +194,7 @@ unhealthy: 4
 weakness: 4
 wesleyan: 4
 we turn: 4
+whilst: 4
 world s: 4
 world was: 4
 xxscrip xxnumber: 4
@@ -183,10 +212,13 @@ our people: 6
 sway: 6
 world is: 6
 ambition: 5
+and intelligence: 5
+and our: 5
 arrayed: 5
 arrayed against: 5
 a country: 5
 body and: 5
+families: 5
 france: 5
 gentlemen: 5
 good and: 5
@@ -194,6 +226,7 @@ happiness of: 5
 kingdom of god is: 5
 legislation: 5
 national: 5
+nations of the: 5
 not to mention: 5
 of society: 5
 order and: 5
@@ -206,6 +239,7 @@ surprised: 5
 their proper: 5
 the world is: 5
 to satisfy: 5
+will have: 5
 all the world: 3
 alone and: 3
 and after: 3
@@ -229,11 +263,17 @@ by and: 3
 climate: 3
 composed: 3
 composed of: 3
+could not be: 3
+destroyed and: 3
+developed: 3
 did not know: 3
 difference between: 3
 earth to: 3
 enjoyment: 3
+enter: 3
 enter into: 3
+free: 3
+given by: 3
 gorgeous: 3
 has introduced: 3
 higher: 3
@@ -257,6 +297,7 @@ methodists: 3
 moment the: 3
 necessary that: 3
 nonsense: 3
+not agree: 3
 not having: 3
 not so: 3
 of and: 3
@@ -272,6 +313,7 @@ point out: 3
 pomp: 3
 present and: 3
 propagating: 3
+referred to: 3
 regulate: 3
 religion and: 3
 remarks of: 3
@@ -295,12 +337,16 @@ the present and: 3
 the world s: 3
 the xxtitleandname: 3
 this and: 3
+this thing: 3
 to answer: 3
 to death: 3
 to govern: 3
 transgression: 3
+truly: 3
 two of: 3
+upon the earth: 3
 up of: 3
+was and: 3
 we are told: 3
 we find: 3
 we see nothing: 3
@@ -312,6 +358,7 @@ with which: 3
 arrangement: 4
 carnage: 4
 children of the: 4
+cities and: 4
 controlled: 4
 creation as: 4
 england and: 4
@@ -319,12 +366,14 @@ flowers: 4
 forced to: 4
 for our: 4
 gift of: 4
+gloomy: 4
 god will be: 4
 groaning: 4
 here to: 4
 ideas: 4
 if a nation: 4
 incompetency of: 4
+industry: 4
 in its present: 4
 in many instances: 4
 its present: 4
@@ -338,6 +387,7 @@ officers of: 4
 of creation: 4
 of douglas: 4
 of our brethren: 4
+of some of: 4
 of some of the: 4
 organization: 4
 paradise: 4
@@ -367,6 +417,7 @@ the methodist: 4
 the mormons: 4
 the situation of the: 4
 the waters of: 4
+the wisdom: 4
 this state of: 4
 this state of things: 4
 uncertainty: 4
@@ -413,6 +464,8 @@ a reign of: 3
 a reign of righteousness: 3
 a right: 3
 a right to: 3
+a state: 3
+a state of: 3
 a stranger: 3
 beast: 3
 been revived: 3
@@ -424,6 +477,7 @@ but satan: 3
 but satan has: 3
 certainly not: 3
 challenged: 3
+clear: 3
 coercion: 3
 consummate: 3
 consummate wisdom: 3
@@ -434,7 +488,10 @@ destruction and: 3
 discord: 3
 dominion: 3
 do good: 3
+drink: 3
+dying: 3
 each other as: 3
+earth and the: 3
 earth but: 3
 england and the: 3
 error: 3
@@ -452,6 +509,7 @@ groaning under: 3
 growth: 3
 had it: 3
 harvest: 3
+has to: 3
 have placed: 3
 here refer: 3
 he governs: 3
@@ -467,6 +525,8 @@ imbecility: 3
 imbecility and: 3
 increase the: 3
 industry and: 3
+in regard: 3
+in regard to: 3
 in the councils: 3
 in the town: 3
 in your: 3
@@ -490,12 +550,14 @@ my arrival: 3
 my arrival in: 3
 nations of the world: 3
 nations they: 3
+natural: 3
 necessitated: 3
 necessitated to: 3
 necessitated to have: 3
 necessitated to have recourse: 3
 nothing but a: 3
 not see: 3
+not to be: 3
 not to mention the: 3
 not with: 3
 no power: 3
@@ -516,9 +578,11 @@ of the human family: 3
 of the methodist: 3
 of the smaller: 3
 one is: 3
+on the earth and: 3
 on the earth the: 3
 other as: 3
 our father: 3
+our lord: 3
 over which: 3
 painted: 3
 pearl: 3
@@ -527,6 +591,7 @@ pent up: 3
 pity: 3
 planet: 3
 policy: 3
+preachers: 3
 prevail in: 3
 principle is: 3
 produces: 3
@@ -552,6 +617,7 @@ since my arrival: 3
 since my arrival in: 3
 skins: 3
 sorrow: 3
+space: 3
 spain: 3
 states that: 3
 steps: 3
@@ -574,6 +640,7 @@ the earth the: 3
 the eye: 3
 the government of man: 3
 the ministers: 3
+the nations of the: 3
 the planetary: 3
 the planets: 3
 the position of: 3
@@ -583,6 +650,7 @@ the town of douglas: 3
 they should be: 3
 this subject and: 3
 thousand persons: 3
+together with the: 3
 town of douglas: 3
 to abide: 3
 to another: 3
@@ -624,6 +692,7 @@ accredited: 2
 acquisition: 2
 acquisition of: 2
 actions: 2
+actually: 2
 afraid of: 2
 against our: 2
 against our savior: 2
@@ -640,6 +709,7 @@ am writing: 2
 and afterwards: 2
 and and: 2
 and bloodshed: 2
+and come: 2
 and coming: 2
 and confusion: 2
 and consequently: 2
@@ -648,6 +718,7 @@ and corruptions: 2
 and disorder: 2
 and distress and: 2
 and gentile: 2
+and god is: 2
 and government: 2
 and greatness: 2
 and had it: 2
@@ -686,6 +757,7 @@ and the most: 2
 and the other that: 2
 and the world: 2
 and thorns: 2
+and told: 2
 and told him: 2
 and trees: 2
 and virtuous: 2
@@ -744,7 +816,9 @@ attention we see: 2
 attested: 2
 attested by: 2
 at such: 2
+at their: 2
 authority and: 2
+a city: 2
 a document: 2
 a great measure: 2
 a large body: 2
@@ -781,6 +855,7 @@ believe in and: 2
 be accomplished: 2
 be also: 2
 be blamed: 2
+be destroyed: 2
 be destroyed and: 2
 be established: 2
 be false: 2
@@ -868,6 +943,7 @@ constitution: 2
 continual: 2
 control that: 2
 control the: 2
+corn: 2
 correctly: 2
 corruptions: 2
 corruption of the: 2
@@ -887,7 +963,9 @@ degradation: 2
 degradation and: 2
 depopulated: 2
 design: 2
+designs: 2
 desolate: 2
+destitute: 2
 details: 2
 details of: 2
 development: 2
@@ -901,6 +979,7 @@ discussion and: 2
 dismal: 2
 disposed to: 2
 dispossessed: 2
+distance: 2
 distress and: 2
 distrust: 2
 divided by: 2
@@ -958,6 +1037,7 @@ fear of god and: 2
 feeble: 2
 felt: 2
 find out: 2
+find that: 2
 first of these: 2
 first then: 2
 fish and: 2
@@ -1014,6 +1094,8 @@ good and virtuous: 2
 good if: 2
 governed by the: 2
 government for: 2
+grain: 2
+greatness: 2
 great measure: 2
 great price: 2
 groans: 2
@@ -1021,12 +1103,15 @@ guidance of: 2
 guidance of a: 2
 had obtained: 2
 hands for: 2
+has a: 2
 has brought: 2
 has he: 2
 has his: 2
 has its: 2
 has made it: 2
+has to be: 2
 have already: 2
+have done: 2
 have got: 2
 have him: 2
 have kept: 2
@@ -1106,6 +1191,7 @@ in a large: 2
 in a large body: 2
 in a small: 2
 in danger: 2
+in fact: 2
 in france: 2
 in harmony: 2
 in her: 2
@@ -1195,6 +1281,8 @@ just remark: 2
 just remark that: 2
 keep the: 2
 killed: 2
+kinds: 2
+kinds of: 2
 king james: 2
 king james translation: 2
 knew his: 2
@@ -1374,6 +1462,7 @@ on this subject we: 2
 operations: 2
 opposition to: 2
 or be: 2
+or four: 2
 or nations: 2
 or on: 2
 or on the: 2
@@ -1392,6 +1481,7 @@ out of the reach: 2
 out when: 2
 own affairs: 2
 paris: 2
+passions: 2
 past the: 2
 pearl of: 2
 pearl of great: 2
@@ -1414,6 +1504,7 @@ possess the: 2
 powers and: 2
 power exercised: 2
 power exercised in: 2
+presents: 2
 prevail to: 2
 prevail to an: 2
 prevail to an alarming: 2
@@ -1432,6 +1523,7 @@ properties: 2
 prophesied: 2
 prophetic: 2
 proprietors: 2
+prove his: 2
 prudence: 2
 publicity: 2
 public have: 2
@@ -1460,6 +1552,7 @@ repaired to the place: 2
 representation: 2
 representation of: 2
 requires a: 2
+respectable: 2
 restitution: 2
 restore the: 2
 results: 2
@@ -1521,11 +1614,13 @@ spite of: 2
 spite of all: 2
 splendid: 2
 spreads: 2
+standard: 2
 standing in: 2
 state and: 2
 state of xxstate in: 2
 stream: 2
 struck: 2
+subject in: 2
 subject that: 2
 submitted: 2
 submitted to: 2
@@ -1606,6 +1701,7 @@ the details: 2
 the details of: 2
 the difference: 2
 the difficulties that: 2
+the doctrines: 2
 the earth and all: 2
 the earth he: 2
 the earth if: 2
@@ -1648,8 +1744,10 @@ the patriarch: 2
 the peace: 2
 the pearl: 2
 the planetary systems: 2
+the plans: 2
 the plans of: 2
 the plans of men: 2
+the point: 2
 the principles that i: 2
 the proprietors: 2
 the reach: 2
@@ -1667,6 +1765,7 @@ the xxbookofmormon but: 2
 the xxbookofmormon but as: 2
 the xxtitleandname xxlastname: 2
 they baptized: 2
+they cannot: 2
 they made: 2
 they obtained: 2
 they would be: 2
@@ -1681,6 +1780,8 @@ those several: 2
 those several nations: 2
 thousands of men: 2
 thousand persons and: 2
+three or: 2
+three or four: 2
 throw: 2
 time in: 2
 time is: 2
@@ -1733,6 +1834,7 @@ transcribe: 2
 translation it: 2
 translation it is: 2
 transpired: 2
+tree: 2
 tried: 2
 truth of the matter: 2
 turn our attention a: 2
@@ -1748,6 +1850,7 @@ unite: 2
 universally: 2
 unnecessary to: 2
 upon me by: 2
+upon us: 2
 up families: 2
 useful: 2
 vaunt: 2
@@ -1818,8 +1921,10 @@ with paul: 2
 with the foregoing: 2
 with the same: 2
 witness to: 2
+wonder: 2
 works that: 2
 world a: 2
+world are: 2
 world by: 2
 world that: 2
 worm: 2
@@ -1844,9 +1949,11 @@ xxlastname wesleyan: 2
 xxscrip but: 2
 xxscrip that: 2
 xxstate in: 2
+xxtitleandname and: 2
 xxtitleandname had: 2
 xxtitleandname in his: 2
 xxtitleandname of: 2
+xxtitleandname the: 2
 xxtitleandname xxfirstname: 2
 xxtitleandname xxfirstname xxlastname: 2
 yet in: 2

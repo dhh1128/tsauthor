@@ -1,0 +1,3292 @@
+tezpi: 12
+is not this: 8
+not this: 8
+bird: 7
+languages: 7
+confusion of: 6
+deluge: 6
+dove: 6
+raft: 6
+sent out: 6
+the confusion: 6
+the confusion of: 6
+is not this the: 5
+not this the: 5
+of which was: 5
+the deluge: 5
+tradition: 5
+ararat: 4
+a tree: 4
+beak: 4
+boat: 4
+country of: 4
+his wife: 4
+leaves: 4
+mexicans: 4
+of languages: 4
+tezpi sent: 4
+the dove: 4
+the mexicans: 4
+america the: 3
+canoe: 3
+carcasses: 3
+confusion of languages: 3
+contained in: 3
+contained in the: 3
+dead carcasses: 3
+in regard to the: 3
+language at: 3
+language was: 3
+leaf: 3
+mexico: 3
+of america the: 3
+of babel: 3
+of dead: 3
+of dead carcasses: 3
+of the deluge: 3
+of the tree: 3
+one of which: 3
+one of which was: 3
+plate: 3
+raft or: 3
+tezpi sent out: 3
+the confusion of languages: 3
+the tree: 3
+to mankind: 3
+vulture: 3
+acalli: 2
+acalli or: 2
+acalli or boat: 2
+account of the deluge: 2
+account of the great: 2
+alone returned: 2
+ancient language: 2
+ancient language at: 2
+ancient language at the: 2
+and his wife: 2
+and traveled: 2
+and traveled they: 2
+ararat of: 2
+arrived in: 2
+arrived in the: 2
+arrived in the country: 2
+asia: 2
+as related: 2
+as related in: 2
+at length arrived: 2
+at length arrived in: 2
+at the building: 2
+at the building of: 2
+at the foot: 2
+at the foot of: 2
+a branch covered: 2
+a branch covered with: 2
+a dove: 2
+a mountain: 2
+a raft: 2
+a raft or: 2
+a surprising: 2
+a vulture: 2
+aztalan: 2
+aztalan of: 2
+aztalan of the: 2
+aztalan of the lake: 2
+azteca: 2
+azteca nations: 2
+beak a: 2
+beak a branch: 2
+beak a branch covered: 2
+birds one: 2
+birds one of: 2
+birds one of which: 2
+bird alone: 2
+bird alone returned: 2
+bird this: 2
+bird this bird: 2
+bird this bird alone: 2
+born dumb: 2
+branch covered: 2
+branch covered with: 2
+branch covered with leaves: 2
+building of: 2
+but at length: 2
+but at length arrived: 2
+colhuacan: 2
+colhuacan is: 2
+colhuacan is not: 2
+colhuacan is not this: 2
+colhucan: 2
+confusion of the: 2
+confusion of the ancient: 2
+contained in the xxbookofmormon: 2
+country of america: 2
+country of america the: 2
+country of aztalan: 2
+country of aztalan of: 2
+covered: 2
+covered with: 2
+covered with leaves: 2
+did not return: 2
+dumb: 2
+embodied themselves: 2
+embodied themselves together: 2
+foot of: 2
+found among: 2
+found among the: 2
+fresh: 2
+fresh verdure: 2
+go to support: 2
+go to support the: 2
+grain the: 2
+grain the preservation: 2
+grain the preservation of: 2
+great spirit: 2
+great spirit tezcatlipoca: 2
+great spirit tezcatlipoca ordered: 2
+his beak: 2
+his raft: 2
+holding in: 2
+humming: 2
+humming bird: 2
+humming bird this: 2
+humming bird this bird: 2
+importance to: 2
+importance to mankind: 2
+in his beak: 2
+in mexico: 2
+in the country: 2
+in the country of: 2
+in the form of: 2
+in xxscrip: 2
+is shown: 2
+is so: 2
+its beak: 2
+it further: 2
+jared: 2
+lake: 2
+lake country: 2
+lake country of: 2
+lake country of america: 2
+languages that: 2
+languages to: 2
+language at the: 2
+language at the building: 2
+language was not: 2
+language was not confounded: 2
+leaves of: 2
+length arrived: 2
+length arrived in: 2
+length arrived in the: 2
+lord heard: 2
+mosaic history: 2
+near the mountain: 2
+not confounded: 2
+not return: 2
+not this the dove: 2
+not where: 2
+not where but: 2
+not where but at: 2
+of asia: 2
+of a tree: 2
+of aztalan: 2
+of aztalan of: 2
+of aztalan of the: 2
+of families: 2
+of tezpi: 2
+of the ancient: 2
+of the ancient language: 2
+of the confusion: 2
+of the confusion of: 2
+of the lake: 2
+of the lake country: 2
+of the mosaic: 2
+of the mosaic history: 2
+of which was of: 2
+of xxprophet which: 2
+olive: 2
+on account: 2
+on account of: 2
+on account of the: 2
+on a raft: 2
+on a raft or: 2
+ordered: 2
+ordered the: 2
+ordered the waters: 2
+ordered the waters to: 2
+or boat: 2
+or canoe: 2
+or xxprophet: 2
+other birds: 2
+other birds one: 2
+other birds one of: 2
+out from: 2
+out from his: 2
+out the second: 2
+out the second time: 2
+painting: 2
+preservation of which: 2
+preservation of which was: 2
+preserved: 2
+quitted: 2
+quitted his: 2
+raft or canoe: 2
+regard to the confusion: 2
+related: 2
+related in: 2
+representing: 2
+second time: 2
+sent out from: 2
+sent out from his: 2
+sent out the: 2
+sent out the second: 2
+spirit tezcatlipoca: 2
+spirit tezcatlipoca ordered: 2
+spirit tezcatlipoca ordered the: 2
+support the: 2
+surprising: 2
+tezcatlipoca: 2
+tezcatlipoca ordered: 2
+tezcatlipoca ordered the: 2
+tezcatlipoca ordered the waters: 2
+tezpi or: 2
+tezpi or xxprophet: 2
+that go: 2
+that go to: 2
+that go to support: 2
+themselves together: 2
+the ancient language: 2
+the ancient language at: 2
+the bird: 2
+the building: 2
+the building of: 2
+the confusion of the: 2
+the country of: 2
+the country of aztalan: 2
+the foot: 2
+the foot of: 2
+the great spirit: 2
+the great spirit tezcatlipoca: 2
+the lake: 2
+the lake country: 2
+the lake country of: 2
+the languages: 2
+the leaves: 2
+the leaves of: 2
+the lord heard: 2
+the mosaic history: 2
+the plate: 2
+the preservation: 2
+the preservation of: 2
+the preservation of which: 2
+the second time: 2
+the tower: 2
+the tower of: 2
+the tower of babel: 2
+the tradition: 2
+the waters to: 2
+the waters to withdraw: 2
+they say: 2
+this bird: 2
+this bird alone: 2
+this bird alone returned: 2
+this the dove: 2
+those nations: 2
+tower: 2
+tower of: 2
+tower of babel: 2
+to support: 2
+to support the: 2
+to the confusion: 2
+to the confusion of: 2
+to withdraw: 2
+to withdraw tezpi: 2
+traveled: 2
+traveled they: 2
+verdure: 2
+vulture which: 2
+was not confounded: 2
+waters to: 2
+waters to withdraw: 2
+waters to withdraw tezpi: 2
+when the great: 2
+when the great spirit: 2
+where but: 2
+where but at: 2
+where but at length: 2
+which was of: 2
+whom they call: 2
+withdraw: 2
+withdraw tezpi: 2
+with his wife: 2
+with leaves: 2
+with xxprophet: 2
+xxprophet which: 2
+abounded: 1
+above nations: 1
+above nations that: 1
+above nations that there: 1
+above that: 1
+above that go: 1
+above that go to: 1
+above the head: 1
+above the head of: 1
+above the wasters: 1
+above the wasters is: 1
+acalli or boat to: 1
+acalli or boat with: 1
+accordance: 1
+accordance with: 1
+accordance with what: 1
+accordance with what was: 1
+according to humboldt: 1
+according to humboldt who: 1
+accounts then: 1
+accounts then precisely: 1
+accounts then precisely agree: 1
+account from: 1
+account from a: 1
+account from a chief: 1
+account there: 1
+account there is: 1
+account there is more: 1
+aculhucans: 1
+aculhucans and: 1
+aculhucans and azteca: 1
+aculhucans and azteca nations: 1
+afloat: 1
+afloat on: 1
+afloat on a: 1
+afloat on a raft: 1
+after the manner: 1
+after the manner of: 1
+after this: 1
+after this deluge: 1
+after this deluge were: 1
+again those: 1
+again those nations: 1
+again those nations of: 1
+again to the boat: 1
+agree one: 1
+agree one of: 1
+agree one of which: 1
+agree so: 1
+agree so well: 1
+agree so well with: 1
+allusion to: 1
+allusion to ararat: 1
+allusion to ararat of: 1
+almost exact: 1
+almost exact accordance: 1
+almost exact accordance with: 1
+alone returned again: 1
+alone returned again to: 1
+alone returned holding: 1
+alone returned holding in: 1
+also and: 1
+also and the: 1
+also and the lord: 1
+also found: 1
+also found among: 1
+also found among the: 1
+also shows: 1
+also shows by: 1
+also shows by the: 1
+america the coincidence: 1
+america the coincidence is: 1
+america the plates: 1
+america the plates or: 1
+america the xxbookofmormon: 1
+america the xxbookofmormon says: 1
+among them were: 1
+among them were xxnumber: 1
+among the aztaeca: 1
+among the aztaeca nations: 1
+among the different: 1
+among the different nations: 1
+among the indians: 1
+among the indians of: 1
+among the mexicans: 1
+among the mexicans the: 1
+analogy: 1
+analogy must: 1
+analogy must be: 1
+analogy must be seen: 1
+ancient nations: 1
+ancient nations of: 1
+ancient nations of the: 1
+ands: 1
+ands the: 1
+ands the confusion: 1
+ands the confusion of: 1
+and animals: 1
+and animals with: 1
+and animals with grain: 1
+and azteca: 1
+and azteca nations: 1
+and azteca nations who: 1
+and deer: 1
+and deer skin: 1
+and deer skin in: 1
+and friends also: 1
+and friends also and: 1
+and grain: 1
+and grain the: 1
+and grain the preservation: 1
+and hieroglyphics: 1
+and hieroglyphics of: 1
+and hieroglyphics of the: 1
+and his wife the: 1
+and his wife were: 1
+and is made: 1
+and is made the: 1
+and it further: 1
+and it further states: 1
+and of the confusion: 1
+and rises: 1
+and rises above: 1
+and rises above the: 1
+and some say: 1
+and some say in: 1
+and their language: 1
+and their language was: 1
+and their travels: 1
+and their travels to: 1
+and these: 1
+and these were: 1
+and these were the: 1
+and the azteca: 1
+and the azteca nations: 1
+and the head: 1
+and the head of: 1
+and the lord: 1
+and the lord heard: 1
+and the other in: 1
+and they then: 1
+and they then prayed: 1
+and told him to: 1
+and traveled they knew: 1
+and traveled they know: 1
+and whilst: 1
+and whilst these: 1
+and whilst these records: 1
+animals and: 1
+animals and grain: 1
+animals and grain the: 1
+animals with: 1
+animals with grain: 1
+animals with grain the: 1
+another land: 1
+another land the: 1
+another land the lord: 1
+an account of the: 1
+an allusion: 1
+an allusion to: 1
+an allusion to ararat: 1
+an olive: 1
+an olive leaf: 1
+an olive leaf is: 1
+appear the: 1
+appear the heads: 1
+appear the heads of: 1
+approaching: 1
+approaching the: 1
+approaching the bird: 1
+approaching the bird a: 1
+ararat a: 1
+ararat a tradition: 1
+ararat a tradition of: 1
+ararat of asia: 1
+ararat of asia they: 1
+ararat of the: 1
+ararat of the mexicans: 1
+ararat the: 1
+ararat the men: 1
+ararat the men born: 1
+are many: 1
+are many things: 1
+are many things contained: 1
+ark the: 1
+ark the raft: 1
+ark the raft or: 1
+ark when: 1
+ark when it: 1
+ark when it had: 1
+ark with: 1
+ark with xxprophet: 1
+ark with xxprophet as: 1
+around: 1
+around the: 1
+around the mediterranean: 1
+asia around: 1
+asia around the: 1
+asia around the mediterranean: 1
+asia they: 1
+asia they say: 1
+asia they say the: 1
+assigned: 1
+assigned by: 1
+assigned by the: 1
+assigned by the mexicans: 1
+as being born: 1
+as being born dumb: 1
+as related in the: 1
+as related in xxscrip: 1
+as stated in: 1
+as stated in xxscrip: 1
+as that of: 1
+as that of the: 1
+as the traditions: 1
+as the traditions of: 1
+as they had: 1
+as they had preserved: 1
+as well as that: 1
+as we would: 1
+as we would say: 1
+at babel: 1
+at babel a: 1
+at babel a dove: 1
+at the left: 1
+at the left hand: 1
+author of the languages: 1
+a bird: 1
+a bird placed: 1
+a bird placed above: 1
+a canoe: 1
+a canoe and: 1
+a canoe and some: 1
+a certain place: 1
+a certain place this: 1
+a chief: 1
+a chief of: 1
+a chief of one: 1
+a dove from: 1
+a dove from the: 1
+a dove which: 1
+a dove which flutters: 1
+a human: 1
+a human hand: 1
+a human hand pointing: 1
+a language: 1
+a language was: 1
+a language was believed: 1
+a late: 1
+a late traveler: 1
+a late traveler the: 1
+a leaf: 1
+a leaf of: 1
+a leaf of the: 1
+a manuscript: 1
+a manuscript book: 1
+a manuscript book made: 1
+a mountain and: 1
+a mountain and the: 1
+a mountain which: 1
+a mountain which they: 1
+a picture: 1
+a picture of: 1
+a picture of the: 1
+a raft or as: 1
+a raft or canoe: 1
+a somewhat: 1
+a somewhat obscure: 1
+a somewhat obscure history: 1
+a spacious: 1
+a spacious acalli: 1
+a spacious acalli or: 1
+a surprising representation: 1
+a surprising representation of: 1
+a surprising traditional: 1
+a surprising traditional account: 1
+a tradition: 1
+a tradition of: 1
+a tradition of the: 1
+a tree a: 1
+a tree and: 1
+a tree and rises: 1
+a tree a canoe: 1
+a tree distributes: 1
+a tree distributes languages: 1
+a tree in: 1
+a tree in his: 1
+a vessel: 1
+a vessel of: 1
+a vessel of huge: 1
+a vulture but: 1
+a vulture but the: 1
+a vulture which: 1
+a vulture which never: 1
+aztaeca: 1
+aztaeca nations: 1
+azteca nations in: 1
+azteca nations in regard: 1
+azteca nations who: 1
+azteca nations who embodied: 1
+babel a: 1
+babel ands: 1
+babel ands the: 1
+babel ands the confusion: 1
+babel as: 1
+babel as related: 1
+babel as related in: 1
+babel a dove: 1
+babel a dove from: 1
+babel by: 1
+babel by representing: 1
+babel by representing them: 1
+back the: 1
+back the mountain: 1
+back the mountain the: 1
+bark: 1
+bark near: 1
+bark near the: 1
+bark near the mountain: 1
+baron: 1
+baron humbolt: 1
+baron humbolt s: 1
+baron humbolt s volume: 1
+beak is: 1
+beak is shown: 1
+beak is shown the: 1
+become misplaced: 1
+become misplaced and: 1
+become misplaced and is: 1
+been preserved: 1
+been preserved by: 1
+been preserved by mere: 1
+been sent: 1
+been sent out: 1
+been sent out the: 1
+begin: 1
+begin by: 1
+begin by painting: 1
+begin by painting or: 1
+behalf: 1
+behalf and: 1
+behalf and their: 1
+behalf and their language: 1
+being born: 1
+being born dumb: 1
+being born dumb who: 1
+being clothed: 1
+being clothed with: 1
+being clothed with fresh: 1
+believed by: 1
+believed by the: 1
+believed by the nations: 1
+besides tezpi: 1
+besides tezpi and: 1
+besides tezpi and his: 1
+bestowing: 1
+bestowing upon: 1
+bestowing upon each: 1
+bestowing upon each individual: 1
+be seen by: 1
+be seen by every: 1
+bible and whilst: 1
+bible and whilst these: 1
+bid with: 1
+bid with the: 1
+bid with the leaves: 1
+birds have: 1
+birds have a: 1
+birds have a language: 1
+bird a: 1
+bird alone returned again: 1
+bird alone returned holding: 1
+bird a somewhat: 1
+bird a somewhat obscure: 1
+bird placed: 1
+bird placed above: 1
+bird placed above the: 1
+bird s: 1
+bird s natural: 1
+bird s natural food: 1
+boat a: 1
+boat a vulture: 1
+boat a vulture but: 1
+boat holding: 1
+boat holding in: 1
+boat holding in his: 1
+boat to: 1
+boat to see: 1
+boat to see if: 1
+boat with: 1
+boat with his: 1
+boat with his wife: 1
+books made: 1
+books made from: 1
+books made from the: 1
+book made: 1
+book made of: 1
+book made of the: 1
+book of xxprophet: 1
+book of xxprophet found: 1
+born after: 1
+born after this: 1
+born after this deluge: 1
+born dumb is: 1
+born dumb is not: 1
+born dumb who: 1
+born dumb who receive: 1
+both of: 1
+both of them: 1
+both of them sanction: 1
+branches of: 1
+branches of the: 1
+branches of the tree: 1
+branch of the olive: 1
+bringing: 1
+bringing a: 1
+bringing a branch: 1
+bringing a branch of: 1
+brother of jared: 1
+brother of jared cried: 1
+brother s language: 1
+brother s language was: 1
+buffalo: 1
+buffalo and: 1
+buffalo and deer: 1
+buffalo and deer skin: 1
+building of babel: 1
+building of babel by: 1
+building of the: 1
+building of the tower: 1
+but among: 1
+but among them: 1
+but among them were: 1
+but in their: 1
+but in their tradition: 1
+but the bird: 1
+but the bird s: 1
+by a tree: 1
+by a tree and: 1
+by bestowing: 1
+by bestowing upon: 1
+by bestowing upon each: 1
+by every: 1
+by every superficial: 1
+by every superficial observer: 1
+by mere: 1
+by mere oral: 1
+by mere oral tradition: 1
+by painting: 1
+by painting or: 1
+by painting or as: 1
+by representing: 1
+by representing them: 1
+by representing them as: 1
+by telling: 1
+by telling us: 1
+by telling us that: 1
+by the group: 1
+by the group of: 1
+by the mexicans: 1
+by the mexicans tezpi: 1
+by the nations: 1
+by the nations of: 1
+by the people: 1
+by the people of: 1
+by the two: 1
+by the two points: 1
+call colhuacan: 1
+call colhuacan is: 1
+call colhuacan is not: 1
+call tezpi: 1
+call tezpi saved: 1
+call tezpi saved himself: 1
+call xochiquetzal: 1
+call xochiquetzal on: 1
+call xochiquetzal on a: 1
+canoe and: 1
+canoe and some: 1
+canoe and some say: 1
+canoe is: 1
+canoe is not: 1
+canoe is not this: 1
+canoe rested: 1
+canoe rested on: 1
+canoe rested on or: 1
+carcasses it: 1
+carcasses it did: 1
+carcasses it did not: 1
+carcasses which: 1
+carcasses which it: 1
+carcasses which it found: 1
+carcasses with: 1
+carcasses with which: 1
+carcasses with which the: 1
+certainty: 1
+certainty than: 1
+certainty than if: 1
+certainty than if it: 1
+certain place: 1
+certain place this: 1
+certain place this it: 1
+character representing: 1
+character representing a: 1
+character representing a mountain: 1
+chiefs: 1
+chiefs of: 1
+chiefs of families: 1
+chiefs of families which: 1
+chief of: 1
+chief of one: 1
+chief of one of: 1
+children and animals: 1
+children and animals with: 1
+children several: 1
+children several animals: 1
+children several animals and: 1
+circumstance of the: 1
+circumstance of the dove: 1
+clothed the: 1
+clothed the earth: 1
+clothed the earth quitted: 1
+clothed with: 1
+clothed with fresh: 1
+clothed with fresh verdure: 1
+coincidence is: 1
+coincidence is so: 1
+coincidence is so striking: 1
+colhuacans: 1
+colhuacans and: 1
+colhuacans and the: 1
+colhuacans and the azteca: 1
+colhucan or: 1
+colhucan or ararat: 1
+colhucan or ararat a: 1
+colhucan the: 1
+colhucan the ararat: 1
+colhucan the ararat of: 1
+commas: 1
+commas suspended: 1
+commas suspended from: 1
+commas suspended from its: 1
+commences: 1
+commences with: 1
+commences with an: 1
+commences with an account: 1
+comment is: 1
+comment is unnecessary: 1
+comment is unnecessary ed: 1
+concerning the same: 1
+concerning the same event: 1
+confounded and: 1
+confounded and they: 1
+confounded and they then: 1
+confounded these: 1
+confounded these accounts: 1
+confounded these accounts then: 1
+confounding: 1
+confounding of: 1
+confounding of languages: 1
+confounding of languages that: 1
+confusion of language: 1
+confusion of languages and: 1
+confusion of languages it: 1
+confusion of languages the: 1
+confusion of language at: 1
+contained in the above: 1
+continent that: 1
+continent that go: 1
+continent that go to: 1
+covered with leaves is: 1
+covered with leaves tezpi: 1
+cried: 1
+cried unto: 1
+cried unto the: 1
+cried unto the lord: 1
+crowned: 1
+crowned by: 1
+crowned by a: 1
+crowned by a tree: 1
+dead carcasses it: 1
+dead carcasses it did: 1
+dead carcasses which: 1
+dead carcasses which it: 1
+dead carcasses with: 1
+dead carcasses with which: 1
+deer: 1
+deer skin: 1
+deer skin in: 1
+deer skin in which: 1
+deluge as: 1
+deluge as they: 1
+deluge as they had: 1
+deluge is: 1
+deluge is also: 1
+deluge is also found: 1
+deluge of: 1
+deluge of xxprophet: 1
+deluge of xxprophet and: 1
+deluge or: 1
+deluge or flood: 1
+deluge or flood of: 1
+deluge were: 1
+deluge were born: 1
+deluge were born dumb: 1
+deluge who: 1
+deluge who say: 1
+deluge who say that: 1
+derived: 1
+derived the: 1
+derived the subject: 1
+derived the subject of: 1
+designation: 1
+designation of: 1
+designation of the: 1
+designation of the female: 1
+did not return on: 1
+did not return when: 1
+different nations: 1
+different nations according: 1
+different nations according to: 1
+dimensions: 1
+dimensions it: 1
+dimensions it also: 1
+dimensions it also shows: 1
+dispersed: 1
+dispersed but: 1
+dispersed but among: 1
+dispersed but among them: 1
+distributes: 1
+distributes languages: 1
+distributes languages to: 1
+distributes languages to them: 1
+dove from: 1
+dove from the: 1
+dove from the top: 1
+dove gave: 1
+dove gave to: 1
+dove gave to mankind: 1
+dove of: 1
+dove of xxprophet: 1
+dove of xxprophet which: 1
+dove s: 1
+dove s return: 1
+dove s return to: 1
+dove tezpi: 1
+dove tezpi seeing: 1
+dove tezpi seeing that: 1
+dove which: 1
+dove which flutters: 1
+dove which flutters in: 1
+down from: 1
+down from father: 1
+down from father to: 1
+dried: 1
+dried in: 1
+dried in some: 1
+dried in some places: 1
+dry being: 1
+dry being clothed: 1
+dry being clothed with: 1
+dumb is: 1
+dumb is not: 1
+dumb is not this: 1
+dumb who: 1
+dumb who receive: 1
+dumb who receive the: 1
+each individual: 1
+each individual a: 1
+each individual a leaf: 1
+each side: 1
+each side appear: 1
+each side appear the: 1
+earth now: 1
+earth now dried: 1
+earth now dried in: 1
+earth quitted: 1
+earth quitted his: 1
+earth quitted his raft: 1
+earth was: 1
+earth was dry: 1
+earth was dry being: 1
+eat importance: 1
+eat importance to: 1
+eat importance to mankind: 1
+embarked: 1
+embarked in: 1
+embarked in a: 1
+embarked in a spacious: 1
+embodied themselves together and: 1
+embodied themselves together which: 1
+english: 1
+engraving: 1
+engraving presented: 1
+engraving presented here: 1
+engraving presented here is: 1
+eternal truth: 1
+eternal truth the: 1
+eternal truth the bible: 1
+event says: 1
+event says and: 1
+event says and it: 1
+every superficial: 1
+every superficial observer: 1
+exact: 1
+exact accordance: 1
+exact accordance with: 1
+exact accordance with what: 1
+extending: 1
+extending up: 1
+extending up from: 1
+extending up from her: 1
+fact the: 1
+fact the deluge: 1
+fact the deluge is: 1
+families and: 1
+families and friends: 1
+families and friends also: 1
+families embodied: 1
+families embodied themselves: 1
+families embodied themselves together: 1
+families which: 1
+families which were: 1
+families which were permitted: 1
+father to: 1
+father to son: 1
+feed: 1
+feed upon: 1
+feed upon is: 1
+feed upon is not: 1
+female sex: 1
+female se xamong: 1
+female se xamong the: 1
+figure: 1
+figure of: 1
+figure of the: 1
+figure of the bid: 1
+flood of: 1
+flood of tezpi: 1
+flood the: 1
+flood the tower: 1
+flood the tower of: 1
+flood with: 1
+flood with xxprophet: 1
+flood with xxprophet afloat: 1
+flutters: 1
+flutters in: 1
+flutters in the: 1
+flutters in the branches: 1
+following account: 1
+following account from: 1
+following account from a: 1
+food was: 1
+food was that: 1
+food was that of: 1
+foot of a: 1
+foot of a mountain: 1
+foot of the: 1
+foot of the mountain: 1
+forehead: 1
+forehead which: 1
+forehead which is: 1
+forehead which is the: 1
+form of an: 1
+form of an olive: 1
+form of small: 1
+form of small commas: 1
+for their families: 1
+for their families and: 1
+for the purpose after: 1
+for the very: 1
+for the very reason: 1
+found among the aztaeca: 1
+found among the indians: 1
+found by: 1
+found by the: 1
+found by the people: 1
+found in xxcounty: 1
+found in xxcounty xxstate: 1
+found it: 1
+found it painted: 1
+found it painted on: 1
+found paintings: 1
+found paintings which: 1
+found paintings which represented: 1
+found to: 1
+found to feed: 1
+found to feed upon: 1
+found upon: 1
+found upon this: 1
+found upon this continent: 1
+fresh verdure now: 1
+fresh verdure now clothed: 1
+fresh verdure quitted: 1
+fresh verdure quitted his: 1
+friends also: 1
+friends also and: 1
+friends also and the: 1
+from a chief: 1
+from a chief of: 1
+from a dove: 1
+from a dove which: 1
+from baron: 1
+from baron humbolt: 1
+from baron humbolt s: 1
+from father: 1
+from father to: 1
+from father to son: 1
+from her: 1
+from her forehead: 1
+from her forehead which: 1
+from his boat: 1
+from his boat a: 1
+from his raft: 1
+from his raft a: 1
+from its: 1
+from its beak: 1
+from the buffalo: 1
+from the buffalo and: 1
+from the top: 1
+from the top of: 1
+further comment: 1
+further comment is: 1
+further comment is unnecessary: 1
+further speaks: 1
+further speaks is: 1
+further speaks is the: 1
+further states: 1
+further states that: 1
+further states that jared: 1
+gave to: 1
+gave to mankind: 1
+gave to mankind were: 1
+gift of speech: 1
+gift of speech from: 1
+give them another: 1
+give them another land: 1
+go to a: 1
+go to a certain: 1
+great number: 1
+great number of: 1
+great number of dead: 1
+great quantities: 1
+great quantities of: 1
+great quantities of dead: 1
+group: 1
+group of: 1
+group of men: 1
+group of men approaching: 1
+g eat: 1
+g eat importance: 1
+g eat importance to: 1
+had become misplaced: 1
+had become misplaced and: 1
+had been preserved: 1
+had been preserved by: 1
+had been sent: 1
+had been sent out: 1
+had preserved: 1
+had preserved it: 1
+had preserved it in: 1
+had subsided: 1
+handed: 1
+handed down: 1
+handed down from: 1
+handed down from father: 1
+hand of the: 1
+hand of the tree: 1
+hand pointing: 1
+hand pointing to: 1
+hand pointing to it: 1
+have a language: 1
+have a language was: 1
+have derived: 1
+have derived the: 1
+have derived the subject: 1
+have two: 1
+have two records: 1
+have two records found: 1
+heads of xxprophet: 1
+heads of xxprophet and: 1
+heads or: 1
+heads or chiefs: 1
+heads or chiefs of: 1
+head of a: 1
+head of a bird: 1
+head of tezpi: 1
+head of tezpi or: 1
+heard him: 1
+heard him and: 1
+heard him and told: 1
+heard them: 1
+heard them in: 1
+heard them in their: 1
+here assigned: 1
+here assigned by: 1
+here assigned by the: 1
+here is a: 1
+here is a surprising: 1
+here presented: 1
+here presented shows: 1
+here presented shows no: 1
+here then: 1
+here then we: 1
+here then we have: 1
+her forehead: 1
+her forehead which: 1
+her forehead which is: 1
+her mouth: 1
+her mouth as: 1
+her mouth as related: 1
+he would give: 1
+he would give them: 1
+hieroglyphics: 1
+hieroglyphics of: 1
+hieroglyphics of the: 1
+hieroglyphics of the zaltees: 1
+himself with: 1
+himself with his: 1
+himself with his wife: 1
+him and told: 1
+him and told him: 1
+him to go: 1
+him to go to: 1
+history found: 1
+history found among: 1
+history found among the: 1
+history of the confusion: 1
+history the: 1
+history the mexican: 1
+history the mexican records: 1
+his acalli: 1
+his acalli or: 1
+his acalli or boat: 1
+his back: 1
+his back the: 1
+his back the mountain: 1
+his bark: 1
+his bark near: 1
+his bark near the: 1
+his beak a: 1
+his beak a branch: 1
+his beak is: 1
+his beak is shown: 1
+his boat: 1
+his boat a: 1
+his boat a vulture: 1
+his children several: 1
+his children several animals: 1
+his own words in: 1
+his raft a: 1
+his raft a vulture: 1
+his raft near: 1
+his raft near the: 1
+his wife his: 1
+his wife his children: 1
+his wife the: 1
+his wife the woman: 1
+his wife were: 1
+his wife were several: 1
+his wife whom: 1
+his wife whom they: 1
+holding in his: 1
+holding in his beak: 1
+holding in its: 1
+holding in its beak: 1
+horn: 1
+horn at: 1
+horn at the: 1
+horn at the left: 1
+however here: 1
+however here presented: 1
+however here presented shows: 1
+huge: 1
+huge dimensions: 1
+huge dimensions it: 1
+huge dimensions it also: 1
+human hand: 1
+human hand pointing: 1
+human hand pointing to: 1
+humboldt: 1
+humboldt who: 1
+humboldt who inhabited: 1
+humboldt who inhabited mexico: 1
+humbolt: 1
+humbolt s: 1
+humbolt s volume: 1
+humbolt s volume of: 1
+if it had: 1
+if it had been: 1
+if the waters: 1
+if the waters had: 1
+immediately dispersed: 1
+immediately dispersed but: 1
+immediately dispersed but among: 1
+importance to mankind is: 1
+importance to mankind when: 1
+indians of: 1
+indians of the: 1
+indians of the northwest: 1
+individual a: 1
+individual a leaf: 1
+individual a leaf of: 1
+infinitely: 1
+infinitely varied: 1
+infinitely varied which: 1
+infinitely varied which when: 1
+inhabited: 1
+inhabited mexico: 1
+inhabited mexico were: 1
+inhabited mexico were found: 1
+insert: 1
+insert the: 1
+insert the following: 1
+in almost: 1
+in almost exact: 1
+in almost exact accordance: 1
+in a spacious: 1
+in a spacious acalli: 1
+in a vessel: 1
+in a vessel of: 1
+in books: 1
+in books made: 1
+in books made from: 1
+in her mouth: 1
+in her mouth as: 1
+in his beak a: 1
+in his beak is: 1
+in his own words: 1
+in its beak: 1
+in its beak a: 1
+in its mouth: 1
+in its mouth but: 1
+in mexico who: 1
+in mexico who found: 1
+in relation: 1
+in relation to: 1
+in relation to the: 1
+in some places: 1
+in some places abounded: 1
+in their behalf: 1
+in their behalf and: 1
+in their tradition: 1
+in their tradition it: 1
+in the above that: 1
+in the ark: 1
+in the ark with: 1
+in the branches: 1
+in the branches of: 1
+in the english: 1
+in the figure: 1
+in the figure of: 1
+in the xxbookofmormon in: 1
+in the xxbookofmormon that: 1
+in the xxscrip see: 1
+in which account: 1
+in which account there: 1
+in xxcounty xxstate: 1
+in xxcounty xxstate and: 1
+in xxscrip they: 1
+in xxscrip they say: 1
+is also found: 1
+is also found among: 1
+is a surprising: 1
+is a surprising representation: 1
+is contained: 1
+is contained in: 1
+is contained in the: 1
+is crowned: 1
+is crowned by: 1
+is crowned by a: 1
+is known: 1
+is known by: 1
+is known by the: 1
+is made the: 1
+is made the author: 1
+is more certainty: 1
+is more certainty than: 1
+is not this an: 1
+is not this ararat: 1
+is not this in: 1
+is said of: 1
+is said of the: 1
+is shown in: 1
+is shown in the: 1
+is shown the: 1
+is shown the circumstance: 1
+is so like: 1
+is so like that: 1
+is so striking: 1
+is so striking that: 1
+is the character: 1
+is the character representing: 1
+is the land: 1
+is the land of: 1
+is the peak: 1
+is the peak of: 1
+is the representation: 1
+is the representation shows: 1
+is the universal: 1
+is the universal designation: 1
+is unnecessary ed: 1
+its beak a: 1
+its beak a branch: 1
+its mouth: 1
+its mouth but: 1
+its mouth but in: 1
+it also shows: 1
+it also shows by: 1
+it did not: 1
+it did not return: 1
+it found: 1
+it found to: 1
+it found to feed: 1
+it further speaks: 1
+it further speaks is: 1
+it further states: 1
+it further states that: 1
+it had become: 1
+it had become misplaced: 1
+it had been preserved: 1
+it had been sent: 1
+it in books: 1
+it in books made: 1
+it is said of: 1
+it is the character: 1
+it painted: 1
+it painted on: 1
+it painted on a: 1
+it was sent: 1
+it was sent out: 1
+i received says: 1
+i received says a: 1
+jared cried: 1
+jared cried unto: 1
+jared cried unto the: 1
+jared s: 1
+jared s brother: 1
+jared s brother s: 1
+kind of tree: 1
+kind of tree suitable: 1
+knew not: 1
+knew not where: 1
+knew not where but: 1
+knowing that the: 1
+knowing that the earth: 1
+known by: 1
+known by the: 1
+known by the two: 1
+know not: 1
+know not where: 1
+know not where but: 1
+land is: 1
+land is so: 1
+land is so like: 1
+land of america: 1
+land of america the: 1
+land the: 1
+land the lord: 1
+land the lord heard: 1
+languages and: 1
+languages and their: 1
+languages and their travels: 1
+languages it: 1
+languages it is: 1
+languages it is said: 1
+languages that birds: 1
+languages that birds have: 1
+languages that we: 1
+languages that we insert: 1
+languages the: 1
+languages the tradition: 1
+languages the tradition and: 1
+languages to the: 1
+languages to them: 1
+languages to them in: 1
+languages to the mute: 1
+language and: 1
+language and these: 1
+language and these were: 1
+language at babel: 1
+language at babel a: 1
+language was believed: 1
+language was believed by: 1
+late traveler: 1
+late traveler the: 1
+late traveler the following: 1
+laying: 1
+laying on: 1
+laying on his: 1
+laying on his back: 1
+leaf in: 1
+leaf in her: 1
+leaf in her mouth: 1
+leaf is: 1
+leaf is not: 1
+leaf is not this: 1
+leaf of: 1
+leaf of the: 1
+leaf of the tree: 1
+leaves is: 1
+leaves is not: 1
+leaves is not this: 1
+leaves of a: 1
+leaves of a tree: 1
+leaves of some: 1
+leaves of some kind: 1
+leaves tezpi: 1
+leaves tezpi now: 1
+leaves tezpi now knowing: 1
+left hand: 1
+left hand of: 1
+left hand of the: 1
+like that: 1
+like that contained: 1
+like that contained in: 1
+limhi: 1
+limhi which: 1
+limhi which is: 1
+limhi which is contained: 1
+lord heard him: 1
+lord heard him and: 1
+lord heard them: 1
+lord heard them in: 1
+lord that: 1
+lord that he: 1
+lord that he would: 1
+made from: 1
+made from the: 1
+made from the buffalo: 1
+made of: 1
+made of the: 1
+made of the leaves: 1
+made the author: 1
+made the author of: 1
+mankind is: 1
+mankind is not: 1
+mankind is not this: 1
+mankind were: 1
+mankind were infinitely: 1
+mankind were infinitely varied: 1
+mankind when: 1
+mankind when the: 1
+mankind when the great: 1
+manner of ancient: 1
+manner of ancient nations: 1
+manuscript book: 1
+manuscript book made: 1
+manuscript book made of: 1
+many things: 1
+many things contained: 1
+many things contained in: 1
+mediterranean: 1
+men approaching: 1
+men approaching the: 1
+men approaching the bird: 1
+men born: 1
+men born after: 1
+men born after this: 1
+mere: 1
+mere oral: 1
+mere oral tradition: 1
+mere oral tradition handed: 1
+mexican: 1
+mexicans at: 1
+mexicans at the: 1
+mexicans at the foot: 1
+mexicans say: 1
+mexicans say tezpi: 1
+mexicans say tezpi sent: 1
+mexicans tezpi: 1
+mexicans tezpi sent: 1
+mexicans tezpi sent other: 1
+mexicans the: 1
+mexicans the horn: 1
+mexicans the horn at: 1
+mexican records: 1
+mexican records agree: 1
+mexican records agree so: 1
+mexico were: 1
+mexico were found: 1
+mexico were found paintings: 1
+mexico who: 1
+mexico who found: 1
+mexico who found it: 1
+midst of the: 1
+midst of the waters: 1
+misplaced: 1
+misplaced and: 1
+misplaced and is: 1
+misplaced and is made: 1
+more certainty: 1
+more certainty than: 1
+more certainty than if: 1
+more than a: 1
+more than a picture: 1
+mosaic history found: 1
+mosaic history found among: 1
+mosaic history the: 1
+mosaic history the mexican: 1
+mountain and: 1
+mountain and the: 1
+mountain and the head: 1
+mountain colhucan: 1
+mountain colhucan or: 1
+mountain colhucan or ararat: 1
+mountain of: 1
+mountain of colhuacan: 1
+mountain of colhuacan is: 1
+mountain on: 1
+mountain on each: 1
+mountain on each side: 1
+mountain the: 1
+mountain the summit: 1
+mountain the summit of: 1
+mountain which: 1
+mountain which they: 1
+mountain which they call: 1
+mouth as: 1
+mouth as related: 1
+mouth as related in: 1
+mouth but: 1
+mouth but in: 1
+mouth but in their: 1
+must be seen: 1
+must be seen by: 1
+mute: 1
+mute throng: 1
+mute throng by: 1
+mute throng by bestowing: 1
+nations according: 1
+nations according to: 1
+nations according to humboldt: 1
+nations in regard: 1
+nations in regard to: 1
+nations of families: 1
+nations of families embodied: 1
+nations of the old: 1
+nations of the sultry: 1
+nations retain: 1
+nations retain a: 1
+nations retain a surprising: 1
+nations say: 1
+nations say on: 1
+nations say on a: 1
+nations that: 1
+nations that there: 1
+nations that there were: 1
+nations who: 1
+nations who embodied: 1
+nations who embodied themselves: 1
+natural and: 1
+natural and traveled: 1
+natural and traveled they: 1
+natural food: 1
+natural food was: 1
+natural food was that: 1
+near the mountain colhucan: 1
+near the mountain of: 1
+never returned: 1
+never returned on: 1
+never returned on account: 1
+northwest: 1
+northwest i: 1
+northwest i received: 1
+northwest i received says: 1
+not confounded and: 1
+not confounded and they: 1
+not confounded these: 1
+not confounded these accounts: 1
+not return on: 1
+not return on account: 1
+not return when: 1
+not return when it: 1
+not this an: 1
+not this an allusion: 1
+not this ararat: 1
+not this ararat the: 1
+not this in: 1
+not this in almost: 1
+not this the ark: 1
+not this the confusion: 1
+not this the raven: 1
+now clothed: 1
+now clothed the: 1
+now clothed the earth: 1
+now dried: 1
+now dried in: 1
+now dried in some: 1
+now knowing: 1
+now knowing that: 1
+now knowing that the: 1
+no more than: 1
+no more than a: 1
+number of dead: 1
+number of dead carcasses: 1
+obscure: 1
+obscure history: 1
+obscure history of: 1
+obscure history of the: 1
+observer: 1
+of america the coincidence: 1
+of america the plates: 1
+of america the xxbookofmormon: 1
+of ancient: 1
+of ancient nations: 1
+of ancient nations of: 1
+of an olive: 1
+of an olive leaf: 1
+of asia around: 1
+of asia around the: 1
+of asia they: 1
+of asia they say: 1
+of a bird: 1
+of a bird placed: 1
+of a mountain: 1
+of a mountain which: 1
+of a tree distributes: 1
+of a tree in: 1
+of babel ands: 1
+of babel ands the: 1
+of babel as: 1
+of babel as related: 1
+of babel by: 1
+of babel by representing: 1
+of colhuacan: 1
+of colhuacan is: 1
+of colhuacan is not: 1
+of colhucan: 1
+of colhucan the: 1
+of colhucan the ararat: 1
+of dead carcasses it: 1
+of dead carcasses which: 1
+of dead carcasses with: 1
+of eternal: 1
+of eternal truth: 1
+of eternal truth the: 1
+of families embodied: 1
+of families embodied themselves: 1
+of families which: 1
+of families which were: 1
+of g: 1
+of g eat: 1
+of g eat importance: 1
+of his acalli: 1
+of his acalli or: 1
+of huge: 1
+of huge dimensions: 1
+of huge dimensions it: 1
+of importance to: 1
+of importance to mankind: 1
+of jared: 1
+of jared cried: 1
+of jared cried unto: 1
+of language: 1
+of languages and: 1
+of languages and their: 1
+of languages it: 1
+of languages it is: 1
+of languages that: 1
+of languages that we: 1
+of languages the: 1
+of languages the tradition: 1
+of language at: 1
+of language at babel: 1
+of limhi: 1
+of limhi which: 1
+of limhi which is: 1
+of men approaching: 1
+of men approaching the: 1
+of one of: 1
+of one of the: 1
+of researches: 1
+of researches in: 1
+of researches in mexico: 1
+of small: 1
+of small commas: 1
+of small commas suspended: 1
+of some kind: 1
+of some kind of: 1
+of speech from: 1
+of speech from a: 1
+of tezpi or: 1
+of tezpi or xxprophet: 1
+of them sanction: 1
+of them sanction the: 1
+of the above nations: 1
+of the bid: 1
+of the bid with: 1
+of the book: 1
+of the book of: 1
+of the deluge as: 1
+of the deluge of: 1
+of the deluge who: 1
+of the dove: 1
+of the dove s: 1
+of the female: 1
+of the female sex: 1
+of the flood: 1
+of the flood with: 1
+of the great number: 1
+of the great quantities: 1
+of the languages: 1
+of the languages that: 1
+of the leaves: 1
+of the leaves of: 1
+of the mexicans: 1
+of the mexicans at: 1
+of the mountain on: 1
+of the nations say: 1
+of the northwest: 1
+of the northwest i: 1
+of the old world: 1
+of the olive: 1
+of the olive in: 1
+of the same fact: 1
+of the scriptures: 1
+of the scriptures in: 1
+of the sultry: 1
+of the sultry parts: 1
+of the tower: 1
+of the tower of: 1
+of the tree which: 1
+of the tree while: 1
+of the tree with: 1
+of the tribes: 1
+of the tribes in: 1
+of the waters: 1
+of the waters laying: 1
+of the xxbookofmormon as: 1
+of the zaltees: 1
+of the zaltees the: 1
+of this plate: 1
+of this plate from: 1
+of those nations: 1
+of those nations retain: 1
+of tree: 1
+of tree suitable: 1
+of tree suitable for: 1
+of which is: 1
+of which is crowned: 1
+of which the: 1
+of which the plate: 1
+of which was found: 1
+of which was humming: 1
+of which was the: 1
+of xxprophet and his: 1
+of xxprophet and of: 1
+of xxprophet found: 1
+of xxprophet found by: 1
+of xxprophet in: 1
+of xxprophet in the: 1
+of xxprophet which did: 1
+of xxprophet which returned: 1
+old world: 1
+old world some: 1
+old world some of: 1
+olive in: 1
+olive in its: 1
+olive in its mouth: 1
+olive leaf: 1
+olive leaf is: 1
+olive leaf is not: 1
+one of the tribes: 1
+on a manuscript: 1
+on a manuscript book: 1
+on a tree: 1
+on a tree a: 1
+on each: 1
+on each side: 1
+on each side appear: 1
+on his back: 1
+on his back the: 1
+on or: 1
+on or at: 1
+on or at the: 1
+on this raft: 1
+on this raft besides: 1
+oral: 1
+oral tradition: 1
+oral tradition handed: 1
+oral tradition handed down: 1
+or ararat: 1
+or ararat a: 1
+or ararat a tradition: 1
+or as the traditions: 1
+or as we: 1
+or as we would: 1
+or at the: 1
+or at the foot: 1
+or boat to: 1
+or boat to see: 1
+or boat with: 1
+or boat with his: 1
+or canoe is: 1
+or canoe is not: 1
+or canoe rested: 1
+or canoe rested on: 1
+or chiefs: 1
+or chiefs of: 1
+or chiefs of families: 1
+or engraving: 1
+or engraving presented: 1
+or engraving presented here: 1
+or flood: 1
+or flood of: 1
+or flood of tezpi: 1
+or xxprophet sent: 1
+or xxprophet sent out: 1
+or xxprophet shows: 1
+or xxprophet shows the: 1
+other in: 1
+other in mexico: 1
+out from his boat: 1
+out from his raft: 1
+out of his: 1
+out of his acalli: 1
+out other: 1
+out other birds: 1
+out other birds one: 1
+own words in: 1
+own words in the: 1
+painted on: 1
+painted on a: 1
+painted on a manuscript: 1
+paintings: 1
+paintings which: 1
+paintings which represented: 1
+paintings which represented the: 1
+painting of: 1
+painting of which: 1
+painting of which the: 1
+painting or: 1
+painting or as: 1
+painting or as we: 1
+parts of asia: 1
+parts of asia around: 1
+peak: 1
+peak of: 1
+peak of colhucan: 1
+peak of colhucan the: 1
+people of limhi: 1
+people of limhi which: 1
+permitted: 1
+permitted to: 1
+permitted to speak: 1
+permitted to speak the: 1
+picture: 1
+picture of: 1
+picture of the: 1
+picture of the flood: 1
+placed above: 1
+placed above the: 1
+placed above the head: 1
+places abounded: 1
+place this: 1
+place this it: 1
+place this it further: 1
+plates or: 1
+plates or engraving: 1
+plates or engraving presented: 1
+plate from: 1
+plate from baron: 1
+plate from baron humbolt: 1
+plate however: 1
+plate however here: 1
+plate however here presented: 1
+plate is: 1
+plate is the: 1
+plate is the representation: 1
+pointing: 1
+pointing to: 1
+pointing to it: 1
+pointing to it is: 1
+points extending: 1
+points extending up: 1
+points extending up from: 1
+prayed: 1
+prayed for: 1
+prayed for their: 1
+prayed for their families: 1
+precisely agree: 1
+precisely agree one: 1
+precisely agree one of: 1
+presented here: 1
+presented here is: 1
+presented here is a: 1
+presented shows: 1
+presented shows no: 1
+presented shows no more: 1
+presents the: 1
+presents the languages: 1
+presents the languages to: 1
+preserved by: 1
+preserved by mere: 1
+preserved by mere oral: 1
+preserved it: 1
+preserved it in: 1
+preserved it in books: 1
+purpose after: 1
+purpose after the: 1
+purpose after the manner: 1
+quantities: 1
+quantities of: 1
+quantities of dead: 1
+quantities of dead carcasses: 1
+quitted his bark: 1
+quitted his bark near: 1
+quitted his raft: 1
+quitted his raft near: 1
+raft a: 1
+raft a vulture: 1
+raft a vulture which: 1
+raft besides: 1
+raft besides tezpi: 1
+raft besides tezpi and: 1
+raft near: 1
+raft near the: 1
+raft near the mountain: 1
+raft or as: 1
+raft or as the: 1
+raft or canoe is: 1
+raft or canoe rested: 1
+raven: 1
+raven of: 1
+raven of xxprophet: 1
+raven of xxprophet which: 1
+reason here: 1
+reason here assigned: 1
+reason here assigned by: 1
+received says: 1
+received says a: 1
+received says a late: 1
+received they: 1
+received they immediately: 1
+received they immediately dispersed: 1
+receive the gift: 1
+receive the gift of: 1
+records agree: 1
+records agree so: 1
+records agree so well: 1
+records both: 1
+records both of: 1
+records both of them: 1
+records found: 1
+records found upon: 1
+records found upon this: 1
+regard to the flood: 1
+related in the: 1
+related in the xxscrip: 1
+related in xxscrip: 1
+related in xxscrip they: 1
+relation to: 1
+relation to the: 1
+relation to the confounding: 1
+representation of the: 1
+representation of the deluge: 1
+representation shows: 1
+representation shows tezpi: 1
+representation shows tezpi of: 1
+represented the: 1
+represented the deluge: 1
+represented the deluge or: 1
+representing a: 1
+representing a mountain: 1
+representing a mountain and: 1
+representing them: 1
+representing them as: 1
+representing them as being: 1
+researches: 1
+researches in: 1
+researches in mexico: 1
+researches in mexico who: 1
+rested on: 1
+rested on or: 1
+rested on or at: 1
+retain: 1
+retain a: 1
+retain a surprising: 1
+retain a surprising traditional: 1
+returned again: 1
+returned again to: 1
+returned again to the: 1
+returned holding: 1
+returned holding in: 1
+returned holding in its: 1
+returned on: 1
+returned on account: 1
+returned on account of: 1
+returned with: 1
+returned with that: 1
+returned with that leaf: 1
+return on: 1
+return on account: 1
+return on account of: 1
+return to the ark: 1
+return when: 1
+return when it: 1
+return when it was: 1
+rises: 1
+rises above: 1
+rises above the: 1
+rises above the wasters: 1
+said of: 1
+said of the: 1
+said of the above: 1
+same event: 1
+same event says: 1
+same event says and: 1
+same fact: 1
+same fact the: 1
+same fact the deluge: 1
+same language: 1
+same language and: 1
+same language and these: 1
+sanction: 1
+sanction the: 1
+sanction the testimony: 1
+sanction the testimony of: 1
+saved himself: 1
+saved himself with: 1
+saved himself with his: 1
+saved in: 1
+saved in the: 1
+saved in the ark: 1
+says a: 1
+says and it: 1
+says and it further: 1
+says a late: 1
+says a late traveler: 1
+says that the: 1
+says that the brother: 1
+say by: 1
+say by telling: 1
+say by telling us: 1
+say in: 1
+say in a: 1
+say in a vessel: 1
+say on: 1
+say on a: 1
+say on a tree: 1
+say tezpi: 1
+say tezpi sent: 1
+say tezpi sent out: 1
+say that on: 1
+say that on this: 1
+say that xxprophet: 1
+say that xxprophet embarked: 1
+say the: 1
+say the tongues: 1
+say the tongues which: 1
+scriptures in: 1
+scriptures in regard: 1
+scriptures in regard to: 1
+second time bringing: 1
+second time bringing a: 1
+second time for: 1
+second time for the: 1
+seeing that: 1
+seeing that fresh: 1
+seeing that fresh verdure: 1
+seen by: 1
+seen by every: 1
+seen by every superficial: 1
+see if: 1
+see if the: 1
+see if the waters: 1
+sent other: 1
+sent other birds: 1
+sent other birds one: 1
+sent out of: 1
+sent out of his: 1
+sent out other: 1
+sent out other birds: 1
+several animals: 1
+several animals and: 1
+several animals and grain: 1
+several children: 1
+several children and: 1
+several children and animals: 1
+se xamong: 1
+se xamong the: 1
+se xamong the mexicans: 1
+she presents: 1
+she presents the: 1
+she presents the languages: 1
+shown in: 1
+shown in the: 1
+shown in the form: 1
+shown the: 1
+shown the circumstance: 1
+shown the circumstance of: 1
+shows by: 1
+shows by the: 1
+shows by the group: 1
+shows no: 1
+shows no more: 1
+shows no more than: 1
+shows tezpi: 1
+shows tezpi of: 1
+shows tezpi of xxprophet: 1
+shows the: 1
+shows the vulture: 1
+shows the vulture which: 1
+side appear: 1
+side appear the: 1
+side appear the heads: 1
+skin: 1
+skin in: 1
+skin in which: 1
+skin in which account: 1
+small commas: 1
+small commas suspended: 1
+small commas suspended from: 1
+somewhat obscure: 1
+somewhat obscure history: 1
+somewhat obscure history of: 1
+some kind: 1
+some kind of: 1
+some kind of tree: 1
+some of the nations: 1
+some of those: 1
+some of those nations: 1
+some places: 1
+some places abounded: 1
+some say: 1
+some say in: 1
+some say in a: 1
+so like: 1
+so like that: 1
+so like that contained: 1
+so striking: 1
+so striking that: 1
+so striking that further: 1
+so well: 1
+so well with: 1
+so well with the: 1
+spacious: 1
+spacious acalli: 1
+spacious acalli or: 1
+spacious acalli or boat: 1
+speaks is: 1
+speaks is the: 1
+speaks is the land: 1
+speak the: 1
+speak the same: 1
+speak the same language: 1
+speech from: 1
+speech from a: 1
+speech from a dove: 1
+stated in: 1
+stated in xxscrip: 1
+states that jared: 1
+states that jared s: 1
+striking analogy: 1
+striking analogy must: 1
+striking analogy must be: 1
+striking that: 1
+striking that further: 1
+striking that further comment: 1
+subject of this: 1
+subject of this plate: 1
+subsided: 1
+suitable: 1
+suitable for: 1
+suitable for the: 1
+suitable for the purpose: 1
+sultry: 1
+sultry parts: 1
+sultry parts of: 1
+sultry parts of asia: 1
+summit: 1
+summit of: 1
+summit of which: 1
+summit of which is: 1
+superficial: 1
+superficial observer: 1
+support the testimony: 1
+support the testimony of: 1
+support the words: 1
+support the words of: 1
+surprising representation: 1
+surprising representation of: 1
+surprising representation of the: 1
+surprising traditional: 1
+surprising traditional account: 1
+surprising traditional account of: 1
+suspended: 1
+suspended from: 1
+suspended from its: 1
+suspended from its beak: 1
+s brother: 1
+s brother s: 1
+s brother s language: 1
+s language: 1
+s language was: 1
+s language was not: 1
+s natural: 1
+s natural food: 1
+s natural food was: 1
+s return: 1
+s return to: 1
+s return to the: 1
+s volume: 1
+s volume of: 1
+s volume of researches: 1
+taltecs: 1
+taltecs the: 1
+taltecs the aculhucans: 1
+taltecs the aculhucans and: 1
+telling: 1
+telling us: 1
+telling us that: 1
+telling us that xxprophet: 1
+testimony of the scriptures: 1
+testimony of the xxbookofmormon: 1
+tezpi and: 1
+tezpi and his: 1
+tezpi and his wife: 1
+tezpi now: 1
+tezpi now knowing: 1
+tezpi now knowing that: 1
+tezpi of: 1
+tezpi of xxprophet: 1
+tezpi of xxprophet in: 1
+tezpi or xxprophet sent: 1
+tezpi or xxprophet shows: 1
+tezpi saved: 1
+tezpi saved himself: 1
+tezpi saved himself with: 1
+tezpi seeing: 1
+tezpi seeing that: 1
+tezpi seeing that fresh: 1
+tezpi sent other: 1
+tezpi sent other birds: 1
+tezpi sent out from: 1
+tezpi sent out of: 1
+tezpi sent out other: 1
+than a: 1
+than a picture: 1
+than a picture of: 1
+than if: 1
+than if it: 1
+than if it had: 1
+that birds: 1
+that birds have: 1
+that birds have a: 1
+that contained: 1
+that contained in: 1
+that contained in the: 1
+that fresh: 1
+that fresh verdure: 1
+that fresh verdure now: 1
+that further: 1
+that further comment: 1
+that further comment is: 1
+that he would give: 1
+that jared: 1
+that jared s: 1
+that jared s brother: 1
+that leaf: 1
+that leaf in: 1
+that leaf in her: 1
+that of dead: 1
+that of dead carcasses: 1
+that of the mosaic: 1
+that on: 1
+that on this: 1
+that on this raft: 1
+that there were the: 1
+that the brother: 1
+that the brother of: 1
+that the earth: 1
+that the earth was: 1
+that the striking: 1
+that the striking analogy: 1
+that we insert: 1
+that we insert the: 1
+that xxprophet embarked: 1
+that xxprophet embarked in: 1
+that xxprophet whom: 1
+that xxprophet whom they: 1
+their behalf: 1
+their behalf and: 1
+their behalf and their: 1
+their families: 1
+their families and: 1
+their families and friends: 1
+their language: 1
+their language was: 1
+their language was not: 1
+their tradition: 1
+their tradition it: 1
+their tradition it had: 1
+their travels: 1
+their travels to: 1
+their travels to this: 1
+themselves together and: 1
+themselves together and traveled: 1
+themselves together which: 1
+themselves together which was: 1
+them another: 1
+them another land: 1
+them another land the: 1
+them as being: 1
+them as being born: 1
+them in the: 1
+them in their: 1
+them in their behalf: 1
+them in the form: 1
+them sanction: 1
+them sanction the: 1
+them sanction the testimony: 1
+them were: 1
+them were xxnumber: 1
+them were xxnumber heads: 1
+then prayed: 1
+then prayed for: 1
+then prayed for their: 1
+then precisely: 1
+then precisely agree: 1
+then precisely agree one: 1
+then we: 1
+then we have: 1
+then we have two: 1
+there are many: 1
+there are many things: 1
+there is more: 1
+there is more certainty: 1
+there were the: 1
+there were the xxbookofmormon: 1
+these accounts: 1
+these accounts then: 1
+these accounts then precisely: 1
+these records: 1
+these records both: 1
+these records both of: 1
+these were the: 1
+these were the taltecs: 1
+the above nations: 1
+the above nations that: 1
+the above that: 1
+the above that go: 1
+the aculhucans: 1
+the aculhucans and: 1
+the aculhucans and azteca: 1
+the ararat: 1
+the ararat of: 1
+the ararat of the: 1
+the ark the: 1
+the ark the raft: 1
+the ark when: 1
+the ark when it: 1
+the ark with: 1
+the ark with xxprophet: 1
+the aztaeca: 1
+the aztaeca nations: 1
+the azteca: 1
+the azteca nations: 1
+the azteca nations in: 1
+the bible and whilst: 1
+the bid: 1
+the bid with: 1
+the bid with the: 1
+the bird a: 1
+the bird a somewhat: 1
+the bird s: 1
+the bird s natural: 1
+the boat: 1
+the boat holding: 1
+the boat holding in: 1
+the book of: 1
+the book of xxprophet: 1
+the branches of: 1
+the branches of the: 1
+the brother of: 1
+the brother of jared: 1
+the buffalo: 1
+the buffalo and: 1
+the buffalo and deer: 1
+the building of babel: 1
+the building of the: 1
+the character representing: 1
+the character representing a: 1
+the circumstance of the: 1
+the coincidence: 1
+the coincidence is: 1
+the coincidence is so: 1
+the colhuacans: 1
+the colhuacans and: 1
+the colhuacans and the: 1
+the confounding: 1
+the confounding of: 1
+the confounding of languages: 1
+the confusion of language: 1
+the deluge as: 1
+the deluge as they: 1
+the deluge is: 1
+the deluge is also: 1
+the deluge of: 1
+the deluge of xxprophet: 1
+the deluge or: 1
+the deluge or flood: 1
+the deluge who: 1
+the deluge who say: 1
+the different nations: 1
+the different nations according: 1
+the dove gave: 1
+the dove gave to: 1
+the dove of: 1
+the dove of xxprophet: 1
+the dove s: 1
+the dove s return: 1
+the dove tezpi: 1
+the dove tezpi seeing: 1
+the earth now: 1
+the earth now dried: 1
+the earth quitted: 1
+the earth quitted his: 1
+the earth was: 1
+the earth was dry: 1
+the english: 1
+the female: 1
+the female sex: 1
+the female se xamong: 1
+the figure: 1
+the figure of: 1
+the figure of the: 1
+the flood the: 1
+the flood the tower: 1
+the flood with: 1
+the flood with xxprophet: 1
+the following account: 1
+the following account from: 1
+the foot of a: 1
+the foot of the: 1
+the form of an: 1
+the form of small: 1
+the gift of speech: 1
+the great number: 1
+the great number of: 1
+the great quantities: 1
+the great quantities of: 1
+the group: 1
+the group of: 1
+the group of men: 1
+the heads of xxprophet: 1
+the head of a: 1
+the head of tezpi: 1
+the horn: 1
+the horn at: 1
+the horn at the: 1
+the humming: 1
+the humming bird: 1
+the humming bird this: 1
+the indians of: 1
+the indians of the: 1
+the land of america: 1
+the languages that: 1
+the languages that birds: 1
+the languages to: 1
+the languages to the: 1
+the leaves of a: 1
+the leaves of some: 1
+the left: 1
+the left hand: 1
+the left hand of: 1
+the lord heard him: 1
+the lord heard them: 1
+the lord that: 1
+the lord that he: 1
+the manner of: 1
+the manner of ancient: 1
+the mediterranean: 1
+the men born: 1
+the men born after: 1
+the mexican: 1
+the mexicans at: 1
+the mexicans at the: 1
+the mexicans say: 1
+the mexicans say tezpi: 1
+the mexicans tezpi: 1
+the mexicans tezpi sent: 1
+the mexicans the: 1
+the mexicans the horn: 1
+the mexican records: 1
+the mexican records agree: 1
+the midst of the: 1
+the mosaic history found: 1
+the mosaic history the: 1
+the mountain colhucan: 1
+the mountain colhucan or: 1
+the mountain of: 1
+the mountain of colhuacan: 1
+the mountain on: 1
+the mountain on each: 1
+the mountain the: 1
+the mountain the summit: 1
+the mute: 1
+the mute throng: 1
+the mute throng by: 1
+the nations say: 1
+the nations say on: 1
+the northwest: 1
+the northwest i: 1
+the northwest i received: 1
+the old world: 1
+the old world some: 1
+the olive: 1
+the olive in: 1
+the olive in its: 1
+the other in: 1
+the other in mexico: 1
+the painting: 1
+the painting of: 1
+the painting of which: 1
+the peak: 1
+the peak of: 1
+the peak of colhucan: 1
+the people of limhi: 1
+the plates: 1
+the plates or: 1
+the plates or engraving: 1
+the plate however: 1
+the plate however here: 1
+the plate is: 1
+the plate is the: 1
+the purpose after: 1
+the purpose after the: 1
+the raft: 1
+the raft or: 1
+the raft or canoe: 1
+the raven: 1
+the raven of: 1
+the raven of xxprophet: 1
+the representation: 1
+the representation shows: 1
+the representation shows tezpi: 1
+the same event: 1
+the same event says: 1
+the same fact: 1
+the same fact the: 1
+the same language: 1
+the same language and: 1
+the scriptures in: 1
+the scriptures in regard: 1
+the second time bringing: 1
+the second time for: 1
+the striking: 1
+the striking analogy: 1
+the striking analogy must: 1
+the subject of this: 1
+the sultry: 1
+the sultry parts: 1
+the sultry parts of: 1
+the summit: 1
+the summit of: 1
+the summit of which: 1
+the taltecs: 1
+the taltecs the: 1
+the taltecs the aculhucans: 1
+the tongues: 1
+the tongues which: 1
+the tongues which the: 1
+the top: 1
+the top of: 1
+the top of a: 1
+the traditions: 1
+the traditions of: 1
+the traditions of some: 1
+the tradition and: 1
+the tradition and hieroglyphics: 1
+the tradition commences: 1
+the tradition commences with: 1
+the tree which: 1
+the tree which is: 1
+the tree while: 1
+the tree while she: 1
+the tree with: 1
+the tree with a: 1
+the tribes in: 1
+the tribes in his: 1
+the two points: 1
+the two points extending: 1
+the universal: 1
+the universal designation: 1
+the universal designation of: 1
+the very reason: 1
+the very reason here: 1
+the vulture: 1
+the vulture which: 1
+the vulture which the: 1
+the wasters: 1
+the wasters is: 1
+the wasters is the: 1
+the waters had: 1
+the waters had subsided: 1
+the waters laying: 1
+the waters laying on: 1
+the woman: 1
+the woman is: 1
+the woman is known: 1
+the words: 1
+the words of: 1
+the words of eternal: 1
+the xxbookofmormon as: 1
+the xxbookofmormon as well: 1
+the xxbookofmormon concerning: 1
+the xxbookofmormon concerning the: 1
+the xxbookofmormon in: 1
+the xxbookofmormon in relation: 1
+the xxbookofmormon says: 1
+the xxbookofmormon says that: 1
+the xxbookofmormon that: 1
+the xxbookofmormon that the: 1
+the xxscrip see: 1
+the xxscrip see xxscrip: 1
+the zaltees: 1
+the zaltees the: 1
+the zaltees the colhuacans: 1
+they begin: 1
+they begin by: 1
+they begin by painting: 1
+they call colhuacan: 1
+they call colhuacan is: 1
+they call tezpi: 1
+they call tezpi saved: 1
+they call xochiquetzal: 1
+they call xochiquetzal on: 1
+they had preserved: 1
+they had preserved it: 1
+they immediately: 1
+they immediately dispersed: 1
+they immediately dispersed but: 1
+they knew not: 1
+they knew not where: 1
+they know: 1
+they know not: 1
+they know not where: 1
+they say that: 1
+they say that on: 1
+they say the: 1
+they say the tongues: 1
+they then: 1
+they then prayed: 1
+they then prayed for: 1
+things contained: 1
+things contained in: 1
+things contained in the: 1
+this an: 1
+this an allusion: 1
+this an allusion to: 1
+this ararat: 1
+this ararat the: 1
+this ararat the men: 1
+this continent that: 1
+this continent that go: 1
+this deluge: 1
+this deluge were: 1
+this deluge were born: 1
+this in: 1
+this in almost: 1
+this in almost exact: 1
+this it: 1
+this it further: 1
+this it further speaks: 1
+this land is: 1
+this land is so: 1
+this plate: 1
+this plate from: 1
+this plate from baron: 1
+this raft: 1
+this raft besides: 1
+this raft besides tezpi: 1
+this the ark: 1
+this the ark the: 1
+this the confusion: 1
+this the confusion of: 1
+this the dove of: 1
+this the dove tezpi: 1
+this the raven: 1
+this the raven of: 1
+those nations of: 1
+those nations of families: 1
+those nations retain: 1
+those nations retain a: 1
+throng: 1
+throng by: 1
+throng by bestowing: 1
+throng by bestowing upon: 1
+time bringing: 1
+time bringing a: 1
+time bringing a branch: 1
+time for: 1
+time for the: 1
+time for the very: 1
+together and traveled: 1
+together and traveled they: 1
+together which: 1
+together which was: 1
+together which was very: 1
+told him to: 1
+told him to go: 1
+tongues which: 1
+tongues which the: 1
+tongues which the dove: 1
+top of: 1
+top of a: 1
+top of a tree: 1
+tower of babel ands: 1
+tower of babel as: 1
+to ararat: 1
+to ararat of: 1
+to ararat of asia: 1
+to a certain place: 1
+to feed: 1
+to feed upon: 1
+to feed upon is: 1
+to go to a: 1
+to humboldt: 1
+to humboldt who: 1
+to humboldt who inhabited: 1
+to it is: 1
+to it is the: 1
+to mankind is: 1
+to mankind is not: 1
+to mankind were: 1
+to mankind were infinitely: 1
+to mankind when: 1
+to mankind when the: 1
+to see if: 1
+to see if the: 1
+to son: 1
+to speak the: 1
+to speak the same: 1
+to support the testimony: 1
+to support the words: 1
+to them in: 1
+to them in the: 1
+to the ark: 1
+to the ark when: 1
+to the boat: 1
+to the boat holding: 1
+to the confounding: 1
+to the confounding of: 1
+to the flood: 1
+to the flood the: 1
+to the mute: 1
+to the mute throng: 1
+to this land: 1
+to this land is: 1
+to withdraw tezpi or: 1
+to withdraw tezpi sent: 1
+traditional: 1
+traditional account: 1
+traditional account of: 1
+traditional account of the: 1
+traditions: 1
+traditions of: 1
+traditions of some: 1
+traditions of some of: 1
+tradition and: 1
+tradition and hieroglyphics: 1
+tradition and hieroglyphics of: 1
+tradition commences: 1
+tradition commences with: 1
+tradition commences with an: 1
+tradition handed: 1
+tradition handed down: 1
+tradition handed down from: 1
+tradition it: 1
+tradition it had: 1
+tradition it had become: 1
+tradition of: 1
+tradition of the: 1
+tradition of the same: 1
+traits: 1
+traits of: 1
+traits of the: 1
+traits of the mosaic: 1
+traveled they knew: 1
+traveled they knew not: 1
+traveled they know: 1
+traveled they know not: 1
+traveler: 1
+traveler the: 1
+traveler the following: 1
+traveler the following account: 1
+travels: 1
+travels to: 1
+travels to this: 1
+travels to this land: 1
+tree a: 1
+tree and: 1
+tree and rises: 1
+tree and rises above: 1
+tree a canoe: 1
+tree a canoe and: 1
+tree distributes: 1
+tree distributes languages: 1
+tree distributes languages to: 1
+tree in: 1
+tree in his: 1
+tree in his beak: 1
+tree suitable: 1
+tree suitable for: 1
+tree suitable for the: 1
+tree which: 1
+tree which is: 1
+tree which is shown: 1
+tree while: 1
+tree while she: 1
+tree while she presents: 1
+tree with: 1
+tree with a: 1
+tree with a human: 1
+tribes in: 1
+tribes in his: 1
+tribes in his own: 1
+truth the: 1
+truth the bible: 1
+truth the bible and: 1
+two points: 1
+two points extending: 1
+two points extending up: 1
+two records: 1
+two records found: 1
+two records found upon: 1
+universal designation: 1
+universal designation of: 1
+universal designation of the: 1
+unnecessary ed: 1
+unto the lord that: 1
+upon each: 1
+upon each individual: 1
+upon each individual a: 1
+upon is: 1
+upon is not: 1
+upon is not this: 1
+upon this continent that: 1
+up from: 1
+up from her: 1
+up from her forehead: 1
+us that xxprophet: 1
+us that xxprophet whom: 1
+varied: 1
+varied which: 1
+varied which when: 1
+varied which when received: 1
+verdure now: 1
+verdure now clothed: 1
+verdure now clothed the: 1
+verdure quitted: 1
+verdure quitted his: 1
+verdure quitted his bark: 1
+very natural: 1
+very natural and: 1
+very natural and traveled: 1
+very reason: 1
+very reason here: 1
+very reason here assigned: 1
+vessel: 1
+vessel of: 1
+vessel of huge: 1
+vessel of huge dimensions: 1
+volume of: 1
+volume of researches: 1
+volume of researches in: 1
+vulture but: 1
+vulture but the: 1
+vulture but the bird: 1
+vulture which never: 1
+vulture which never returned: 1
+vulture which the: 1
+vulture which the mexicans: 1
+wasters: 1
+wasters is: 1
+wasters is the: 1
+wasters is the peak: 1
+was believed: 1
+was believed by: 1
+was believed by the: 1
+was dry: 1
+was dry being: 1
+was dry being clothed: 1
+was found: 1
+was found in: 1
+was found in xxcounty: 1
+was humming: 1
+was humming bird: 1
+was humming bird this: 1
+was not confounded and: 1
+was not confounded these: 1
+was of g: 1
+was of g eat: 1
+was of importance: 1
+was of importance to: 1
+was saved: 1
+was saved in: 1
+was saved in the: 1
+was sent: 1
+was sent out: 1
+was sent out the: 1
+was that of: 1
+was that of dead: 1
+was the humming: 1
+was the humming bird: 1
+was very natural: 1
+was very natural and: 1
+waters had: 1
+waters had subsided: 1
+waters laying: 1
+waters laying on: 1
+waters laying on his: 1
+well as that: 1
+well as that of: 1
+well with: 1
+well with the: 1
+well with the word: 1
+were born: 1
+were born dumb: 1
+were born dumb is: 1
+were found: 1
+were found paintings: 1
+were found paintings which: 1
+were infinitely: 1
+were infinitely varied: 1
+were infinitely varied which: 1
+were permitted: 1
+were permitted to: 1
+were permitted to speak: 1
+were several: 1
+were several children: 1
+were several children and: 1
+were the taltecs: 1
+were the taltecs the: 1
+were the xxbookofmormon: 1
+were the xxbookofmormon concerning: 1
+were xxnumber: 1
+were xxnumber heads: 1
+were xxnumber heads or: 1
+we have derived: 1
+we have derived the: 1
+we have two: 1
+we have two records: 1
+we insert: 1
+we insert the: 1
+we insert the following: 1
+we would say: 1
+we would say by: 1
+what was saved: 1
+what was saved in: 1
+when it had: 1
+when it had been: 1
+when it was: 1
+when it was sent: 1
+when received: 1
+when received they: 1
+when received they immediately: 1
+which account: 1
+which account there: 1
+which account there is: 1
+which did: 1
+which did not: 1
+which did not return: 1
+which flutters: 1
+which flutters in: 1
+which flutters in the: 1
+which is contained: 1
+which is contained in: 1
+which is crowned: 1
+which is crowned by: 1
+which is shown: 1
+which is shown in: 1
+which is the universal: 1
+which it found: 1
+which it found to: 1
+which never: 1
+which never returned: 1
+which never returned on: 1
+which represented: 1
+which represented the: 1
+which represented the deluge: 1
+which returned: 1
+which returned with: 1
+which returned with that: 1
+which the dove: 1
+which the dove gave: 1
+which the earth: 1
+which the earth now: 1
+which the mexicans: 1
+which the mexicans say: 1
+which the plate: 1
+which the plate is: 1
+which they call: 1
+which they call colhuacan: 1
+which was found: 1
+which was found in: 1
+which was humming: 1
+which was humming bird: 1
+which was of g: 1
+which was of importance: 1
+which was the: 1
+which was the humming: 1
+which was very: 1
+which was very natural: 1
+which were permitted: 1
+which were permitted to: 1
+which when: 1
+which when received: 1
+which when received they: 1
+while she: 1
+while she presents: 1
+while she presents the: 1
+whilst these: 1
+whilst these records: 1
+whilst these records both: 1
+whom they call tezpi: 1
+whom they call xochiquetzal: 1
+who embodied: 1
+who embodied themselves: 1
+who embodied themselves together: 1
+who found: 1
+who found it: 1
+who found it painted: 1
+who inhabited: 1
+who inhabited mexico: 1
+who inhabited mexico were: 1
+who receive: 1
+who receive the: 1
+who receive the gift: 1
+who say: 1
+who say that: 1
+who say that xxprophet: 1
+wife his: 1
+wife his children: 1
+wife his children several: 1
+wife the: 1
+wife the woman: 1
+wife the woman is: 1
+wife were: 1
+wife were several: 1
+wife were several children: 1
+wife whom: 1
+wife whom they: 1
+wife whom they call: 1
+withdraw tezpi or: 1
+withdraw tezpi or xxprophet: 1
+withdraw tezpi sent: 1
+withdraw tezpi sent out: 1
+with an account: 1
+with an account of: 1
+with a human: 1
+with a human hand: 1
+with fresh: 1
+with fresh verdure: 1
+with fresh verdure quitted: 1
+with grain: 1
+with grain the: 1
+with grain the preservation: 1
+with his wife his: 1
+with his wife whom: 1
+with leaves is: 1
+with leaves is not: 1
+with leaves tezpi: 1
+with leaves tezpi now: 1
+with that leaf: 1
+with that leaf in: 1
+with the leaves: 1
+with the leaves of: 1
+with the word: 1
+with the word of: 1
+with what was: 1
+with what was saved: 1
+with which the: 1
+with which the earth: 1
+with xxprophet afloat: 1
+with xxprophet afloat on: 1
+with xxprophet as: 1
+with xxprophet as stated: 1
+woman is: 1
+woman is known: 1
+woman is known by: 1
+words in: 1
+words in the: 1
+words in the english: 1
+words of: 1
+words of eternal: 1
+words of eternal truth: 1
+word of the book: 1
+world some: 1
+world some of: 1
+world some of those: 1
+would give: 1
+would give them: 1
+would give them another: 1
+would say: 1
+would say by: 1
+would say by telling: 1
+xochiquetzal: 1
+xochiquetzal on: 1
+xochiquetzal on a: 1
+xochiquetzal on a raft: 1
+xxbookofmormon as: 1
+xxbookofmormon as well: 1
+xxbookofmormon as well as: 1
+xxbookofmormon concerning: 1
+xxbookofmormon concerning the: 1
+xxbookofmormon concerning the same: 1
+xxbookofmormon in: 1
+xxbookofmormon in relation: 1
+xxbookofmormon in relation to: 1
+xxbookofmormon says: 1
+xxbookofmormon says that: 1
+xxbookofmormon says that the: 1
+xxbookofmormon that: 1
+xxbookofmormon that the: 1
+xxbookofmormon that the striking: 1
+xxcounty xxstate: 1
+xxcounty xxstate and: 1
+xxcounty xxstate and the: 1
+xxnumber heads: 1
+xxnumber heads or: 1
+xxnumber heads or chiefs: 1
+xxnumber traits: 1
+xxnumber traits of: 1
+xxnumber traits of the: 1
+xxprophet afloat: 1
+xxprophet afloat on: 1
+xxprophet afloat on a: 1
+xxprophet and his: 1
+xxprophet and his wife: 1
+xxprophet and of: 1
+xxprophet and of the: 1
+xxprophet as: 1
+xxprophet as stated: 1
+xxprophet as stated in: 1
+xxprophet embarked: 1
+xxprophet embarked in: 1
+xxprophet embarked in a: 1
+xxprophet found: 1
+xxprophet found by: 1
+xxprophet found by the: 1
+xxprophet in the: 1
+xxprophet in the midst: 1
+xxprophet sent: 1
+xxprophet sent out: 1
+xxprophet sent out from: 1
+xxprophet shows: 1
+xxprophet shows the: 1
+xxprophet shows the vulture: 1
+xxprophet which did: 1
+xxprophet which did not: 1
+xxprophet which returned: 1
+xxprophet which returned with: 1
+xxprophet whom: 1
+xxprophet whom they: 1
+xxprophet whom they call: 1
+xxscrip see: 1
+xxscrip see xxscrip: 1
+xxscrip they: 1
+xxscrip they say: 1
+xxscrip they say that: 1
+xxstate and: 1
+xxstate and the: 1
+xxstate and the other: 1
+zaltees: 1
+zaltees the: 1
+zaltees the colhuacans: 1
+zaltees the colhuacans and: 1

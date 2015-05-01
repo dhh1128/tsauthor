@@ -1,10 +1,14 @@
+mormon: 17
 my brethren: 19
+plainly: 9
 my brother: 13
 brothers: 11
 enemies: 8
 xxcity and: 8
 sisters: 10
 brother joseph: 9
+entitled: 9
+leaders: 9
 west: 7
 my friends: 11
 and sisters: 8
@@ -14,13 +18,17 @@ the law of god: 8
 xxfirstname xxlastname s: 8
 names of: 6
 off the: 6
+of every: 6
 the names: 6
 the names of: 6
 police: 14
+east: 9
 my father: 9
 the council: 13
 into the church: 5
+charges: 6
 determined to: 6
+editor: 6
 revenge: 6
 thereby: 6
 my brother joseph: 8
@@ -40,6 +48,7 @@ and brethren: 5
 he might: 5
 leaders of: 5
 of xxfirstname xxlastname s: 5
+the mormon: 5
 the west: 5
 to say that: 5
 troubles: 5
@@ -54,6 +63,7 @@ young: 6
 you are: 6
 his brother: 9
 possibly: 9
+xxlastname to: 9
 all men: 4
 assured: 4
 attending: 4
@@ -63,6 +73,7 @@ notorious: 4
 not as: 4
 not by: 4
 obey: 4
+of one: 4
 of the prophet: 4
 that for: 4
 with other: 4
@@ -74,17 +85,22 @@ a spirit: 5
 committed: 5
 conference: 5
 deaths: 5
+deeds: 5
 fellow: 5
 golden: 5
+indians: 5
 in secret: 5
 iowa: 5
 joseph and hiram: 5
 leave it: 5
+lying: 5
 ministry: 5
 money: 5
 of those who: 5
 only to: 5
+parts of: 5
 permit: 5
+personal: 5
 self: 5
 teach: 5
 the golden: 5
@@ -93,30 +109,38 @@ warning: 5
 willing: 5
 with my: 5
 xxlastname is: 5
+bound: 7
 claim: 7
 divisions: 7
 hatred: 7
+the east: 7
 the keys: 7
 the stand: 7
 xxfirstname xxlastname to: 7
 advised: 4
+and by the: 4
+arose: 4
 a full: 4
 before i: 4
 belief: 4
 bless: 4
+brethren in: 4
 brother s: 4
 can it: 4
 can it be: 4
 carry out: 4
 church of god: 4
 civilized: 4
+conclusion: 4
 condemn: 4
 different parts: 4
 different parts of: 4
+eleven: 4
 expect: 4
 for fear: 4
 for fear of: 4
 friends and brethren: 4
+from me: 4
 from the church: 4
 in such: 4
 in the different: 4
@@ -137,6 +161,7 @@ these matters: 4
 the church of god: 4
 the church to: 4
 the love: 4
+the man: 4
 the secret: 4
 thieves: 4
 think of: 4
@@ -149,11 +174,13 @@ wild and: 4
 willing to: 4
 xxcity for: 4
 xxfirstname xxlastname is: 4
+xxnumber xxnumber: 4
 you my: 4
 cumorah: 6
 guard: 6
 my brethren and: 6
 such men: 6
+as was: 5
 band: 5
 blessing: 5
 brethren i: 5
@@ -192,6 +219,7 @@ as well as the: 3
 a mystery: 3
 a single: 3
 a singular: 3
+besides: 3
 be assured: 3
 by one: 3
 by the name: 3
@@ -224,7 +252,9 @@ have crept into: 3
 have crept into the: 3
 he was an: 3
 if i: 3
+in due: 3
 in the first: 3
+in xxstate: 3
 is well known: 3
 i received: 3
 i wish to: 3
@@ -258,12 +288,14 @@ priesthood of: 3
 professions: 3
 pure and: 3
 put on: 3
+ready: 3
 reports: 3
 require: 3
 respected: 3
 returned to: 3
 right and: 3
 right which: 3
+sick: 3
 single: 3
 strengthened: 3
 study: 3
@@ -350,6 +382,7 @@ powerless: 4
 quorum of: 4
 rest of the: 4
 secret combinations: 4
+south: 4
 summer: 4
 s family: 4
 tales: 4
@@ -357,12 +390,14 @@ that although: 4
 that i am: 4
 that i was: 4
 the indians: 4
+the record: 4
 the rest of the: 4
 those men: 4
 towards: 4
 to call: 4
 to get the: 4
 to return to: 4
+to save: 4
 to which i: 4
 two brothers: 4
 tyranny: 4
@@ -394,6 +429,7 @@ and should: 3
 and that all: 3
 and xxinitial: 3
 and xxinitial xxlastname: 3
+arose and: 3
 assassins: 3
 astray: 3
 aught: 3
@@ -426,6 +462,7 @@ council and: 3
 council of: 3
 counsel the: 3
 dear brethren: 3
+declare: 3
 deep: 3
 discovered by: 3
 education: 3
@@ -440,6 +477,7 @@ father s family: 3
 for your: 3
 from the foregoing: 3
 given him: 3
+give them: 3
 golden plates: 3
 gospel of xxjesuschrist: 3
 had become: 3
@@ -450,6 +488,7 @@ have not the: 3
 heart and: 3
 he had not: 3
 hidden: 3
+hid up: 3
 houses for: 3
 humble: 3
 hypocrisy: 3
@@ -460,6 +499,7 @@ in different: 3
 in our: 3
 in the spirit: 3
 in the spirit of: 3
+in the xxbookofmormon: 3
 is not sufficient: 3
 it a duty: 3
 i believe: 3
@@ -479,6 +519,7 @@ meetings: 3
 men have: 3
 me and the: 3
 me from: 3
+mr editor: 3
 murder was: 3
 my father s family: 3
 names of the: 3
@@ -491,7 +532,9 @@ of mine: 3
 of persecution: 3
 of the church i: 3
 of the past: 3
+of the present: 3
 of the right: 3
+of the temple: 3
 of the time: 3
 of the xxcity: 3
 of xxfirstname xxlastname to: 3
@@ -504,11 +547,14 @@ other than: 3
 out their: 3
 out their plans: 3
 own personal: 3
+parts of the: 3
+people to: 3
 permit me: 3
 permit me to: 3
 place that: 3
 practices: 3
 practised: 3
+preach the: 3
 preach the gospel: 3
 pretensions to: 3
 prey: 3
@@ -520,6 +566,7 @@ quorum of the twelve: 3
 reflect: 3
 remnants of: 3
 rest of the twelve: 3
+return to the: 3
 reveal: 3
 rights of: 3
 salt: 3
@@ -538,6 +585,7 @@ slightest: 3
 south america: 3
 so and: 3
 so let: 3
+spread: 3
 stamp: 3
 statements: 3
 states and: 3
@@ -567,8 +615,10 @@ the wrath: 3
 they will tell: 3
 they will tell you: 3
 this man: 3
+three years: 3
 time i: 3
 told us: 3
+tongues: 3
 to carry out their: 3
 to claim: 3
 to continue: 3
@@ -604,13 +654,16 @@ xxlastname and his: 3
 xxlastname and xxinitial: 3
 xxlastname and xxinitial xxlastname: 3
 xxlastname xxfirstname xxlastname: 3
+years and: 3
 you must: 3
 you my brethren: 3
 aborigines of: 2
 about in: 2
+about this: 2
 about this time: 2
 accepted: 2
 accomplish: 2
+acted: 2
 act in: 2
 advantages: 2
 advise: 2
@@ -648,6 +701,7 @@ and elsewhere: 2
 and endanger: 2
 and entirely: 2
 and exertions: 2
+and facts: 2
 and faithful: 2
 and fell: 2
 and fellow: 2
@@ -664,6 +718,7 @@ and not be: 2
 and not be led: 2
 and obey: 2
 and obtained: 2
+and on: 2
 and only: 2
 and ordained: 2
 and patriarch of: 2
@@ -705,6 +760,7 @@ assumption of: 2
 assumption of power: 2
 assured that: 2
 as all the: 2
+as it was: 2
 as my: 2
 as taught by: 2
 as they are: 2
@@ -713,6 +769,7 @@ as well claim: 2
 attended the: 2
 attending the: 2
 attention to: 2
+at all: 2
 at xxcity for: 2
 at xxcity for the: 2
 authorities of the: 2
@@ -722,6 +779,7 @@ a band: 2
 a band of: 2
 a brother of: 2
 a brother of the: 2
+a church: 2
 a common: 2
 a conference: 2
 a cursory: 2
@@ -745,6 +803,8 @@ a pamphlet: 2
 a proclamation: 2
 a reason: 2
 a reason for: 2
+a wicked: 2
+a wicked and: 2
 a young: 2
 a young lady: 2
 a young lady by: 2
@@ -879,6 +939,7 @@ delightful people: 2
 departure to: 2
 departure to the: 2
 deprived of the: 2
+developments: 2
 developments and: 2
 devote: 2
 different bodies: 2
@@ -894,6 +955,7 @@ duty and: 2
 earnestly: 2
 east and: 2
 egypt and: 2
+eighteen: 2
 either the: 2
 elders and: 2
 eldest: 2
@@ -905,6 +967,7 @@ energies in: 2
 escape from: 2
 escape from the: 2
 especially those: 2
+event: 2
 even to the: 2
 ever and: 2
 ever and anon: 2
@@ -932,6 +995,7 @@ fault: 2
 favor of the: 2
 fear of the: 2
 feelings of my: 2
+feet: 2
 fellowship: 2
 fellow laborer: 2
 fellow laborer in: 2
@@ -948,6 +1012,7 @@ fools: 2
 foot: 2
 forbidden: 2
 forth and: 2
+forth in the: 2
 for fear of the: 2
 for life: 2
 for me and: 2
@@ -975,6 +1040,7 @@ guard who: 2
 had given: 2
 had not the: 2
 had you: 2
+hall: 2
 has ever been: 2
 has never: 2
 has never been: 2
@@ -1014,6 +1080,7 @@ holy religion: 2
 honor to: 2
 hoping: 2
 hour to: 2
+house and: 2
 how much: 2
 hypocrites and: 2
 if any: 2
@@ -1038,7 +1105,9 @@ into the kingdom: 2
 into the kingdom of: 2
 inveterate: 2
 invite: 2
+in conclusion: 2
 in different bodies: 2
+in due time: 2
 in favor: 2
 in favor of: 2
 in favor of the: 2
@@ -1054,6 +1123,8 @@ in the east: 2
 in the eastern: 2
 in the first place: 2
 in the gospel: 2
+in the midst: 2
+in the midst of: 2
 in the shape: 2
 in the shape of: 2
 in the spring: 2
@@ -1087,6 +1158,7 @@ joseph does: 2
 joseph does not: 2
 joseph s: 2
 joseph was: 2
+judgment: 2
 keeping: 2
 keep a: 2
 keys of the: 2
@@ -1104,6 +1176,7 @@ lady: 2
 lady by: 2
 lady by the: 2
 lady by the name: 2
+late: 2
 lawfully: 2
 lawful inheritance: 2
 leaders of the church: 2
@@ -1128,6 +1201,7 @@ married at: 2
 masonic: 2
 masonic hall: 2
 matters by: 2
+matter and: 2
 may be said: 2
 may put: 2
 meekness: 2
@@ -1170,6 +1244,7 @@ much of: 2
 murdered in: 2
 murderer: 2
 murderers and: 2
+murder and: 2
 murder to: 2
 must necessarily: 2
 must now: 2
@@ -1216,6 +1291,7 @@ of a church: 2
 of charity: 2
 of conduct: 2
 of cruelty: 2
+of darkness: 2
 of destruction: 2
 of duty: 2
 of duty and: 2
@@ -1326,6 +1402,7 @@ p s: 2
 raise the: 2
 rank: 2
 rather than: 2
+ready to: 2
 reality: 2
 received his: 2
 reflection: 2
@@ -1344,6 +1421,7 @@ remnant of: 2
 removal: 2
 removal to: 2
 removal to the: 2
+removed: 2
 representative: 2
 representative of: 2
 rested upon: 2
@@ -1392,6 +1470,7 @@ shape: 2
 shape of: 2
 should be made: 2
 should know: 2
+sides: 2
 signed by: 2
 signed by the: 2
 silence: 2
@@ -1421,6 +1500,7 @@ so much of: 2
 so very: 2
 speaks for: 2
 speaks to: 2
+speech: 2
 spreading: 2
 sprung: 2
 stands: 2
@@ -1445,6 +1525,8 @@ s door: 2
 s house: 2
 s priesthood: 2
 sympathy: 2
+taught by: 2
+that book: 2
 that has been: 2
 that he did not: 2
 that he had not: 2
@@ -1471,9 +1553,12 @@ their present: 2
 their proceedings: 2
 their sins: 2
 themselves into: 2
+them by the: 2
 them i: 2
 them this: 2
 them to the: 2
+them we: 2
+the american: 2
 the appointed: 2
 the armed: 2
 the best: 2
@@ -1607,6 +1692,7 @@ to california: 2
 to continue the: 2
 to destruction: 2
 to expose: 2
+to in: 2
 to keep a: 2
 to murder: 2
 to obey: 2
@@ -1625,12 +1711,14 @@ to speak: 2
 to the twelve: 2
 to the west: 2
 to think of: 2
+to which they: 2
 to whom i: 2
 to whom i have: 2
 track: 2
 troubles and: 2
 trouble and: 2
 true church: 2
+truths: 2
 twelve men: 2
 twelve who: 2
 tyranny and: 2
@@ -1646,6 +1734,7 @@ unless he: 2
 until by: 2
 unwary: 2
 unwary and: 2
+upon a: 2
 upon the character: 2
 upon the character of: 2
 upon this continent: 2
@@ -1655,10 +1744,12 @@ up with: 2
 use of to: 2
 utter: 2
 utterance: 2
+verily: 2
 visit to the: 2
 vote: 2
 warfare: 2
 warning to: 2
+was as: 2
 was but: 2
 was called upon: 2
 was committed: 2
@@ -1694,6 +1785,7 @@ will hear from me: 2
 will see: 2
 will soon: 2
 will you: 2
+with as: 2
 with as much: 2
 with joseph: 2
 with my own: 2
@@ -1702,6 +1794,7 @@ with whom: 2
 with whom i: 2
 wives: 2
 wives and: 2
+wonderful: 2
 works and: 2
 would ask you: 2
 wounded: 2

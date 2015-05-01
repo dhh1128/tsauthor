@@ -82,9 +82,14 @@ def get_author_subdirs():
 
 def prune1(authors):
     for author in authors:
+        author_info = authors[author]
+        if author.startswith('unsigned'):
+            to_prune = [key for key in author_info if ' in ' in key]
+            for key in to_prune:
+                del author_info[key]
+            continue
         with open(os.path.join(root, 'prune-1-%s.txt' % author), 'w') as f:
             to_prune = []
-            author_info = authors[author]
             for key, value in author_info.iteritems():
                 if ' in ' in key:
                     if len(value) == 1:
@@ -107,7 +112,7 @@ def prune1(authors):
 def prune2(authors):
     to_prune = {}
     for author in authors:
-        other_authors = [x for x in authors if x != author]
+        other_authors = [x for x in authors if x != author and (not x.startswith('unsigned'))]
         my_to_prune = []
         author_info = authors[author]
         for key in author_info:
@@ -146,9 +151,12 @@ class compare_by_distinctiveness:
         elif ' in ' in key2:
             return -1
         author_info = self.authors[self.author]
-        in_docs1 = len(author_info['%s in docs' % key1])
+        if self.author.startswith('unsigned'):
+            in_docs1 = in_docs2 = 1
+        else:
+            in_docs1 = len(author_info['%s in docs' % key1])
+            in_docs2 = len(author_info['%s in docs' % key2])
         score1 = in_docs1 * author_info[key1]
-        in_docs2 = len(author_info['%s in docs' % key2])
         score2 = in_docs2 * author_info[key2]
         n = score2 - score1
         if not n:
@@ -171,5 +179,14 @@ def analyze(authors):
 if __name__ == '__main__':
     info = {}
     for subdir in get_author_subdirs():
-        info[subdir] = grab(os.path.join(root, subdir))
+        if subdir != 'unsigned':
+            info[subdir] = grab(os.path.join(root, subdir))
+    unsigned_dir = os.path.join(root, 'unsigned', '3')
+    items = os.listdir(unsigned_dir)
+    for item in items:
+        if item.endswith('.html'):
+            key = item[:-5]
+            author_info = {}
+            grab_file(author_info, os.path.join(unsigned_dir, item))
+            info[key] = author_info
     analyze(info)

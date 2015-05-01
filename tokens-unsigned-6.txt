@@ -1,0 +1,670 @@
+ruins: 5
+and mighty: 2
+a great and: 2
+conjectures: 2
+great and mighty: 2
+inhabited: 2
+inhabited this: 2
+inhabited this continent: 2
+mighty people: 2
+of the ruins: 2
+of the ruins of: 2
+on this continent: 2
+researches: 2
+ruins of: 2
+sculpture: 2
+that a great: 2
+that a great and: 2
+their conjectures: 2
+the ruins: 2
+the ruins of: 2
+they would find: 2
+would find: 2
+abundantly testify: 1
+abundantly testify of: 1
+abundantly testify of this: 1
+altered uncertainty: 1
+altered uncertainty and: 1
+altered uncertainty and doubt: 1
+america abundantly: 1
+america abundantly testify: 1
+america abundantly testify of: 1
+and a mighty: 1
+and a mighty people: 1
+and catherwood: 1
+and catherwood s: 1
+and catherwood s researches: 1
+and comprehensive: 1
+and comprehensive designs: 1
+and comprehensive designs inhabited: 1
+and doubt: 1
+and doubt would: 1
+and doubt would be: 1
+and facts and: 1
+and facts and they: 1
+and mighty cities: 1
+and mighty cities on: 1
+and mighty people: 1
+and mighty people men: 1
+and more imperishable: 1
+and more imperishable ruins: 1
+and ornaments: 1
+and ornaments of: 1
+and ornaments of silver: 1
+and other cities: 1
+and other cities corroborate: 1
+and religion: 1
+and religion had: 1
+and religion had prevailed: 1
+and show: 1
+and show that: 1
+and show that a: 1
+and their opinions: 1
+and their opinions altered: 1
+and the magnificence: 1
+and the magnificence of: 1
+and they would: 1
+and they would find: 1
+and we extract: 1
+and we extract the: 1
+anxiously: 1
+anxiously prying: 1
+anxiously prying into: 1
+anxiously prying into were: 1
+any of the: 1
+any of the ruins: 1
+architectural: 1
+architectural designs: 1
+architectural designs and: 1
+architectural designs and more: 1
+architecture: 1
+architecture implements: 1
+architecture implements of: 1
+architecture implements of war: 1
+are anxiously: 1
+are anxiously prying: 1
+are anxiously prying into: 1
+are found on: 1
+are found on this: 1
+armies: 1
+armies etc: 1
+armies etc and: 1
+armies etc and we: 1
+arts: 1
+arts sciences: 1
+arts sciences and: 1
+arts sciences and religion: 1
+asia: 1
+asia babylon: 1
+asia babylon ninevah: 1
+asia babylon ninevah nor: 1
+as great: 1
+as great and: 1
+as great and mighty: 1
+as on the: 1
+as on the continent: 1
+a great and a: 1
+a great and mighty: 1
+a mighty: 1
+a mighty people: 1
+a mighty people had: 1
+a very great: 1
+a very great extent: 1
+babylon: 1
+babylon ninevah: 1
+babylon ninevah nor: 1
+babylon ninevah nor any: 1
+being great: 1
+being great wars: 1
+being great wars the: 1
+better architectural: 1
+better architectural designs: 1
+better architectural designs and: 1
+be changed: 1
+be changed into: 1
+be changed into certainty: 1
+be removed: 1
+be removed and: 1
+be removed and their: 1
+boast: 1
+boast of: 1
+boast of more: 1
+boast of more perfect: 1
+book they: 1
+book they would: 1
+book they would find: 1
+brass: 1
+brass etc: 1
+brass etc were: 1
+brass etc were to: 1
+bright: 1
+bright genius: 1
+bright genius and: 1
+bright genius and comprehensive: 1
+catherwood: 1
+catherwood s: 1
+catherwood s researches: 1
+catherwood s researches in: 1
+central: 1
+central america: 1
+central america abundantly: 1
+central america abundantly testify: 1
+certainty: 1
+certainty and: 1
+certainty and facts: 1
+certainty and facts and: 1
+changed into: 1
+changed into certainty: 1
+changed into certainty and: 1
+cities armies: 1
+cities armies etc: 1
+cities armies etc and: 1
+cities corroborate: 1
+cities corroborate this: 1
+cities corroborate this statement: 1
+cities on: 1
+cities on this: 1
+cities on this continent: 1
+clear intellect: 1
+clear intellect bright: 1
+clear intellect bright genius: 1
+comprehensive: 1
+comprehensive designs: 1
+comprehensive designs inhabited: 1
+comprehensive designs inhabited this: 1
+conjectures were: 1
+conjectures were more: 1
+conjectures were more than: 1
+conjectures would: 1
+conjectures would be: 1
+conjectures would be removed: 1
+continent as: 1
+continent as on: 1
+continent as on the: 1
+continent of: 1
+continent of asia: 1
+continent of asia babylon: 1
+continent stephens: 1
+continent stephens and: 1
+continent stephens and catherwood: 1
+continent that: 1
+continent that the: 1
+continent that the arts: 1
+continent their: 1
+continent their ruins: 1
+continent their ruins speak: 1
+corroborate this: 1
+corroborate this statement: 1
+corroborate this statement and: 1
+could boast: 1
+could boast of: 1
+could boast of more: 1
+country in: 1
+country in noticing: 1
+country in noticing the: 1
+designs and: 1
+designs and more: 1
+designs and more imperishable: 1
+designs inhabited: 1
+designs inhabited this: 1
+designs inhabited this continent: 1
+doubt would: 1
+doubt would be: 1
+doubt would be changed: 1
+elegant: 1
+elegant sculpture: 1
+elegant sculpture and: 1
+elegant sculpture and the: 1
+etc and we: 1
+etc and we extract: 1
+etc were: 1
+etc were to: 1
+etc were to examine: 1
+examine the xxbookofmormon: 1
+examine the xxbookofmormon their: 1
+extent and: 1
+extent and that: 1
+extent and that there: 1
+extract the: 1
+extract the following: 1
+extract the following in: 1
+facts and: 1
+facts and they: 1
+facts and they would: 1
+find that those: 1
+find that those things: 1
+find their: 1
+find their conjectures: 1
+find their conjectures were: 1
+following in: 1
+following in regard: 1
+following in regard to: 1
+following will: 1
+following will show: 1
+fortifications: 1
+fortifications statues: 1
+fortifications statues architecture: 1
+fortifications statues architecture implements: 1
+found on: 1
+found on this: 1
+found on this continent: 1
+genius: 1
+genius and: 1
+genius and comprehensive: 1
+genius and comprehensive designs: 1
+greatness the: 1
+greatness the xxbookofmormon: 1
+greatness the xxbookofmormon unfolds: 1
+great and a: 1
+great and a mighty: 1
+great and mighty cities: 1
+great and mighty people: 1
+great extent: 1
+great extent and: 1
+great extent and that: 1
+great minds: 1
+great minds clear: 1
+great minds clear intellect: 1
+great wars: 1
+great wars the: 1
+great wars the following: 1
+guatemala: 1
+guatemala and: 1
+guatemala and other: 1
+guatemala and other cities: 1
+had inhabited: 1
+had inhabited this: 1
+had inhabited this continent: 1
+had prevailed: 1
+had prevailed to: 1
+had prevailed to a: 1
+history ed: 1
+history of this country: 1
+history unfolded: 1
+history unfolded in: 1
+history unfolded in that: 1
+husbandry: 1
+husbandry and: 1
+husbandry and ornaments: 1
+husbandry and ornaments of: 1
+if men: 1
+if men in: 1
+if men in their: 1
+imperishable: 1
+imperishable ruins: 1
+imperishable ruins than: 1
+imperishable ruins than what: 1
+implements: 1
+implements of: 1
+implements of war: 1
+implements of war of: 1
+inhabited this continent that: 1
+inhabited this continent their: 1
+intellect: 1
+intellect bright: 1
+intellect bright genius: 1
+intellect bright genius and: 1
+into certainty: 1
+into certainty and: 1
+into certainty and facts: 1
+into the history: 1
+into the history of: 1
+into were: 1
+into were matters: 1
+into were matters of: 1
+in central: 1
+in central america: 1
+in central america abundantly: 1
+in noticing: 1
+in noticing the: 1
+in noticing the mounds: 1
+in regard to there: 1
+in that book: 1
+in that book they: 1
+in their researches: 1
+in their researches into: 1
+levant: 1
+levant could: 1
+levant could boast: 1
+levant could boast of: 1
+magnificence of: 1
+magnificence of the: 1
+magnificence of the ruins: 1
+matters of: 1
+matters of history: 1
+matters of history unfolded: 1
+men in their: 1
+men in their researches: 1
+men of great: 1
+men of great minds: 1
+mighty cities: 1
+mighty cities on: 1
+mighty cities on this: 1
+mighty people had: 1
+mighty people had inhabited: 1
+mighty people men: 1
+mighty people men of: 1
+minds clear: 1
+minds clear intellect: 1
+minds clear intellect bright: 1
+more imperishable: 1
+more imperishable ruins: 1
+more imperishable ruins than: 1
+more perfect: 1
+more perfect sculpture: 1
+more perfect sculpture better: 1
+more than realized: 1
+more than realized that: 1
+mounds: 1
+mounds fortifications: 1
+mounds fortifications statues: 1
+mounds fortifications statues architecture: 1
+ninevah: 1
+ninevah nor: 1
+ninevah nor any: 1
+ninevah nor any of: 1
+nor any: 1
+nor any of: 1
+nor any of the: 1
+noticing: 1
+noticing the: 1
+noticing the mounds: 1
+noticing the mounds fortifications: 1
+of asia: 1
+of asia babylon: 1
+of asia babylon ninevah: 1
+of great minds: 1
+of great minds clear: 1
+of guatemala: 1
+of guatemala and: 1
+of guatemala and other: 1
+of history: 1
+of history unfolded: 1
+of history unfolded in: 1
+of husbandry: 1
+of husbandry and: 1
+of husbandry and ornaments: 1
+of more: 1
+of more perfect: 1
+of more perfect sculpture: 1
+of ores: 1
+of ores swords: 1
+of ores swords cities: 1
+of silver: 1
+of silver brass: 1
+of silver brass etc: 1
+of their greatness: 1
+of their greatness the: 1
+of the levant: 1
+of the levant could: 1
+of this country: 1
+of this country in: 1
+of this thing: 1
+of this thing the: 1
+of war: 1
+of war of: 1
+of war of husbandry: 1
+on the continent: 1
+on the continent of: 1
+on this continent as: 1
+on this continent stephens: 1
+opinions altered: 1
+opinions altered uncertainty: 1
+opinions altered uncertainty and: 1
+ores: 1
+ores swords: 1
+ores swords cities: 1
+ores swords cities armies: 1
+ornaments: 1
+ornaments of: 1
+ornaments of silver: 1
+ornaments of silver brass: 1
+other cities: 1
+other cities corroborate: 1
+other cities corroborate this: 1
+people had: 1
+people had inhabited: 1
+people had inhabited this: 1
+people men: 1
+people men of: 1
+people men of great: 1
+perfect sculpture: 1
+perfect sculpture better: 1
+perfect sculpture better architectural: 1
+prevailed to: 1
+prevailed to a: 1
+prevailed to a very: 1
+prying: 1
+prying into: 1
+prying into were: 1
+prying into were matters: 1
+realized: 1
+realized that: 1
+realized that a: 1
+realized that a great: 1
+regard to there: 1
+regard to there being: 1
+religion had: 1
+religion had prevailed: 1
+religion had prevailed to: 1
+removed and: 1
+removed and their: 1
+removed and their opinions: 1
+researches in: 1
+researches into: 1
+researches into the: 1
+researches into the history: 1
+researches in central: 1
+researches in central america: 1
+ruins of guatemala: 1
+ruins of guatemala and: 1
+ruins of the: 1
+ruins of the levant: 1
+ruins speak: 1
+ruins speak of: 1
+ruins speak of their: 1
+ruins than: 1
+ruins than what: 1
+ruins than what are: 1
+ruins the: 1
+ruins the elegant: 1
+ruins the elegant sculpture: 1
+sciences: 1
+sciences and: 1
+sciences and religion: 1
+sciences and religion had: 1
+sculpture and: 1
+sculpture and the: 1
+sculpture and the magnificence: 1
+sculpture better: 1
+sculpture better architectural: 1
+sculpture better architectural designs: 1
+show that a: 1
+show that a great: 1
+silver: 1
+silver brass: 1
+silver brass etc: 1
+silver brass etc were: 1
+speaks of ores: 1
+speaks of ores swords: 1
+speak of their: 1
+speak of their greatness: 1
+statement and: 1
+statement and show: 1
+statement and show that: 1
+statues: 1
+statues architecture: 1
+statues architecture implements: 1
+statues architecture implements of: 1
+stephens: 1
+stephens and: 1
+stephens and catherwood: 1
+stephens and catherwood s: 1
+stupendous: 1
+stupendous ruins: 1
+stupendous ruins the: 1
+stupendous ruins the elegant: 1
+swords: 1
+swords cities: 1
+swords cities armies: 1
+swords cities armies etc: 1
+s researches: 1
+s researches in: 1
+s researches in central: 1
+testify of this: 1
+testify of this thing: 1
+than realized: 1
+than realized that: 1
+than realized that a: 1
+than what: 1
+than what are: 1
+than what are found: 1
+that book they: 1
+that book they would: 1
+that there was as: 1
+that the arts: 1
+that the arts sciences: 1
+that they are anxiously: 1
+that those things: 1
+that those things that: 1
+their conjectures were: 1
+their conjectures were more: 1
+their conjectures would: 1
+their conjectures would be: 1
+their greatness: 1
+their greatness the: 1
+their greatness the xxbookofmormon: 1
+their history: 1
+their history ed: 1
+their opinions: 1
+their opinions altered: 1
+their opinions altered uncertainty: 1
+their researches: 1
+their researches into: 1
+their researches into the: 1
+their ruins: 1
+their ruins speak: 1
+their ruins speak of: 1
+there being: 1
+there being great: 1
+there being great wars: 1
+there was as: 1
+there was as great: 1
+the arts: 1
+the arts sciences: 1
+the arts sciences and: 1
+the continent: 1
+the continent of: 1
+the continent of asia: 1
+the elegant: 1
+the elegant sculpture: 1
+the elegant sculpture and: 1
+the following in: 1
+the following in regard: 1
+the following will: 1
+the following will show: 1
+the levant: 1
+the levant could: 1
+the levant could boast: 1
+the magnificence: 1
+the magnificence of: 1
+the magnificence of the: 1
+the mounds: 1
+the mounds fortifications: 1
+the mounds fortifications statues: 1
+the ruins of guatemala: 1
+the ruins of the: 1
+the stupendous: 1
+the stupendous ruins: 1
+the stupendous ruins the: 1
+the xxbookofmormon speaks: 1
+the xxbookofmormon speaks of: 1
+the xxbookofmormon their: 1
+the xxbookofmormon their conjectures: 1
+the xxbookofmormon unfolds: 1
+the xxbookofmormon unfolds their: 1
+they are anxiously: 1
+they are anxiously prying: 1
+they would find that: 1
+they would find their: 1
+things that they: 1
+things that they are: 1
+thing the: 1
+thing the stupendous: 1
+thing the stupendous ruins: 1
+this continent as: 1
+this continent as on: 1
+this continent stephens: 1
+this continent stephens and: 1
+this continent that: 1
+this continent that the: 1
+this continent their: 1
+this continent their ruins: 1
+this country: 1
+this country in: 1
+this country in noticing: 1
+this statement and: 1
+this statement and show: 1
+this thing the: 1
+this thing the stupendous: 1
+those things: 1
+those things that: 1
+those things that they: 1
+to a very: 1
+to a very great: 1
+to examine the: 1
+to examine the xxbookofmormon: 1
+to there: 1
+to there being: 1
+to there being great: 1
+uncertainty and doubt: 1
+uncertainty and doubt would: 1
+unfolded in: 1
+unfolded in that: 1
+unfolded in that book: 1
+unfolds: 1
+unfolds their: 1
+unfolds their history: 1
+unfolds their history ed: 1
+very great: 1
+very great extent: 1
+very great extent and: 1
+wars the: 1
+wars the following: 1
+wars the following will: 1
+war of: 1
+war of husbandry: 1
+war of husbandry and: 1
+was as great: 1
+was as great and: 1
+were matters: 1
+were matters of: 1
+were matters of history: 1
+were more: 1
+were more than: 1
+were more than realized: 1
+were to examine: 1
+were to examine the: 1
+we extract: 1
+we extract the: 1
+we extract the following: 1
+what are found: 1
+what are found on: 1
+will show: 1
+would be changed: 1
+would be changed into: 1
+would be removed: 1
+would be removed and: 1
+would find that: 1
+would find that those: 1
+would find their: 1
+would find their conjectures: 1
+xxbookofmormon speaks: 1
+xxbookofmormon speaks of: 1
+xxbookofmormon speaks of ores: 1
+xxbookofmormon their: 1
+xxbookofmormon their conjectures: 1
+xxbookofmormon their conjectures would: 1
+xxbookofmormon unfolds: 1
+xxbookofmormon unfolds their: 1
+xxbookofmormon unfolds their history: 1

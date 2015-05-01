@@ -1,0 +1,394 @@
+subscribers: 3
+advance: 2
+in advance: 2
+subscribers and: 2
+1st of: 1
+1st of xxmonth: 1
+1st of xxmonth next: 1
+advance and: 1
+advance and to: 1
+advance and to continue: 1
+advance to: 1
+advance to stir: 1
+advance to stir up: 1
+agents: 1
+agents for: 1
+agents for new: 1
+agents for new subscribers: 1
+all that wish: 1
+all that wish the: 1
+all well: 1
+all well wishers: 1
+all well wishers to: 1
+amount of their: 1
+amount of their subscriptions: 1
+and agents: 1
+and agents for: 1
+and agents for new: 1
+and an extra: 1
+and an extra effort: 1
+and as the: 1
+and as the distance: 1
+and request: 1
+and request those: 1
+and request those in: 1
+and to continue: 1
+and to continue the: 1
+an extra: 1
+an extra effort: 1
+an extra effort by: 1
+are in advance: 1
+are in advance and: 1
+arrears: 1
+arrears to: 1
+arrears to remit: 1
+arrears to remit the: 1
+as it is entitled: 1
+as respectable: 1
+as respectable a: 1
+as respectable a standing: 1
+as the distance: 1
+as the distance to: 1
+as to invite: 1
+as to invite all: 1
+as well as to: 1
+a continuance: 1
+a continuance of: 1
+a continuance of the: 1
+a standing: 1
+a standing as: 1
+a standing as it: 1
+balance: 1
+balance due: 1
+balance due immediately: 1
+balance due immediately as: 1
+before the commencement: 1
+before the commencement of: 1
+by elders: 1
+by elders and: 1
+by elders and agents: 1
+by the church: 1
+by the church it: 1
+by way: 1
+by way of: 1
+by way of remembrance: 1
+cause of xxjesuschrist: 1
+cause of xxjesuschrist to: 1
+church it: 1
+church it represents: 1
+church it represents we: 1
+closes: 1
+closes this: 1
+closes this volume: 1
+closes this volume and: 1
+commencement of said: 1
+commencement of said volume: 1
+continuance: 1
+continuance of: 1
+continuance of the: 1
+continuance of the subscribers: 1
+continue the paper: 1
+continue the paper in: 1
+distance to: 1
+distance to many: 1
+distance to many of: 1
+due immediately: 1
+due immediately as: 1
+due immediately as well: 1
+effort by: 1
+effort by elders: 1
+effort by elders and: 1
+elders and agents: 1
+elders and agents for: 1
+entitled to: 1
+entitled to by: 1
+entitled to by the: 1
+extra: 1
+extra effort: 1
+extra effort by: 1
+extra effort by elders: 1
+for new: 1
+for new subscribers: 1
+for new subscribers and: 1
+for the papers: 1
+for the papers to: 1
+fourth volume: 1
+fourth volume which: 1
+fourth volume which we: 1
+four weeks: 1
+four weeks for: 1
+four weeks for the: 1
+great cause: 1
+great cause of: 1
+great cause of xxjesuschrist: 1
+immediately as: 1
+immediately as well: 1
+immediately as well as: 1
+invite all: 1
+invite all that: 1
+invite all that wish: 1
+in advance and: 1
+in advance and to: 1
+in advance to: 1
+in advance to stir: 1
+in arrears: 1
+in arrears to: 1
+in arrears to remit: 1
+in as: 1
+in as respectable: 1
+in as respectable a: 1
+is entitled: 1
+is entitled to: 1
+is entitled to by: 1
+it is entitled: 1
+it is entitled to: 1
+it represents: 1
+it represents we: 1
+it represents we solicit: 1
+make worthy: 1
+make worthy the: 1
+make worthy the patronage: 1
+many of our: 1
+many of our subscribers: 1
+mean to: 1
+mean to make: 1
+mean to make worthy: 1
+minds by: 1
+minds by way: 1
+minds by way of: 1
+more closes: 1
+more closes this: 1
+more closes this volume: 1
+new subscribers: 1
+new subscribers and: 1
+new subscribers and request: 1
+numbers more: 1
+numbers more closes: 1
+numbers more closes this: 1
+of all well: 1
+of all well wishers: 1
+of our subscribers: 1
+of our subscribers requires: 1
+of remembrance: 1
+of remembrance that: 1
+of remembrance that our: 1
+of said: 1
+of said volume: 1
+of said volume on: 1
+of their subscriptions: 1
+of their subscriptions before: 1
+of the subscribers: 1
+of the subscribers and: 1
+of xxjesuschrist to: 1
+of xxjesuschrist to send: 1
+of xxmonth next: 1
+on the 1st: 1
+on the 1st of: 1
+or four weeks: 1
+or four weeks for: 1
+our subscribers: 1
+our subscribers requires: 1
+our subscribers requires three: 1
+our terms: 1
+our terms are: 1
+our terms are in: 1
+papers to: 1
+papers to reach: 1
+papers to reach them: 1
+paper in: 1
+paper in as: 1
+paper in as respectable: 1
+patronage: 1
+patronage of: 1
+patronage of all: 1
+patronage of all well: 1
+reach them: 1
+reach them we: 1
+reach them we take: 1
+remembrance: 1
+remembrance that: 1
+remembrance that our: 1
+remembrance that our terms: 1
+remit: 1
+remit the: 1
+remit the balance: 1
+remit the balance due: 1
+represents: 1
+represents we: 1
+represents we solicit: 1
+represents we solicit a: 1
+request those: 1
+request those in: 1
+request those in arrears: 1
+requires three: 1
+requires three or: 1
+requires three or four: 1
+respectable a: 1
+respectable a standing: 1
+respectable a standing as: 1
+said volume: 1
+said volume on: 1
+said volume on the: 1
+send us: 1
+send us the: 1
+send us the amount: 1
+solicit: 1
+solicit a: 1
+solicit a continuance: 1
+solicit a continuance of: 1
+standing as: 1
+standing as it: 1
+standing as it is: 1
+stir up their: 1
+stir up their minds: 1
+subscribers and an: 1
+subscribers and an extra: 1
+subscribers and request: 1
+subscribers and request those: 1
+subscribers requires: 1
+subscribers requires three: 1
+subscribers requires three or: 1
+subscriptions: 1
+subscriptions before: 1
+subscriptions before the: 1
+subscriptions before the commencement: 1
+take the time: 1
+take the time in: 1
+terms are: 1
+terms are in: 1
+terms are in advance: 1
+that our terms: 1
+that our terms are: 1
+that wish: 1
+that wish the: 1
+that wish the fourth: 1
+their minds: 1
+their minds by: 1
+their minds by way: 1
+their subscriptions: 1
+their subscriptions before: 1
+their subscriptions before the: 1
+them we take: 1
+them we take the: 1
+the 1st: 1
+the 1st of: 1
+the 1st of xxmonth: 1
+the amount: 1
+the amount of: 1
+the amount of their: 1
+the balance: 1
+the balance due: 1
+the balance due immediately: 1
+the church it: 1
+the church it represents: 1
+the commencement of said: 1
+the distance: 1
+the distance to: 1
+the distance to many: 1
+the fourth volume: 1
+the fourth volume which: 1
+the great cause: 1
+the great cause of: 1
+the paper: 1
+the papers to: 1
+the papers to reach: 1
+the paper in: 1
+the paper in as: 1
+the patronage: 1
+the patronage of: 1
+the patronage of all: 1
+the subscribers: 1
+the subscribers and: 1
+the subscribers and an: 1
+the time in: 1
+the time in advance: 1
+this volume: 1
+this volume and: 1
+this volume and as: 1
+those in: 1
+those in arrears: 1
+those in arrears to: 1
+three numbers: 1
+three numbers more: 1
+three numbers more closes: 1
+three or four weeks: 1
+time in advance: 1
+time in advance to: 1
+to by the: 1
+to by the church: 1
+to continue the paper: 1
+to invite: 1
+to invite all: 1
+to invite all that: 1
+to make worthy: 1
+to make worthy the: 1
+to many: 1
+to many of: 1
+to many of our: 1
+to reach: 1
+to reach them: 1
+to reach them we: 1
+to remit: 1
+to remit the: 1
+to remit the balance: 1
+to send: 1
+to send us: 1
+to send us the: 1
+to stir: 1
+to stir up: 1
+to stir up their: 1
+to the great: 1
+to the great cause: 1
+up their: 1
+up their minds: 1
+up their minds by: 1
+us the: 1
+us the amount: 1
+us the amount of: 1
+volume and: 1
+volume and as: 1
+volume and as the: 1
+volume on: 1
+volume on the: 1
+volume on the 1st: 1
+volume which: 1
+volume which we: 1
+volume which we mean: 1
+way of: 1
+way of remembrance: 1
+way of remembrance that: 1
+weeks: 1
+weeks for: 1
+weeks for the: 1
+weeks for the papers: 1
+well as to: 1
+well as to invite: 1
+well wishers: 1
+well wishers to: 1
+well wishers to the: 1
+we mean: 1
+we mean to: 1
+we mean to make: 1
+we solicit: 1
+we solicit a: 1
+we solicit a continuance: 1
+we take: 1
+we take the: 1
+we take the time: 1
+which we mean: 1
+which we mean to: 1
+wishers: 1
+wishers to: 1
+wishers to the: 1
+wishers to the great: 1
+wish the: 1
+wish the fourth: 1
+wish the fourth volume: 1
+worthy: 1
+worthy the: 1
+worthy the patronage: 1
+worthy the patronage of: 1
+xxjesuschrist to: 1
+xxjesuschrist to send: 1
+xxjesuschrist to send us: 1
+xxmonth next: 1

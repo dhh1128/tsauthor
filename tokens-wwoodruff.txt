@@ -1,14 +1,19 @@
 in this land: 4
+elder xxlastname: 8
 and seasons: 5
 seer: 5
 the times: 5
 the times and: 5
 the times and seasons: 5
 times and seasons: 5
+spent: 7
 before his death: 4
 his death: 4
+that he would: 4
 the printing: 6
+all our: 3
 and counsel: 3
+at least: 3
 counsel of: 3
 mountains: 3
 presidency: 3
@@ -16,8 +21,10 @@ seer and: 3
 trials: 3
 we had: 3
 wishes: 3
+interesting: 4
 reward: 4
 star: 4
+the saints in: 4
 the star: 4
 xxlastname of: 4
 appeal: 3
@@ -32,9 +39,13 @@ of the times: 3
 of the times and: 3
 of the twelve to: 3
 prayers: 3
+saints the: 3
+the saints the: 3
 we visited: 3
+zion and: 3
 according to the law: 2
 against the saints: 2
+amount of: 2
 ancient prophets: 2
 and among: 2
 and a man: 2
@@ -45,6 +56,7 @@ and govern the: 2
 and instruction: 2
 and raise: 2
 and revelator: 2
+and to the: 2
 and xxfirstname xxlastname were: 2
 appointed to: 2
 army: 2
@@ -98,6 +110,7 @@ have every: 2
 have no doubt: 2
 have no doubt but: 2
 he lived: 2
+he spoke: 2
 him in his: 2
 his place: 2
 influence to: 2
@@ -116,6 +129,7 @@ joseph had: 2
 last dispensation: 2
 law of the: 2
 lay before: 2
+limited: 2
 limited to: 2
 made war: 2
 man of god: 2
@@ -163,6 +177,7 @@ stir up: 2
 strength and: 2
 take their: 2
 talent and: 2
+temple and: 2
 ten thousand: 2
 the ancient prophets: 2
 the church and the: 2
@@ -181,6 +196,7 @@ the principle of: 2
 the remarks: 2
 the rocky: 2
 the rocky mountains: 2
+the temple and: 2
 the trial: 2
 the twelve a: 2
 the xxstate: 2
