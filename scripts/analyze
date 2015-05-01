@@ -89,8 +89,10 @@ def prune1(authors):
                 if ' in ' in key:
                     if len(value) == 1:
                         to_prune.append((key[:key.find(' in ')], 'only in one doc'))
+                        to_prune.append((key, None))
                 elif value < 2:
                     to_prune.append((key, 'only appears one time'))
+                    to_prune.append(('%s in docs' % key, None))
             last_pruned = None
             to_prune.sort()
             for pair in to_prune:
@@ -156,8 +158,8 @@ class compare_by_distinctiveness:
         return n
 
 def analyze(authors):
-    prune1(info)
-    prune2(info)
+    prune1(authors)
+    prune2(authors)
     for author in authors:
         author_info = authors[author]
         comparer = compare_by_distinctiveness(authors, author)
